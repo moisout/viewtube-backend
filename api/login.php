@@ -5,7 +5,7 @@ require "../vendor/autoload.php";
 
 use \Firebase\JWT\JWT;
 
-header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Origin: {$_SERVER['HTTP_ORIGIN']}");
 header("Content-Type: application/json; charset=UTF-8");
 header("Access-Control-Allow-Methods: POST");
 header("Access-Control-Max-Age: 3600");
@@ -41,16 +41,19 @@ if (isset($data->username) && isset($data->password)) {
       $username = $row['username'];
       $password2 = $row['password'];
       $timestamp = new DateTime();
+      $expiration_timestamp = $timestamp->add(new DateInterval('P1D'));
 
       if (password_verify($password, $password2)) {
         $secret_key = $secret_jwt_key;
         $issuer_claim = "ViewTube";
         $audience_claim = "https://viewtube.eu";
         $issuedat_claim = $timestamp->format('U');
+        $expiration_claim = $expiration_timestamp->format('U');
         $token = array(
           "iss" => $issuer_claim,
           "aud" => $audience_claim,
           "iat" => $issuedat_claim,
+          "exp" => $expiration_claim,
           "data" => array(
             "id" => $id,
             "username" => $username

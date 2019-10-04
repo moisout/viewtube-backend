@@ -40,7 +40,10 @@ if (isset($data->username) && isset($data->password)) {
     if ($stmt->execute()) {
       http_response_code(200);
 
-      echo json_encode(array("message" => "Registration successful"));
+      echo json_encode(array(
+        "message" => "Registration successful",
+        "username" => $username
+      ));
     } else {
       http_response_code(400);
 

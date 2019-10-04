@@ -2,6 +2,7 @@
 include_once './config/database.php';
 include_once './config/secret.php';
 require "../vendor/autoload.php";
+
 use \Firebase\JWT\JWT;
 
 header("Access-Control-Allow-Origin: *");
@@ -18,35 +19,49 @@ $conn = $databaseService->getConnection();
 
 $data = json_decode(file_get_contents("php://input"));
 
-$authHeader = $_SERVER['PHP_AUTH_PW'];
+if (isset($_SERVER['HTTP_AUTHORIZATION'])) {
+    $authHeader = $_SERVER['HTTP_AUTHORIZATION'];
 
-$arr = explode(" ", $authHeader);
+    $jwtArr = explode(" ", $authHeader);
 
-/*echo json_encode(array(
-    "message" => "sd" .$arr[1]
-));*/
+    $jwt = "";
 
-$jwt = $arr[1];
+    if (count($jwtArr) >= 1) {
+        $jwt = $jwtArr[1];
+    } else {
+        $jwt = $jwtArr[0];
+    }
 
-if($jwt){
- 
-    try {
- 
-        $decoded = JWT::decode($jwt, $secret_key, array('HS256'));
+    if ($jwt) {
+
+        try {
+
+            $decoded = JWT::decode($jwt, $secret_key, array('HS256'));
+
+            echo json_encode(array(
+                "message" => "Access granted: " . $jwt
+            ));
+        } catch (Exception $e) {
+            http_response_code(401);
+
+            echo json_encode(array(
+                "message" => "Access denied.",
+                "error" => $e->getMessage()
+            ));
+        }
+    } else {
+        http_response_code(401);
 
         echo json_encode(array(
-            "message" => "Access granted: ".$jwt,
-            "error" => $e->getMessage()
+            "message" => "Access denied",
+            "error" => "Invalid token"
         ));
- 
-    }catch (Exception $e){
- 
+    }
+} else {
     http_response_code(401);
- 
+
     echo json_encode(array(
-        "message" => "Access denied.",
-        "error" => $e->getMessage()
+        "message" => "Access denied",
+        "error" => "Token not set"
     ));
-}
- 
 }
