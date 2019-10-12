@@ -1,3 +1,5 @@
 vendor
 composer.lock
 api/config/
+config/database.php
+config/secret.php
