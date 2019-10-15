@@ -22,8 +22,10 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
 
   $data = json_decode(file_get_contents("php://input"));
 
-  if (isset($_SERVER['HTTP_AUTHORIZATION'])) {
-    $authHeader = $_SERVER['HTTP_AUTHORIZATION'];
+  $headers = apache_request_headers();
+
+  if (isset($headers['Authorization'])) {
+    $authHeader = $headers['Authorization'];
 
     $jwtArr = explode(" ", $authHeader);
 
