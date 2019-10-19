@@ -1,6 +1,6 @@
 <?php
-include_once './config/database.php';
-include_once './config/secret.php';
+include_once '../config/database.php';
+include_once '../config/secret.php';
 require "../vendor/autoload.php";
 
 use \Firebase\JWT\JWT;

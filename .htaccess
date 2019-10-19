@@ -1,4 +1,6 @@
- <IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
- </IfModule>
+<IfModule mod_rewrite.c>
+   RewriteEngine On
+   RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+   
+</IfModule>
