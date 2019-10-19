@@ -1,7 +1,8 @@
 <?php
-include_once './config/database.php';
+include_once '../config/database.php';
+include_once '../config/secret.php';
 
-header("Access-Control-Allow-Origin: https://viewtube.eu");
+header("Access-Control-Allow-Origin: " . $corsOrigin);
 header("Content-Type: application/json; charset=UTF-8");
 header("Access-Control-Allow-Methods: POST, OPTIONS");
 header("Access-Control-Max-Age: 3600");
