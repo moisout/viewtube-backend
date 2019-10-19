@@ -1,0 +1,534 @@
+{
+    "subscriptions": [
+        {
+            "link": [
+                {
+                    "@attributes": {
+                        "rel": "self",
+                        "href": "http://www.youtube.com/feeds/videos.xml?channel_id=UCMiJRAwDNSNzuYeN2uWa0pA"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "rel": "alternate",
+                        "href": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    }
+                }
+            ],
+            "id": "yt:channel:UCMiJRAwDNSNzuYeN2uWa0pA",
+            "title": "Mrwhosetheboss",
+            "author": {
+                "name": "Mrwhosetheboss",
+                "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+            },
+            "published": "2011-04-20T12:10:24+00:00",
+            "entry": [
+                {
+                    "id": "yt:video:14x5n_oNEV4",
+                    "title": "What you didn't know about Apple.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=14x5n_oNEV4"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-10-18T13:39:15+00:00",
+                    "updated": "2019-10-18T13:39:16+00:00"
+                },
+                {
+                    "id": "yt:video:085_hlIcLu8",
+                    "title": "Google Pixel 4 - The Complicated Truth.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=085_hlIcLu8"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-10-16T08:00:02+00:00",
+                    "updated": "2019-10-16T08:00:03+00:00"
+                },
+                {
+                    "id": "yt:video:leBccIkULds",
+                    "title": "The Ultimate iPhone 11 Pro Camera.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=leBccIkULds"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-10-12T14:35:18+00:00",
+                    "updated": "2019-10-17T19:23:47+00:00"
+                },
+                {
+                    "id": "yt:video:zFv8NV29P2Y",
+                    "title": "OnePlus 7T Pro vs Samsung Galaxy Note 10 Plus!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=zFv8NV29P2Y"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-10-10T15:59:35+00:00",
+                    "updated": "2019-10-17T19:51:30+00:00"
+                },
+                {
+                    "id": "yt:video:788E-ATJ3pk",
+                    "title": "The Ultimate iPhone Comparison.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=788E-ATJ3pk"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-10-05T08:48:31+00:00",
+                    "updated": "2019-10-08T17:09:00+00:00"
+                },
+                {
+                    "id": "yt:video:_OeUe9DTvN0",
+                    "title": "Dear Smartphone Companies.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=_OeUe9DTvN0"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-29T12:01:49+00:00",
+                    "updated": "2019-10-02T06:43:35+00:00"
+                },
+                {
+                    "id": "yt:video:k4bs5rdZy6k",
+                    "title": "OnePlus 7T vs iPhone 11 vs Samsung S10 Camera Test Comparison!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=k4bs5rdZy6k"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-27T09:46:29+00:00",
+                    "updated": "2019-09-29T23:52:56+00:00"
+                },
+                {
+                    "id": "yt:video:tp-gaXL0HJw",
+                    "title": "OnePlus 7T Unboxing and Review.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=tp-gaXL0HJw"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-26T14:58:14+00:00",
+                    "updated": "2019-09-28T21:02:44+00:00"
+                },
+                {
+                    "id": "yt:video:VFYAACe2Nmk",
+                    "title": "Huawei Mate 30 Pro vs iPhone 11 Pro Max / iPhone 11 / Samsung Note 10+ Battery Test",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=VFYAACe2Nmk"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-24T09:10:49+00:00",
+                    "updated": "2019-10-14T12:53:46+00:00"
+                },
+                {
+                    "id": "yt:video:ZSZoudGOnDk",
+                    "title": "Huawei Mate 30 Pro vs iPhone 11 Pro Max vs Samsung Note 10 Plus Camera Test Comparison!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=ZSZoudGOnDk"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-23T07:57:16+00:00",
+                    "updated": "2019-09-25T23:17:00+00:00"
+                },
+                {
+                    "id": "yt:video:x142pNM5bgM",
+                    "title": "Huawei Mate 30 Pro is SO good it hurts.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=x142pNM5bgM"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-19T18:57:09+00:00",
+                    "updated": "2019-09-22T04:31:24+00:00"
+                },
+                {
+                    "id": "yt:video:9gKYWjA5OkA",
+                    "title": "15 Smartphone Gadgets for 2019.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=9gKYWjA5OkA"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-18T13:36:38+00:00",
+                    "updated": "2019-10-13T15:26:28+00:00"
+                },
+                {
+                    "id": "yt:video:-EB5Q5yFD7U",
+                    "title": "Vivo NEX 3 vs Samsung Galaxy Note 10 Plus",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=-EB5Q5yFD7U"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-16T13:40:33+00:00",
+                    "updated": "2019-09-20T19:19:03+00:00"
+                },
+                {
+                    "id": "yt:video:dSKALhlsuE8",
+                    "title": "35 Hidden Android Features.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=dSKALhlsuE8"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-12T10:44:59+00:00",
+                    "updated": "2019-09-14T22:51:48+00:00"
+                },
+                {
+                    "id": "yt:video:HJtHw2U_esA",
+                    "title": "What you didn't know about Huawei.",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=HJtHw2U_esA"
+                        }
+                    },
+                    "author": {
+                        "name": "Mrwhosetheboss",
+                        "uri": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA"
+                    },
+                    "published": "2019-09-09T11:01:42+00:00",
+                    "updated": "2019-09-11T22:41:42+00:00"
+                }
+            ]
+        },
+        {
+            "link": [
+                {
+                    "@attributes": {
+                        "rel": "self",
+                        "href": "http://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "rel": "alternate",
+                        "href": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    }
+                }
+            ],
+            "id": "yt:channel:UCBJycsmduvYEL83R_U4JriQ",
+            "title": "Marques Brownlee",
+            "author": {
+                "name": "Marques Brownlee",
+                "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+            },
+            "published": "2008-03-21T15:25:54+00:00",
+            "entry": [
+                {
+                    "id": "yt:video:zsEcLVHnxUM",
+                    "title": "OnePlus 7T Pro: Tiny Tweaks to Excellence!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=zsEcLVHnxUM"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-18T03:18:46+00:00",
+                    "updated": "2019-10-18T14:34:54+00:00"
+                },
+                {
+                    "id": "yt:video:sKJ4i7p-o-4",
+                    "title": "Pixel 4 Impressions: Google and Gaps!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=sKJ4i7p-o-4"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-16T00:54:20+00:00",
+                    "updated": "2019-10-16T01:15:11+00:00"
+                },
+                {
+                    "id": "yt:video:JR4KHfqw-oE",
+                    "title": "This Is What Happens When You Re-Upload a YouTube Video 1000 Times!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=JR4KHfqw-oE"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-11T22:57:30+00:00",
+                    "updated": "2019-10-17T20:13:35+00:00"
+                },
+                {
+                    "id": "yt:video:5TuyvWoaAZk",
+                    "title": "Apple Watch Series 5 Review: One Big Tradeoff!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=5TuyvWoaAZk"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-09T22:01:10+00:00",
+                    "updated": "2019-10-17T19:11:23+00:00"
+                },
+                {
+                    "id": "yt:video:O6NiridP0Oo",
+                    "title": "Talking Tech & Meme Review with Will Smith!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=O6NiridP0Oo"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-08T00:35:19+00:00",
+                    "updated": "2019-10-11T19:50:42+00:00"
+                },
+                {
+                    "id": "yt:video:ux4R5GeKMUU",
+                    "title": "Talking Tech with Microsoft CEO Satya Nadella!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=ux4R5GeKMUU"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-03T18:38:19+00:00",
+                    "updated": "2019-10-10T20:25:50+00:00"
+                },
+                {
+                    "id": "yt:video:omyZvH7aMtg",
+                    "title": "Hands-on with Microsoft's Future Foldables!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=omyZvH7aMtg"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-02T17:55:35+00:00",
+                    "updated": "2019-10-05T02:22:07+00:00"
+                },
+                {
+                    "id": "yt:video:aeaBaTqmu8Q",
+                    "title": "2019 Microsoft Surface Family Impressions!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=aeaBaTqmu8Q"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-10-02T15:30:34+00:00",
+                    "updated": "2019-10-08T09:11:31+00:00"
+                },
+                {
+                    "id": "yt:video:OoY7zp8GkLI",
+                    "title": "iPhone 11 Review: Too Easy!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=OoY7zp8GkLI"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-09-30T19:31:38+00:00",
+                    "updated": "2019-10-06T09:40:48+00:00"
+                },
+                {
+                    "id": "yt:video:XRiUNPf-_-4",
+                    "title": "OnePlus 7T Review: High Refresh, Low Price!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=XRiUNPf-_-4"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-09-26T15:01:13+00:00",
+                    "updated": "2019-10-03T08:24:57+00:00"
+                },
+                {
+                    "id": "yt:video:DyX-QZZBgpw",
+                    "title": "iPhone 11 Pro Review: For the Love of Cameras!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=DyX-QZZBgpw"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-09-20T01:42:25+00:00",
+                    "updated": "2019-09-23T09:11:59+00:00"
+                },
+                {
+                    "id": "yt:video:QK8Se8CvyHc",
+                    "title": "Unboxing Every Green iPhone 11!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=QK8Se8CvyHc"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-09-17T10:01:00+00:00",
+                    "updated": "2019-09-25T15:02:59+00:00"
+                },
+                {
+                    "id": "yt:video:-5BsYYtyENw",
+                    "title": "Samsung Galaxy Fold Re-do: Everything New!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=-5BsYYtyENw"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-09-15T23:17:18+00:00",
+                    "updated": "2019-09-26T07:36:11+00:00"
+                },
+                {
+                    "id": "yt:video:-Wwe5OW_jPE",
+                    "title": "Asus ROG Phone 2 Review: The Spec King!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=-Wwe5OW_jPE"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-09-13T21:54:03+00:00",
+                    "updated": "2019-10-13T09:50:20+00:00"
+                },
+                {
+                    "id": "yt:video:5krV47BLyoQ",
+                    "title": "iPhone 11 Pro Impressions: What a Name!",
+                    "link": {
+                        "@attributes": {
+                            "rel": "alternate",
+                            "href": "https://www.youtube.com/watch?v=5krV47BLyoQ"
+                        }
+                    },
+                    "author": {
+                        "name": "Marques Brownlee",
+                        "uri": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+                    },
+                    "published": "2019-09-11T07:19:53+00:00",
+                    "updated": "2019-09-18T08:44:57+00:00"
+                }
+            ]
+        }
+    ]
+}

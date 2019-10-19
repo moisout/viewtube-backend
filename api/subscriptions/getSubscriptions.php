@@ -1,7 +1,8 @@
 <?php
-include_once './config/database.php';
-include_once './config/secret.php';
-require "../vendor/autoload.php";
+include_once '../config/database.php';
+include_once '../config/secret.php';
+include_once './subscriptions.php';
+require "../../vendor/autoload.php";
 
 use \Firebase\JWT\JWT;
 
@@ -17,8 +18,6 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
 
   $secret_key = $secret_jwt_key;
   $jwt = null;
-  $databaseService = new DatabaseService();
-  $conn = $databaseService->getConnection();
 
   $data = json_decode(file_get_contents("php://input"));
 
@@ -40,11 +39,44 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
     if ($jwt) {
 
       try {
-
         $decoded = JWT::decode($jwt, $secret_key, array('HS256'));
 
+        $userId = $decoded->data->id;
+
+        $subscriptions = getSubscribedChannels($userId);
+
+        $newestVideos = array();
+
+        foreach ($subscriptions as $key => $value) {
+          $queryUrl = 'https://www.youtube.com/feeds/videos.xml?channel_id=' . $value;
+          $videosRaw = file_get_contents($queryUrl);
+
+          $videosXml = simplexml_load_string($videosRaw);
+          $videosJson = json_encode($videosXml);
+
+          $videos = json_decode($videosJson, TRUE);
+
+          $videoEntries = $videos['entry'];
+
+          foreach ($videoEntries as $key => $value) {
+            $videoEntries[$key]['id'] = str_replace('yt:video:', '', $videoEntries[$key]['id']); 
+          }
+
+          $newestVideos = array_merge($newestVideos, $videoEntries);
+        }
+
+        function sortByDate($a, $b)
+        {
+          if ($a['published'] == $b['published']) {
+            return 0;
+          }
+          return ($a['published'] > $b['published']) ? -1 : 1;
+        }
+
+        usort($newestVideos, 'sortByDate');
+
         echo json_encode(array(
-          "username" => $decoded->data->username
+          "subscriptions" => $newestVideos
         ));
       } catch (Exception $e) {
         http_response_code(401);

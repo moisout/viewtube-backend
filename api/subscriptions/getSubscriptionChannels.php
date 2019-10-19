@@ -1,7 +1,8 @@
 <?php
-include_once './config/database.php';
-include_once './config/secret.php';
-require "../vendor/autoload.php";
+include_once '../config/database.php';
+include_once '../config/secret.php';
+include_once './subscriptions.php';
+require "../../vendor/autoload.php";
 
 use \Firebase\JWT\JWT;
 
@@ -17,8 +18,6 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
 
   $secret_key = $secret_jwt_key;
   $jwt = null;
-  $databaseService = new DatabaseService();
-  $conn = $databaseService->getConnection();
 
   $data = json_decode(file_get_contents("php://input"));
 
@@ -40,11 +39,14 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
     if ($jwt) {
 
       try {
-
         $decoded = JWT::decode($jwt, $secret_key, array('HS256'));
 
+        $userId = $decoded->data->id;
+
+        $subscriptions = getSubscribedChannels($userId);
+
         echo json_encode(array(
-          "username" => $decoded->data->username
+          "subscriptions" => $subscriptions
         ));
       } catch (Exception $e) {
         http_response_code(401);
