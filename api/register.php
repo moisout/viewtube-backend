@@ -1,6 +1,6 @@
 <?php
-include_once '../config/database.php';
-include_once '../config/secret.php';
+include_once './config/database.php';
+include_once './config/secret.php';
 
 header("Access-Control-Allow-Origin: " . $corsOrigin);
 header("Content-Type: application/json; charset=UTF-8");

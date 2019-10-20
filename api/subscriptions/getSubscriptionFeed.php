@@ -1,6 +1,6 @@
 <?php
-include_once '../../config/database.php';
-include_once '../../config/secret.php';
+include_once '.././config/database.php';
+include_once '.././config/secret.php';
 include_once './subscriptions.php';
 require "../../vendor/autoload.php";
 
@@ -59,10 +59,12 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
           $videoEntries = $videos['entry'];
 
           foreach ($videoEntries as $key => $value) {
-            $videoEntries[$key]['id'] = str_replace('yt:video:', '', $videoEntries[$key]['id']); 
+            $videoEntries[$key]['id'] = str_replace('yt:video:', '', $videoEntries[$key]['id']);
           }
 
-          $newestVideos = array_merge($newestVideos, $videoEntries);
+          $mappedVideos = mapSubscriptionVideoFeed($videoEntries);
+
+          $newestVideos = array_merge($newestVideos, $mappedVideos);
         }
 
         function sortByDate($a, $b)
