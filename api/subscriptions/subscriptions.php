@@ -25,6 +25,38 @@ function getSubscribedChannels($userId): array
   return $subscriptions;
 }
 
+function importSubscriptionsFromFile($data)
+{
+  $subscriptions = $data['body']['outline']['outline'];
+  $subscriptionIds = array();
+
+  foreach ($subscriptions as $key => $value) {
+    $sUrl = (string) $value['@attributes']['xmlUrl'];
+    $sId = str_replace('https://www.youtube.com/feeds/videos.xml?channel_id=', '', $sUrl);
+    array_push($subscriptionIds, $sId);
+  }
+  return $subscriptionIds;
+}
+
+function isSubscribedToChannel($userId, $channelId)
+{
+  $databaseService = new DatabaseService();
+  $conn = $databaseService->getConnection();
+
+  $table_name = 'subscriptions';
+
+  $query = "SELECT channelId FROM " . $table_name . " WHERE fkUserId = :userid AND channelId = :channelid";
+
+  $stmt = $conn->prepare($query);
+  $stmt->bindParam(':userid', $userId);
+  $stmt->bindParam(':channelid', $channelId);
+  $stmt->execute();
+
+  $num = $stmt->rowCount();
+
+  return $num > 0;
+}
+
 function addSubscribedChannel($userId, $channelId)
 {
   $databaseService = new DatabaseService();
@@ -53,6 +85,63 @@ function addSubscribedChannel($userId, $channelId)
 
     return true;
   }
+}
+
+function addSubscribedChannels($userId, $channelIds)
+{
+  $databaseService = new DatabaseService();
+  $conn = $databaseService->getConnection();
+
+  $table_name = 'subscriptions';
+
+  $channelIdsSql = array();
+
+  for ($i = 0; $i < count($channelIds); $i++) {
+    if ($i == 0) {
+      array_push($channelIdsSql, 'channelId = :channelid' . $i);
+    } else {
+      array_push($channelIdsSql, 'OR channelId = :channelid' . $i);
+    }
+  }
+
+  $query = "SELECT channelId FROM " . $table_name . " WHERE fkUserId = :userid AND (" . implode(' ', $channelIdsSql) . ")";
+
+  $stmt = $conn->prepare($query);
+  $stmt->bindParam(':userid', $userId);
+  foreach ($channelIds as $key => $value) {
+    $stmt->bindParam(':channelid' . $key, $value);
+  }
+  $stmt->execute();
+
+  $num = $stmt->rowCount();
+
+  $existingSubscriptionIds = array();
+
+  while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
+    $channelId = $row['channelId'];
+    array_push($existingSubscriptionIds, $channelId);
+  }
+
+  $subscriptionsToAdd = array_diff($channelIds, $existingSubscriptionIds);
+
+  $subscriptionsToAddSql = array();
+
+  for ($i = 0; $i < count($subscriptionsToAdd); $i++) {
+    if ($i == count($subscriptionsToAdd) - 1) {
+      array_push($subscriptionsToAddSql, '(:channelid' . $i . ', :userid)');
+    } else {
+      array_push($subscriptionsToAddSql, '(:channelid' . $i . ', :userid),');
+    }
+  }
+
+  $query = "INSERT INTO " . $table_name . " (channelId, fkUserId) VALUES " . implode(' ', $subscriptionsToAddSql);
+
+  $stmt = $conn->prepare($query);
+  $stmt->bindParam(':userid', $userId);
+  foreach ($subscriptionsToAdd as $key => $value) {
+    $stmt->bindParam(':channelid' . $key, $value);
+  }
+  $stmt->execute();
 }
 
 function removeSubscribedChannel($userId, $channelId)
