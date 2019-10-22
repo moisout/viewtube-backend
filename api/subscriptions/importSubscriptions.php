@@ -44,15 +44,24 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
                 if (isset($_FILES['subscription_manager'])) {
 
                     $data = getJsonFromXmlUrl($_FILES['subscription_manager']['tmp_name']);
+                    if ($data) {
 
-                    $subscriptions = importSubscriptionsFromFile($data);
+                        $subscriptions = importSubscriptionsFromFile($data);
 
-                    addSubscribedChannels($subscriptions);
+                        addSubscribedChannels($userId, $subscriptions);
 
-                    http_response_code(200);
-                    echo json_encode(array(
-                        "message" => $subscriptions
-                    ));
+                        http_response_code(200);
+                        echo json_encode(array(
+                            "message" => $subscriptions
+                        ));
+                    } else {
+                        http_response_code(400);
+
+                        echo json_encode(array(
+                            "message" => "invalid file",
+                            "error" => "error parsing file"
+                        ));
+                    }
                 } else {
                     http_response_code(400);
 

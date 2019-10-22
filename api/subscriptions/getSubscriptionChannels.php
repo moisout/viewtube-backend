@@ -71,12 +71,15 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
               foreach ($subscriptions as $key => $value) {
                 $channel = getJsonFromXmlUrl('https://www.youtube.com/feeds/videos.xml?channel_id=' . $value);
 
-                $mappedChannel = array(
-                  'author' => $channel['title'],
-                  'authorId' => str_replace('yt:channel:', '', $channel['id'])
-                );
+                if ($channel) {
 
-                array_push($channels, $mappedChannel);
+                  $mappedChannel = array(
+                    'author' => $channel['title'],
+                    'authorId' => str_replace('yt:channel:', '', $channel['id'])
+                  );
+
+                  array_push($channels, $mappedChannel);
+                }
               }
 
               http_response_code(200);

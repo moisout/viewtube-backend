@@ -49,22 +49,19 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
 
         foreach ($subscriptions as $key => $value) {
           $queryUrl = 'https://www.youtube.com/feeds/videos.xml?channel_id=' . $value;
-          $videosRaw = file_get_contents($queryUrl);
+          $videos = getJsonFromXmlUrl($queryUrl);
+          if ($videos) {
 
-          $videosXml = simplexml_load_string($videosRaw);
-          $videosJson = json_encode($videosXml);
+            $videoEntries = $videos['entry'];
 
-          $videos = json_decode($videosJson, TRUE);
+            foreach ($videoEntries as $key => $value) {
+              $videoEntries[$key]['id'] = str_replace('yt:video:', '', $videoEntries[$key]['id']);
+            }
 
-          $videoEntries = $videos['entry'];
+            $mappedVideos = mapSubscriptionVideoFeed($videoEntries);
 
-          foreach ($videoEntries as $key => $value) {
-            $videoEntries[$key]['id'] = str_replace('yt:video:', '', $videoEntries[$key]['id']);
+            $newestVideos = array_merge($newestVideos, $mappedVideos);
           }
-
-          $mappedVideos = mapSubscriptionVideoFeed($videoEntries);
-
-          $newestVideos = array_merge($newestVideos, $mappedVideos);
         }
 
         function sortByDate($a, $b)

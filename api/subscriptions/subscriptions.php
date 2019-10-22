@@ -255,12 +255,21 @@ function time_elapsed_string($datetime, $full = false)
 
 function getJsonFromXmlUrl($url)
 {
-  $queryUrl = $url;
-  $raw = file_get_contents($queryUrl);
+  if (getHttpResponseCode($url) == "200") {
+    $raw = file_get_contents($url);
 
-  $xml = simplexml_load_string($raw);
-  $json = json_encode($xml);
+    $xml = simplexml_load_string($raw);
+    $json = json_encode($xml);
 
-  $result = json_decode($json, TRUE);
-  return $result;
+    $result = json_decode($json, TRUE);
+    return $result;
+  } else {
+    return false;
+  }
+}
+
+function getHttpResponseCode($url)
+{
+  $headers = get_headers($url);
+  return substr($headers[0], 9, 3);
 }

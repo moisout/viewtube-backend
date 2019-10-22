@@ -1,5 +1,8 @@
 {
     "require": {
         "firebase/php-jwt": "^5.0"
+    },
+    "scripts": {
+        "dev": "php -S 127.0.0.1:1842"
     }
 }
