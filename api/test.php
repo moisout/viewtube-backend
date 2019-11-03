@@ -14,6 +14,6 @@ $url = 'https://www.youtube.com/watch?v=clI1FoygWiU';
 
 $scraper = new Scraper();
 
-$response = $scraper->getVideoEndscreenData('clI1FoygWiU');
+$videoData = $scraper->scrapeVideoInfo('clI1FoygWiU');
 
-echo json_encode($response);
+echo json_encode($videoData);

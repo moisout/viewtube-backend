@@ -19,7 +19,7 @@ class Scraper
     return $text;
   }
 
-  private function scrapeVideoInfo($videoId)
+  public function scrapeVideoInfo($videoId)
   {
     $replaceBeginString = 'var ytplayer = ytplayer || {};ytplayer.config = ';
     $replaceEndString =  ';ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};(function() {if (!!window.yt && yt.player && yt.player.Application) {ytplayer.load();}}());';
@@ -42,20 +42,33 @@ class Scraper
     $videoData = $this->scrapeVideoInfo($videoId);
     $replaceBeginString = ')]}';
 
-    $endscreenUrl = $videoData['args']['player_response']['endscreen']['endscreenUrlRenderer']['url'];
+    if (array_key_exists('endscreen', $videoData['args']['player_response'])) {
+      $endscreenUrl = $videoData['args']['player_response']['endscreen']['endscreenUrlRenderer']['url'];
 
-    $endscreenRawData = file_get_contents('https:' . $endscreenUrl);
+      $endscreenRawData = file_get_contents('https:' . $endscreenUrl);
 
-    $endscreenRawData = str_replace($replaceBeginString, '', $endscreenRawData);
-    $endscreenRawData = trim(preg_replace('/\s+/', ' ', $endscreenRawData));
+      $endscreenRawData = str_replace($replaceBeginString, '', $endscreenRawData);
+      $endscreenRawData = trim(preg_replace('/\s+/', ' ', $endscreenRawData));
 
-    $endscreenData = $this->unescapeJsonText($endscreenRawData);
+      $endscreenData = $this->unescapeJsonText($endscreenRawData);
 
-    $endscreenData = json_decode($endscreenData, TRUE);
+      $endscreenData = json_decode($endscreenData, TRUE);
 
+      $mapper = new Mapper();
+      $mappedEndscreenData = $mapper->mapEndscreenData($endscreenData);
+
+      return $mappedEndscreenData;
+    } else {
+      return false;
+    }
+  }
+
+  public function getVideoData($videoId)
+  {
+    $videoData = $this->scrapeVideoInfo($videoId);
     $mapper = new Mapper();
-    $mappedEndscreenData = $mapper->mapEndscreenData($endscreenData);
+    $mappedVideoData = $mapper->mapVideoData($videoData);
 
-    return $mappedEndscreenData;
+    return $mappedVideoData;
   }
 }
