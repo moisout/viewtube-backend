@@ -74,6 +74,8 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
 
         usort($newestVideos, 'sortByDate');
 
+        $newestVideos = array_slice($newestVideos, 0, 40);
+
         echo json_encode(array(
           "subscriptions" => $newestVideos
         ));
