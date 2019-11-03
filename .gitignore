@@ -3,3 +3,5 @@ composer.lock
 api/config/
 config/database.php
 config/secret.php
+out/linecount.json
+out/linecount.txt
