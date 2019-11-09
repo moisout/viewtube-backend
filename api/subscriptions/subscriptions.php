@@ -25,6 +25,35 @@ function getSubscribedChannels($userId): array
   return $subscriptions;
 }
 
+function set_cache_array($array, $userId)
+{
+  $filename = dirname(__FILE__) . '\cache\subscriptions' . $userId . '.php';
+  if (file_exists($filename)) {
+    unlink($filename);
+  }
+  $file = fopen($filename, 'w');
+  $date = new DateTime('+15 minutes');
+  fwrite($file, '<?php $date = ' . $date->format('U') . '; $subscriptionFeedArray = ' . var_export($array, true) . ';');
+  fclose($file);
+
+  return $filename;
+}
+
+function get_cache_array($userId)
+{
+  $filename = dirname(__FILE__) . '\cache\subscriptions' . $userId . '.php';
+  if (file_exists($filename)) {
+
+    include_once('cache/subscriptions' . $userId . '.php');
+
+    if (date_create_from_format('U', $date) > date_create()) {
+      return $subscriptionFeedArray;
+    }
+  }
+
+  return false;
+}
+
 function importSubscriptionsFromFile($data)
 {
   $subscriptions = $data['body']['outline']['outline'];

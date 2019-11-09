@@ -43,36 +43,45 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
 
         $userId = $decoded->data->id;
 
-        $subscriptions = getSubscribedChannels($userId);
+        $cachedVideos = get_cache_array($userId);
 
         $newestVideos = array();
 
-        foreach ($subscriptions as $key => $value) {
-          $queryUrl = 'https://www.youtube.com/feeds/videos.xml?channel_id=' . $value;
-          $videos = getJsonFromXmlUrl($queryUrl);
-          if ($videos) {
+        if ($cachedVideos == false) {
 
-            $videoEntries = $videos['entry'];
+          $subscriptions = getSubscribedChannels($userId);
 
-            foreach ($videoEntries as $key => $value) {
-              $videoEntries[$key]['id'] = str_replace('yt:video:', '', $videoEntries[$key]['id']);
+          foreach ($subscriptions as $key => $value) {
+            $queryUrl = 'https://www.youtube.com/feeds/videos.xml?channel_id=' . $value;
+            $videos = getJsonFromXmlUrl($queryUrl);
+            if ($videos) {
+
+              $videoEntries = $videos['entry'];
+
+              foreach ($videoEntries as $key => $value) {
+                $videoEntries[$key]['id'] = str_replace('yt:video:', '', $videoEntries[$key]['id']);
+              }
+
+              $mappedVideos = mapSubscriptionVideoFeed($videoEntries);
+
+              $newestVideos = array_merge($newestVideos, $mappedVideos);
             }
-
-            $mappedVideos = mapSubscriptionVideoFeed($videoEntries);
-
-            $newestVideos = array_merge($newestVideos, $mappedVideos);
           }
-        }
 
-        function sortByDate($a, $b)
-        {
-          if ($a['published'] == $b['published']) {
-            return 0;
+          function sortByDate($a, $b)
+          {
+            if ($a['published'] == $b['published']) {
+              return 0;
+            }
+            return ($a['published'] > $b['published']) ? -1 : 1;
           }
-          return ($a['published'] > $b['published']) ? -1 : 1;
-        }
 
-        usort($newestVideos, 'sortByDate');
+          usort($newestVideos, 'sortByDate');
+
+          set_cache_array($newestVideos, $userId);
+        } else {
+          $newestVideos = $cachedVideos;
+        }
 
         $newestVideos = array_slice($newestVideos, 0, 40);
 
