@@ -1,5 +1,401 @@
-<?php $date = 1573313372; $subscriptionFeedArray = array (
+<?php $date = 1573355991; $subscriptionFeedArray = array (
   0 => 
+  array (
+    'title' => 'Walking Spider House with Honey Blocks',
+    'videoId' => 'DUdjXVeDoNY',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/DUdjXVeDoNY/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/DUdjXVeDoNY/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/DUdjXVeDoNY/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/DUdjXVeDoNY/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T20:00:02+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Mumbo Jumbo',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
+  ),
+  1 => 
+  array (
+    'title' => 'Frankenstein GPU Cooling - IT\'S AWESOME',
+    'videoId' => 'm3YnpwAAHhM',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/m3YnpwAAHhM/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/m3YnpwAAHhM/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/m3YnpwAAHhM/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/m3YnpwAAHhM/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T19:59:08+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Linus Tech Tips',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
+  ),
+  2 => 
+  array (
+    'title' => 'Rossmann.Realty.S02E05 Let the negotiations commence',
+    'videoId' => '2o1TK3evwwI',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/2o1TK3evwwI/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/2o1TK3evwwI/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/2o1TK3evwwI/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/2o1TK3evwwI/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T19:58:09+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Louis Rossmann',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
+  ),
+  3 => 
+  array (
+    'title' => 'Rossmann.Realty.S02E04 Top 10 anime betrayals',
+    'videoId' => 'eCkzJzV9Rhc',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/eCkzJzV9Rhc/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/eCkzJzV9Rhc/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/eCkzJzV9Rhc/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/eCkzJzV9Rhc/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T19:47:36+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Louis Rossmann',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
+  ),
+  4 => 
+  array (
+    'title' => 'Rossmann.Realty.S02E03 Let\'s check it out.',
+    'videoId' => 'WUtcbw3NhcE',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/WUtcbw3NhcE/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/WUtcbw3NhcE/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/WUtcbw3NhcE/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/WUtcbw3NhcE/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T19:23:23+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Louis Rossmann',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
+  ),
+  5 => 
+  array (
+    'title' => 'Rossmann.Realty.S02E02 It was RIGHT UNDER my nose and I MISSED IT 😢',
+    'videoId' => 'K6kRGHhgyV4',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/K6kRGHhgyV4/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/K6kRGHhgyV4/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/K6kRGHhgyV4/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/K6kRGHhgyV4/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T19:15:18+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Louis Rossmann',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
+  ),
+  6 => 
+  array (
+    'title' => 'Rossmann Realty S02E01 We start over',
+    'videoId' => 'vHoQfYn09d8',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/vHoQfYn09d8/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/vHoQfYn09d8/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/vHoQfYn09d8/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/vHoQfYn09d8/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T18:53:34+00:00',
+    'publishedText' => '8 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Louis Rossmann',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
+  ),
+  7 => 
+  array (
+    'title' => 'Rossmann Realty Season 2 - PREMIERE!',
+    'videoId' => 'Fr_6LFRtv-M',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/Fr_6LFRtv-M/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/Fr_6LFRtv-M/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/Fr_6LFRtv-M/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/Fr_6LFRtv-M/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T18:48:49+00:00',
+    'publishedText' => '8 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Louis Rossmann',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
+  ),
+  8 => 
+  array (
+    'title' => '(CHALLENGE) You Lose You Laugh, Can you do it?',
+    'videoId' => 'ZFyqoXZHbvc',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/ZFyqoXZHbvc/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/ZFyqoXZHbvc/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/ZFyqoXZHbvc/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/ZFyqoXZHbvc/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T18:07:20+00:00',
+    'publishedText' => '8 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'PewDiePie',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+  ),
+  9 => 
   array (
     'title' => 'Wie geil ist das denn? -  Zeo und das Internet!',
     'videoId' => 'nlJWlGWrDts',
@@ -37,13 +433,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T13:00:09+00:00',
-    'publishedText' => '2 hours ago',
+    'publishedText' => '14 hours ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  1 => 
+  10 => 
   array (
     'title' => 'China Tries to Restrict Gaming - WAN Show Nov 8, 2019',
     'videoId' => 'zuyjg_AWubU',
@@ -81,13 +477,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T08:04:30+00:00',
-    'publishedText' => '7 hours ago',
+    'publishedText' => '19 hours ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  2 => 
+  11 => 
+  array (
+    'title' => 'YouTube has a huge problem...',
+    'videoId' => 'pWaz7ofl5wQ',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/pWaz7ofl5wQ/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/pWaz7ofl5wQ/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/pWaz7ofl5wQ/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/pWaz7ofl5wQ/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-09T04:00:09+00:00',
+    'publishedText' => '23 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  12 => 
   array (
     'title' => 'It\'s over, Intel.',
     'videoId' => 'VkDEUeqQUXY',
@@ -125,13 +565,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T01:33:43+00:00',
-    'publishedText' => '13 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  3 => 
+  13 => 
   array (
     'title' => 'Dell XPS 13 2-in-1 Showcase',
     'videoId' => 'o1MIhHdDUQk',
@@ -169,13 +609,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-08T20:04:48+00:00',
-    'publishedText' => '19 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  4 => 
+  14 => 
   array (
     'title' => 'Minecraft mobs I could beat in a fight💪🤴',
     'videoId' => 'mOwX1ZNY2Jc',
@@ -213,13 +653,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-08T19:09:59+00:00',
-    'publishedText' => '20 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  5 => 
+  15 => 
+  array (
+    'title' => 'Half Dead 2 w/ Jack and Bob',
+    'videoId' => 'zqD_ZC1MSTY',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/zqD_ZC1MSTY/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/zqD_ZC1MSTY/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/zqD_ZC1MSTY/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/zqD_ZC1MSTY/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-08T16:00:10+00:00',
+    'publishedText' => '1 day ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  16 => 
   array (
     'title' => 'Das haben wir auf Aliexpress gekauft!',
     'videoId' => 'aHAy-XOzOTs',
@@ -261,9 +745,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  6 => 
+  17 => 
   array (
     'title' => 'What Nokia has REALLY been working on.',
     'videoId' => 'OSRY-bJknqs',
@@ -305,9 +789,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  7 => 
+  18 => 
   array (
     'title' => 'iPhone 11 Pro vs Original iPhone!',
     'videoId' => 'zIjngBAxTr4',
@@ -345,13 +829,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T22:39:45+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  8 => 
+  19 => 
   array (
     'title' => 'Hermitcraft 6: Episode 132 - Secure the BUNKER',
     'videoId' => 'HBFggLja_ow',
@@ -389,13 +873,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T20:00:01+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  9 => 
+  20 => 
   array (
     'title' => 'Sometimes Apple just does it better - AirPods Pro Review',
     'videoId' => 'XziVC8YUE5M',
@@ -433,13 +917,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T19:41:16+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  10 => 
+  21 => 
   array (
     'title' => 'The BROFIST is declared a HATE SYMBOL! (this is bad)',
     'videoId' => 'F5QWUOAcg_Q',
@@ -477,13 +961,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T18:22:04+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  11 => 
+  22 => 
+  array (
+    'title' => 'BIGFOOT w/ JackSepticEye',
+    'videoId' => 'KjkyXkbxMzU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/KjkyXkbxMzU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/KjkyXkbxMzU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/KjkyXkbxMzU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/KjkyXkbxMzU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-07T16:00:04+00:00',
+    'publishedText' => '2 days ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  23 => 
   array (
     'title' => 'How can normal people help me on Right to Repair?',
     'videoId' => '-iYHTDch6Ng',
@@ -525,9 +1053,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  12 => 
+  24 => 
   array (
     'title' => 'Valve, you sly fox.',
     'videoId' => 'UcGH9XH147g',
@@ -565,13 +1093,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T02:07:47+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  13 => 
+  25 => 
+  array (
+    'title' => 'THIS MAN IS A CRIMINAL',
+    'videoId' => 'aJDB06tm2Rs',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/aJDB06tm2Rs/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/aJDB06tm2Rs/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/aJDB06tm2Rs/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/aJDB06tm2Rs/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-07T01:52:08+00:00',
+    'publishedText' => '3 days ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  26 => 
   array (
     'title' => 'Home 10 Gig Network Upgrade for CHEAP',
     'videoId' => 'b4Wp4SzdNj4',
@@ -609,13 +1181,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T20:31:07+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  14 => 
+  27 => 
   array (
     'title' => 'Blursed images is HILARIOUS',
     'videoId' => 'UrJVL3CftIU',
@@ -653,13 +1225,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T19:57:21+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  15 => 
+  28 => 
   array (
     'title' => 'Oha! Was ist denn DAS?!? - Zeo entdeckt Instagram',
     'videoId' => '9DDJ1I-L-Tg',
@@ -697,13 +1269,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T19:00:00+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  16 => 
+  29 => 
   array (
     'title' => 'First Time on the Internet (Internet at 50) - Computerphile',
     'videoId' => 'm4ErHic6gcA',
@@ -741,13 +1313,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T18:44:40+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  17 => 
+  30 => 
   array (
     'title' => 'Clinton the cat destroys a DJI Tello drone.',
     'videoId' => 'fAQszkppin0',
@@ -789,9 +1361,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  18 => 
+  31 => 
   array (
     'title' => 'Xiaomi Mi Note 10 Review - 108 Megapixel Madness.',
     'videoId' => 'RPoCsWIyZWg',
@@ -833,9 +1405,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  19 => 
+  32 => 
   array (
     'title' => 'Moving Cliffside Mansion with Honey Blocks',
     'videoId' => '91k7nTL4gf4',
@@ -873,13 +1445,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T20:00:01+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  20 => 
+  33 => 
   array (
     'title' => 'This guy has a PROBLEM - Tech Hoarders',
     'videoId' => 'hiLlNzxDfAg',
@@ -917,13 +1489,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T19:52:53+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  21 => 
+  34 => 
   array (
     'title' => 'I plant 20 000 000 Trees in Minecraft (Not Creative)',
     'videoId' => 'hT0uqXlZ70A',
@@ -961,13 +1533,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T17:32:58+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  22 => 
+  35 => 
   array (
     'title' => 'Handsome lobbyist DESTROYS repair with CHEEKBONES and BLUE EYES!',
     'videoId' => 'PD6UcT4KyEg',
@@ -1005,13 +1577,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T17:29:15+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  23 => 
+  36 => 
   array (
     'title' => 'Someone think of the children...',
     'videoId' => 'RlyQc6SH3u0',
@@ -1049,13 +1621,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T16:31:49+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  24 => 
+  37 => 
+  array (
+    'title' => 'A Heist with Markiplier | BEHIND THE SCENES',
+    'videoId' => '78ZMKQSXLUA',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/78ZMKQSXLUA/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/78ZMKQSXLUA/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/78ZMKQSXLUA/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/78ZMKQSXLUA/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-05T16:01:42+00:00',
+    'publishedText' => '4 days ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  38 => 
   array (
     'title' => 'Politician Dave Rogers speaks about Repair Bill',
     'videoId' => 'UsP20iivlKI',
@@ -1097,9 +1713,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  25 => 
+  39 => 
   array (
     'title' => 'Edge just wants to be Chrome...',
     'videoId' => '2VSFnIm8TMQ',
@@ -1137,13 +1753,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T01:33:35+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  26 => 
+  40 => 
   array (
     'title' => 'AirPods Pro Review: Imperfectly Perfect!',
     'videoId' => 'cG8PXdTlDag',
@@ -1181,13 +1797,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T01:21:56+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  27 => 
+  41 => 
   array (
     'title' => 'I Sold Her this $5000 Gaming PC for $20!',
     'videoId' => '5rwYjRzLHHI',
@@ -1225,13 +1841,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T19:25:24+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  28 => 
+  42 => 
   array (
     'title' => 'Dark Modes!',
     'videoId' => 'aHO6kcXAYoo',
@@ -1269,13 +1885,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T19:08:42+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  29 => 
+  43 => 
   array (
     'title' => 'First Contact (Internet at 50) - Computerphile',
     'videoId' => 'zqcoPrvXSqg',
@@ -1313,13 +1929,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T18:57:37+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  30 => 
+  44 => 
   array (
     'title' => '"Ok Boomer" - The ultimate Insult',
     'videoId' => 'AAUiyQyEARs',
@@ -1357,13 +1973,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T18:45:19+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  31 => 
+  45 => 
   array (
     'title' => 'Unge und Zeo REAGIEREN auf Knossi reagiert auf Zeos How to be Knossi | #ungeklickt',
     'videoId' => 'bZ3BRuJfD5I',
@@ -1401,13 +2017,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T16:00:06+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  32 => 
+  46 => 
+  array (
+    'title' => 'A Heist with Markiplier | BLOOPERS',
+    'videoId' => 'VzhFuf-B-N4',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/VzhFuf-B-N4/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/VzhFuf-B-N4/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/VzhFuf-B-N4/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/VzhFuf-B-N4/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-04T15:59:38+00:00',
+    'publishedText' => '5 days ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  47 => 
   array (
     'title' => 'Tariffs can be evaded by incumbents & act as barrier to new competition .',
     'videoId' => 'br8L9FD-Jw4',
@@ -1445,13 +2105,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T15:37:37+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  33 => 
+  48 => 
+  array (
+    'title' => 'EXTENDED CUT - Captain D\'s \'Could You Survive GHOSTBUSTERS\' Segment',
+    'videoId' => 'wl4HP24p2eU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/wl4HP24p2eU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/wl4HP24p2eU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/wl4HP24p2eU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/wl4HP24p2eU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-04T15:16:42+00:00',
+    'publishedText' => '5 days ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  49 => 
   array (
     'title' => 'The Fake Mac Pro Case is SHOCKINGLY GOOD',
     'videoId' => '518AWHLn3ZU',
@@ -1489,13 +2193,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-03T19:11:17+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  34 => 
+  50 => 
   array (
     'title' => 'THEY ACTUALLY DID THAT?! (mad)',
     'videoId' => 'LlW7Es7gStA',
@@ -1533,13 +2237,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-03T18:20:04+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  35 => 
+  51 => 
+  array (
+    'title' => 'The 12,020 Human SPACE Era Calendar 🚀',
+    'videoId' => 'f9uZ0REjIjo',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/f9uZ0REjIjo/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/f9uZ0REjIjo/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/f9uZ0REjIjo/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/f9uZ0REjIjo/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-03T13:29:35+00:00',
+    'publishedText' => '6 days ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  52 => 
   array (
     'title' => 'The Biggest Smartphone Unboxing EVER?',
     'videoId' => 'N9xiiVPa7ZU',
@@ -1581,9 +2329,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  36 => 
+  53 => 
   array (
     'title' => 'Lobbying 101: How to quash a bill through fearmongering featuring Sarah Faye Pierce.',
     'videoId' => 'lgUIsgMGTfU',
@@ -1621,13 +2369,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-03T01:08:42+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  37 => 
+  54 => 
   array (
     'title' => 'We went to Canada for something EPIC!',
     'videoId' => 'ar25iJORncI',
@@ -1665,13 +2413,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-02T23:28:50+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  38 => 
+  55 => 
   array (
     'title' => 'Right to Repair vs. Sarah Faye Pierce - AHAM lobbyist',
     'videoId' => 'rUFAyxbOFic',
@@ -1709,13 +2457,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-02T22:36:49+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  39 => 
+  56 => 
   array (
     'title' => 'Self Building Bridges with Honey Blocks',
     'videoId' => 'wEQvx-wpcrc',
@@ -1753,13 +2501,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-02T20:00:03+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  40 => 
+  57 => 
   array (
     'title' => 'We gave out GAMING PCs for Halloween!!',
     'videoId' => 'P3gqwkjDDa8',
@@ -1797,57 +2545,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-02T19:11:54+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  41 => 
-  array (
-    'title' => 'Macbook Air, no backlight repair: 820-3437 in very bad condition',
-    'videoId' => 'CElkBoJo8CY',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/CElkBoJo8CY/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/CElkBoJo8CY/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/CElkBoJo8CY/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/CElkBoJo8CY/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-11-02T18:14:18+00:00',
-    'publishedText' => '6 days ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
-  ),
-  42 => 
+  58 => 
   array (
     'title' => 'when you drop your phone while the screen is unlocked',
     'videoId' => 'EDMxOeDagXc',
@@ -1885,13 +2589,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-02T18:12:24+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  43 => 
+  59 => 
   array (
     'title' => 'I make PewDiePie\'s replacement 100 MIL subscriber award  (and mail it to him)',
     'videoId' => '2LoLE7iTCDM',
@@ -1933,9 +2637,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  44 => 
+  60 => 
   array (
     'title' => 'Wir haben unser Aquarium hermetisch verschlossen, was passiert weiter?',
     'videoId' => 'RjH0PbSbacs',
@@ -1977,9 +2681,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  45 => 
+  61 => 
   array (
     'title' => 'Google to Apple: WATCH OUT',
     'videoId' => 'OadjwPr3lP8',
@@ -2021,9 +2725,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  46 => 
+  62 => 
   array (
     'title' => 'YouTube P Score Drama - WAN Show Nov 1, 2019',
     'videoId' => 'rXz0veV1AuU',
@@ -2065,9 +2769,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  47 => 
+  63 => 
   array (
     'title' => 'Beats Solo Pro: Return to Excellence!',
     'videoId' => 'DHiKz_lCYMU',
@@ -2109,53 +2813,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  48 => 
-  array (
-    'title' => 'A1707 Macbook Pro not charging, stuck at 5v - the short that was only shorted when turned on.',
-    'videoId' => 'G1pSqm97j6s',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/G1pSqm97j6s/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/G1pSqm97j6s/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/G1pSqm97j6s/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/G1pSqm97j6s/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-11-01T20:50:00+00:00',
-    'publishedText' => '1 week ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
-  ),
-  49 => 
+  64 => 
   array (
     'title' => 'Kids are dumb.',
     'videoId' => 'UK15xIMc1DY',
@@ -2197,9 +2857,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  50 => 
+  65 => 
   array (
     'title' => 'Realistic Piston Elevators with Honey Blocks',
     'videoId' => 'q11J9ibl7zs',
@@ -2241,9 +2901,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  51 => 
+  66 => 
   array (
     'title' => 'The BEST Keyboards Under $75!',
     'videoId' => '9S-U5f140-U',
@@ -2285,9 +2945,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  52 => 
+  67 => 
   array (
     'title' => 'LG G8X Proves Foldables are Coming!',
     'videoId' => 'q2CdBFA98SI',
@@ -2329,9 +2989,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  53 => 
+  68 => 
   array (
     'title' => 'Rare Insults is a Treassure!',
     'videoId' => 'wnvaqGuiLlI',
@@ -2373,53 +3033,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  54 => 
-  array (
-    'title' => 'The most common Macbook Air logic board failure - how to fix.',
-    'videoId' => '7UBy7L3YzLg',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/7UBy7L3YzLg/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/7UBy7L3YzLg/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/7UBy7L3YzLg/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/7UBy7L3YzLg/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-10-31T04:01:19+00:00',
-    'publishedText' => '1 week ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
-  ),
-  55 => 
+  69 => 
   array (
     'title' => 'Not ANOTHER one...',
     'videoId' => 'jCWCuDKC6xU',
@@ -2461,9 +3077,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  56 => 
+  70 => 
   array (
     'title' => 'WTF is this thing? - RAM on a PCI Card??',
     'videoId' => 'bYbCYgYZVT8',
@@ -2505,9 +3121,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  57 => 
+  71 => 
   array (
     'title' => 'Digital Storytelling - Computerphile',
     'videoId' => '-Elq8f0X1g8',
@@ -2549,9 +3165,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  58 => 
+  72 => 
   array (
     'title' => 'We need to STOP INSTAGRAM Filters!',
     'videoId' => 'SsHGYhWpXZM',
@@ -2593,141 +3209,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  59 => 
+  73 => 
   array (
-    'title' => 'Presenting CTIA ANTI-repair lobbyist Lisa McCabe',
-    'videoId' => 'HYpL8Mn4Tcs',
+    'title' => 'A Heist with Markiplier',
+    'videoId' => '9TjfkXmwbTs',
     'videoThumbnails' => 
     array (
       0 => 
       array (
         'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/HYpL8Mn4Tcs/maxres.jpg',
+        'url' => 'https://invidio.us/vi/9TjfkXmwbTs/maxres.jpg',
         'width' => 1280,
         'height' => 720,
       ),
       1 => 
       array (
         'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/HYpL8Mn4Tcs/maxresdefault.jpg',
+        'url' => 'https://i.ytimg.com/vi/9TjfkXmwbTs/maxresdefault.jpg',
         'width' => 1280,
         'height' => 720,
       ),
       2 => 
       array (
         'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/HYpL8Mn4Tcs/sddefault.jpg',
+        'url' => 'https://i.ytimg.com/vi/9TjfkXmwbTs/sddefault.jpg',
         'width' => 640,
         'height' => 480,
       ),
       3 => 
       array (
         'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/HYpL8Mn4Tcs/hqdefault.jpg',
+        'url' => 'https://i.ytimg.com/vi/9TjfkXmwbTs/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
       ),
     ),
     'description' => '',
     'descriptionHtml' => '',
-    'published' => '2019-10-30T05:25:38+00:00',
+    'published' => '2019-10-30T15:00:03+00:00',
     'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
-    'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  60 => 
-  array (
-    'title' => 'Does Senator Michael Brady support right to repair?',
-    'videoId' => 'w49JGzcLglA',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/w49JGzcLglA/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/w49JGzcLglA/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/w49JGzcLglA/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/w49JGzcLglA/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-10-30T02:17:30+00:00',
-    'publishedText' => '1 week ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
-  ),
-  61 => 
-  array (
-    'title' => 'Jessa Jones of iPad Rehab speaks at Boston Legislature',
-    'videoId' => 'jVHhn1DcfT8',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/jVHhn1DcfT8/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/jVHhn1DcfT8/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/jVHhn1DcfT8/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/jVHhn1DcfT8/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-10-30T02:14:22+00:00',
-    'publishedText' => '1 week ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Louis Rossmann',
-    'authorId' => 'https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w',
-  ),
-  62 => 
+  74 => 
   array (
     'title' => 'Hermitcraft 6: Episode 131 - DON\'T DIE COMPOUND',
     'videoId' => 'sxC0K7KxllM',
@@ -2769,9 +3297,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  63 => 
+  75 => 
   array (
     'title' => 'Am I a Boomer?',
     'videoId' => 'feYE_0-Ts_w',
@@ -2813,9 +3341,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  64 => 
+  76 => 
   array (
     'title' => '4K Video Editing PC on a BUDGET',
     'videoId' => 'w_HKRUPN1Mk',
@@ -2857,9 +3385,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  65 => 
+  77 => 
+  array (
+    'title' => 'I need a favor...',
+    'videoId' => 'KL1wsC78D1s',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/KL1wsC78D1s/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/KL1wsC78D1s/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/KL1wsC78D1s/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/KL1wsC78D1s/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-29T15:00:04+00:00',
+    'publishedText' => '1 week ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  78 => 
   array (
     'title' => 'AirPods Pro Unboxing & Impressions!',
     'videoId' => 'MrUhzYdcX6w',
@@ -2901,9 +3473,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  66 => 
+  79 => 
   array (
     'title' => 'DIY Smart Mirror (that doesn\'t steam up!)',
     'videoId' => 'puFSdfIRNIw',
@@ -2945,9 +3517,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  67 => 
+  80 => 
   array (
     'title' => 'How to win the silicon lottery',
     'videoId' => 'bJhES0J5sT4',
@@ -2989,9 +3561,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  68 => 
+  81 => 
   array (
     'title' => 'Every other phone is dead to me. - Galaxy Fold Review',
     'videoId' => 'WGZh-xP-q7A',
@@ -3033,9 +3605,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  69 => 
+  82 => 
   array (
     'title' => 'You Cringe, You Cringe Challenge (Cringe)',
     'videoId' => 'ZcFmJ_sce68',
@@ -3077,9 +3649,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  70 => 
+  83 => 
+  array (
+    'title' => 'Try Not To Laugh Challenge #23',
+    'videoId' => 'F5tMDGRqUOk',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/F5tMDGRqUOk/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/F5tMDGRqUOk/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/F5tMDGRqUOk/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/F5tMDGRqUOk/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-28T15:00:02+00:00',
+    'publishedText' => '1 week ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  84 => 
   array (
     'title' => 'The realme X2 Pro surprised me.',
     'videoId' => 'SZpVGgZDVdY',
@@ -3121,9 +3737,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  71 => 
+  85 => 
   array (
     'title' => 'ASMR Coraline Welcomes You',
     'videoId' => 'Pe3VcHJz4ig',
@@ -3165,9 +3781,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  72 => 
+  86 => 
   array (
     'title' => 'Which is my worst CONTROVERSY?',
     'videoId' => 'Ce11NMlBOTo',
@@ -3209,53 +3825,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  73 => 
-  array (
-    'title' => 'Custom Water Cooled PC SPEED BUILD - Hydro X Series',
-    'videoId' => 'sa8eqMFIHVE',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/sa8eqMFIHVE/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/sa8eqMFIHVE/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/sa8eqMFIHVE/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/sa8eqMFIHVE/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-10-27T18:59:49+00:00',
-    'publishedText' => '1 week ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Linus Tech Tips',
-    'authorId' => 'https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw',
-  ),
-  74 => 
+  87 => 
   array (
     'title' => 'KeiNe ScHwÄchE ZeiGeN!',
     'videoId' => 'AO-mkQSQr8k',
@@ -3297,9 +3869,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  75 => 
+  88 => 
+  array (
+    'title' => 'THIS IS FINE...',
+    'videoId' => '2yUDgY8XmLA',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/2yUDgY8XmLA/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/2yUDgY8XmLA/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/2yUDgY8XmLA/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/2yUDgY8XmLA/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-27T15:00:33+00:00',
+    'publishedText' => '1 week ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  89 => 
   array (
     'title' => 'Honey Block Piston Doors are Crazy',
     'videoId' => '-3pu6byTs6o',
@@ -3337,13 +3953,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-26T19:00:01+00:00',
-    'publishedText' => '1 week ago',
+    'publishedText' => '2 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  76 => 
+  90 => 
   array (
     'title' => 'Try not to MIND BLOWN challenge!',
     'videoId' => 'ZQG91KPBNTk',
@@ -3381,13 +3997,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-26T17:14:46+00:00',
-    'publishedText' => '1 week ago',
+    'publishedText' => '2 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  77 => 
+  91 => 
+  array (
+    'title' => 'HUNTING the GOATMAN',
+    'videoId' => 'M4Z5OlNYrl4',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/M4Z5OlNYrl4/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/M4Z5OlNYrl4/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/M4Z5OlNYrl4/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/M4Z5OlNYrl4/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-26T15:00:02+00:00',
+    'publishedText' => '2 weeks ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  92 => 
   array (
     'title' => 'The Best 2019 Smartphone? - ft MKBHD',
     'videoId' => 'dJCA_RxBXuA',
@@ -3429,9 +4089,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  78 => 
+  93 => 
   array (
     'title' => 'Google broke my Home mini.',
     'videoId' => 'lnrfDw8gYH4',
@@ -3473,9 +4133,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  79 => 
+  94 => 
   array (
     'title' => 'Trees #TeamTrees',
     'videoId' => 'GbetzV4l4CY',
@@ -3517,53 +4177,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  80 => 
+  95 => 
   array (
-    'title' => 'This has to end..',
-    'videoId' => 'RzwcYXGQz9w',
+    'title' => 'Captain Disillusion on #TeamTrees',
+    'videoId' => 'IK7QXAUvCOA',
     'videoThumbnails' => 
     array (
       0 => 
       array (
         'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/RzwcYXGQz9w/maxres.jpg',
+        'url' => 'https://invidio.us/vi/IK7QXAUvCOA/maxres.jpg',
         'width' => 1280,
         'height' => 720,
       ),
       1 => 
       array (
         'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/RzwcYXGQz9w/maxresdefault.jpg',
+        'url' => 'https://i.ytimg.com/vi/IK7QXAUvCOA/maxresdefault.jpg',
         'width' => 1280,
         'height' => 720,
       ),
       2 => 
       array (
         'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/RzwcYXGQz9w/sddefault.jpg',
+        'url' => 'https://i.ytimg.com/vi/IK7QXAUvCOA/sddefault.jpg',
         'width' => 640,
         'height' => 480,
       ),
       3 => 
       array (
         'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/RzwcYXGQz9w/hqdefault.jpg',
+        'url' => 'https://i.ytimg.com/vi/IK7QXAUvCOA/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
       ),
     ),
     'description' => '',
     'descriptionHtml' => '',
-    'published' => '2019-10-25T17:07:51+00:00',
+    'published' => '2019-10-25T19:15:02+00:00',
     'publishedText' => '2 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
-    'author' => 'PewDiePie',
-    'authorId' => 'https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  81 => 
+  96 => 
   array (
     'title' => 'Why Are YouTube Kids Channels on Hulu Now?',
     'videoId' => 'Dgx8ajOES6E',
@@ -3605,9 +4265,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  82 => 
+  97 => 
+  array (
+    'title' => 'MULTIPLAYER HORROR IS SPOOKY  | Pacify (FULL GAME)',
+    'videoId' => 'WWrj56s1yGk',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/WWrj56s1yGk/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/WWrj56s1yGk/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/WWrj56s1yGk/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/WWrj56s1yGk/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-25T15:00:08+00:00',
+    'publishedText' => '2 weeks ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  98 => 
   array (
     'title' => 'paper-based stickers',
     'videoId' => '_GkCJmzXyJA',
@@ -3649,9 +4353,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  83 => 
+  99 => 
   array (
     'title' => 'Honey Blocks are now the best blocks',
     'videoId' => 'uEflwhBCFTE',
@@ -3693,9 +4397,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  84 => 
+  100 => 
   array (
     'title' => 'Warum lädt man das hoch?!? - Zeo und das Internet',
     'videoId' => 'uhJglSLJFkE',
@@ -3737,9 +4441,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  85 => 
+  101 => 
+  array (
+    'title' => 'Five Nights at Freddy\'s: Curse of Dreadbear',
+    'videoId' => 'oJtrQDfqgqU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/oJtrQDfqgqU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/oJtrQDfqgqU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/oJtrQDfqgqU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/oJtrQDfqgqU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-24T15:00:08+00:00',
+    'publishedText' => '2 weeks ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  102 => 
   array (
     'title' => 'Mystery Unboxing from Samsung.',
     'videoId' => 'Zl6BSmSHjEU',
@@ -3781,9 +4529,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  86 => 
+  103 => 
   array (
     'title' => '"Quantum Supremacy"',
     'videoId' => 'th-zdW5Wr80',
@@ -3825,9 +4573,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  87 => 
+  104 => 
   array (
     'title' => 'Vectoring Words (Word Embeddings) - Computerphile',
     'videoId' => 'gQddtTdmG_8',
@@ -3869,9 +4617,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  88 => 
+  105 => 
+  array (
+    'title' => 'A Heist with Markiplier | Official Trailer',
+    'videoId' => 'trYqU6kShPA',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/trYqU6kShPA/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/trYqU6kShPA/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/trYqU6kShPA/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/trYqU6kShPA/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-23T15:00:11+00:00',
+    'publishedText' => '2 weeks ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  106 => 
   array (
     'title' => 'The world\'s most dangerous fast food training video',
     'videoId' => 'xGCnd8nDdDE',
@@ -3913,9 +4705,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  89 => 
+  107 => 
+  array (
+    'title' => '3 SCARY GAMES #31',
+    'videoId' => 'J9xQNA5kq2g',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/J9xQNA5kq2g/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/J9xQNA5kq2g/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/J9xQNA5kq2g/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/J9xQNA5kq2g/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-22T15:00:05+00:00',
+    'publishedText' => '2 weeks ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  108 => 
   array (
     'title' => 'Google Pixel 4 Review: Inside the Hype Machine!',
     'videoId' => 'mfbSqTB74xM',
@@ -3957,9 +4793,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  90 => 
+  109 => 
   array (
     'title' => 'THAT\'S what it looks like!??',
     'videoId' => 'CdHc-xnrpsI',
@@ -4001,9 +4837,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  91 => 
+  110 => 
   array (
     'title' => 'Google Pixel 4 vs iPhone 11 Pro vs Samsung Note 10 Plus Camera Test Comparison!',
     'videoId' => 'yHvkpmL-NTY',
@@ -4045,9 +4881,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  92 => 
+  111 => 
   array (
     'title' => 'ASMR Pure Microphone Scratching ♥',
     'videoId' => 'fUJ8LdzSXOw',
@@ -4089,9 +4925,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  93 => 
+  112 => 
   array (
     'title' => 'Hermitcraft 6: Episode 130 - More INDUSTRY!',
     'videoId' => 'OLbeH6YXgSY',
@@ -4133,9 +4969,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  94 => 
+  113 => 
   array (
     'title' => 'Shirin Davids Kalender für die Community? - Zeo Talk and Comments',
     'videoId' => 'yAl_0wwlFR4',
@@ -4177,9 +5013,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  95 => 
+  114 => 
   array (
     'title' => '1 TAG IM WALD MIT DEUTSCHEM EPA',
     'videoId' => 'V190MlhD-6I',
@@ -4221,9 +5057,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  96 => 
+  115 => 
   array (
     'title' => 'It\'s coming BACK!!',
     'videoId' => 'StKLjzP2z98',
@@ -4265,9 +5101,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  97 => 
+  116 => 
   array (
     'title' => 'Optic Flow Solutions - Computerphile',
     'videoId' => '4v_keMNROv4',
@@ -4309,9 +5145,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  98 => 
+  117 => 
   array (
     'title' => 'What you didn\'t know about Apple.',
     'videoId' => '14x5n_oNEV4',
@@ -4353,9 +5189,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  99 => 
+  118 => 
   array (
     'title' => 'OnePlus 7T Pro: Tiny Tweaks to Excellence!',
     'videoId' => 'zsEcLVHnxUM',
@@ -4397,9 +5233,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  100 => 
+  119 => 
   array (
     'title' => 'ASMR Baking Blueberry Muffins',
     'videoId' => 'qPMZIeRi2rs',
@@ -4441,9 +5277,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  101 => 
+  120 => 
   array (
     'title' => 'Overwatch on Switch... is bad',
     'videoId' => 'rE-QUEUTjAs',
@@ -4485,9 +5321,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  102 => 
+  121 => 
   array (
     'title' => 'Optical Flow - Computerphile',
     'videoId' => '5AUypv5BNbI',
@@ -4529,9 +5365,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  103 => 
+  122 => 
   array (
     'title' => 'How to be KNOSSI',
     'videoId' => 'ewigmfgeODw',
@@ -4573,9 +5409,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  104 => 
+  123 => 
   array (
     'title' => 'Google Pixel 4 - The Complicated Truth.',
     'videoId' => '085_hlIcLu8',
@@ -4617,9 +5453,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  105 => 
+  124 => 
   array (
     'title' => 'Pixel 4... for real this time',
     'videoId' => 'h6uBB8nDenU',
@@ -4661,9 +5497,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  106 => 
+  125 => 
   array (
     'title' => 'Pixel 4 Impressions: Google and Gaps!',
     'videoId' => 'sKJ4i7p-o-4',
@@ -4705,9 +5541,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  107 => 
+  126 => 
   array (
     'title' => 'Honey Blocks: Here\'s what I Think',
     'videoId' => 'SLqwJ2tmYNE',
@@ -4749,9 +5585,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  108 => 
+  127 => 
   array (
     'title' => 'people who argue what the civil war was about',
     'videoId' => '-jbXggLSNR0',
@@ -4793,9 +5629,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  109 => 
+  128 => 
   array (
     'title' => 'Intel finally GETS it!',
     'videoId' => 'qwNRqVyKXQo',
@@ -4837,9 +5673,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  110 => 
+  129 => 
   array (
     'title' => 'ASMR Intense Tapping and Scratching ♥',
     'videoId' => '-q4jFTOpKpc',
@@ -4881,9 +5717,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  111 => 
+  130 => 
   array (
     'title' => 'WAS ESSEN IN DER FRANZOSISCHE ARMEE VS ENGLAND',
     'videoId' => 'UjhCnDweiLk',
@@ -4925,9 +5761,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  112 => 
+  131 => 
+  array (
+    'title' => 'What if We Nuke a City?',
+    'videoId' => '5iPH-br_eJQ',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/5iPH-br_eJQ/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/5iPH-br_eJQ/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/5iPH-br_eJQ/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/5iPH-br_eJQ/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-13T12:30:00+00:00',
+    'publishedText' => '3 weeks ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  132 => 
   array (
     'title' => 'Hermitcraft 6: Episode 129 - LEAVING SAHARA',
     'videoId' => 'gWkUvx5Li0s',
@@ -4965,13 +5845,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-12T18:30:01+00:00',
-    'publishedText' => '3 weeks ago',
+    'publishedText' => '4 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  113 => 
+  133 => 
   array (
     'title' => 'Was ist DAS? Warum gibt es diese WERBUNG? - Chill deine Basics',
     'videoId' => 'zR9EGT5INQ0',
@@ -5009,13 +5889,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-12T15:30:04+00:00',
-    'publishedText' => '3 weeks ago',
+    'publishedText' => '4 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  114 => 
+  134 => 
   array (
     'title' => 'The Ultimate iPhone 11 Pro Camera.',
     'videoId' => 'leBccIkULds',
@@ -5057,9 +5937,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  115 => 
+  135 => 
   array (
     'title' => '"Negative Latency"',
     'videoId' => 'COKCTyi7R90',
@@ -5101,9 +5981,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  116 => 
+  136 => 
   array (
     'title' => 'This Is What Happens When You Re-Upload a YouTube Video 1000 Times!',
     'videoId' => 'JR4KHfqw-oE',
@@ -5145,9 +6025,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  117 => 
+  137 => 
   array (
     'title' => 'OnePlus 7T Pro vs Samsung Galaxy Note 10 Plus!',
     'videoId' => 'zFv8NV29P2Y',
@@ -5189,9 +6069,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  118 => 
+  138 => 
   array (
     'title' => 'Porting Compilers - Computerphile',
     'videoId' => '9W0Vxa6eqjA',
@@ -5233,9 +6113,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  119 => 
+  139 => 
   array (
     'title' => 'ASMR  Relaxing Phrases in 10 Languages',
     'videoId' => 'pxWpxGVqohc',
@@ -5273,13 +6153,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-10T01:54:09+00:00',
-    'publishedText' => '4 weeks ago',
+    'publishedText' => '1 month ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  120 => 
+  140 => 
   array (
     'title' => 'This Phone WASN\'T Photoshopped.',
     'videoId' => 'tLUALcR2UP4',
@@ -5317,13 +6197,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-10T00:38:55+00:00',
-    'publishedText' => '4 weeks ago',
+    'publishedText' => '1 month ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'TechLinked',
-    'authorId' => 'https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA',
+    'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  121 => 
+  141 => 
   array (
     'title' => 'Apple Watch Series 5 Review: One Big Tradeoff!',
     'videoId' => '5TuyvWoaAZk',
@@ -5361,13 +6241,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-09T22:01:10+00:00',
-    'publishedText' => '4 weeks ago',
+    'publishedText' => '1 month ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  122 => 
+  142 => 
   array (
     'title' => 'potato chip boys',
     'videoId' => 'AfZP8ns1MuY',
@@ -5405,13 +6285,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-09T17:56:26+00:00',
-    'publishedText' => '4 weeks ago',
+    'publishedText' => '1 month ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  123 => 
+  143 => 
   array (
     'title' => 'Was sind das für Videos? - Zeo und das Internet',
     'videoId' => 'xWqMGTSolwA',
@@ -5449,13 +6329,13 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-09T16:00:11+00:00',
-    'publishedText' => '4 weeks ago',
+    'publishedText' => '1 month ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  124 => 
+  144 => 
   array (
     'title' => 'Halting Problem in Python - Computerphile',
     'videoId' => 'r__GZ7ubU0M',
@@ -5497,9 +6377,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  125 => 
+  145 => 
   array (
     'title' => 'Talking Tech & Meme Review with Will Smith!',
     'videoId' => 'O6NiridP0Oo',
@@ -5541,9 +6421,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  126 => 
+  146 => 
   array (
     'title' => 'ASMR Worst Reviewed Makeup Artist ft. B*tchy Brittney',
     'videoId' => 'AkQp1s5Sm9g',
@@ -5585,9 +6465,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  127 => 
+  147 => 
   array (
     'title' => 'Hermitcraft 6: Episode 128 - The Emerald GENERATOR!',
     'videoId' => 'iAyt7h1qC04',
@@ -5629,9 +6509,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  128 => 
+  148 => 
   array (
     'title' => '50 Fakten über uns! - Zeo und Carina',
     'videoId' => 'URI20LzKZeE',
@@ -5673,9 +6553,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  129 => 
+  149 => 
   array (
     'title' => 'I Made the Best Treehouse in Minecraft',
     'videoId' => 'JOpauE_EEjE',
@@ -5717,9 +6597,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  130 => 
+  150 => 
   array (
     'title' => 'Fun Google Secrets - Part 4',
     'videoId' => 'hdYiwt5b6ZY',
@@ -5761,9 +6641,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  131 => 
+  151 => 
   array (
     'title' => 'WIE MAN PILZE IM GARTEN ZÜCHTET! EXPERIMENT',
     'videoId' => 'y_D-5qQ34vs',
@@ -5805,9 +6685,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  132 => 
+  152 => 
   array (
     'title' => 'The Ultimate iPhone Comparison.',
     'videoId' => '788E-ATJ3pk',
@@ -5849,9 +6729,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  133 => 
+  153 => 
+  array (
+    'title' => 'Quick D: Gyro Drop',
+    'videoId' => 'LuM1IXl66B8',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/LuM1IXl66B8/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/LuM1IXl66B8/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/LuM1IXl66B8/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/LuM1IXl66B8/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-10-04T19:00:00+00:00',
+    'publishedText' => '1 month ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  154 => 
   array (
     'title' => 'Improving Intermediate Codes - Computerphile',
     'videoId' => 'TiJn9D6lZ-Y',
@@ -5893,9 +6817,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  134 => 
+  155 => 
   array (
     'title' => 'ASMR Fall Triggers To Help You Sleep 🎃',
     'videoId' => '7H_bFvZ-WY4',
@@ -5937,9 +6861,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  135 => 
+  156 => 
   array (
     'title' => 'Hermitcraft 6: Episode 126 - FREE DIAMONDS!',
     'videoId' => 'QoRL71AyCmo',
@@ -5981,9 +6905,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  136 => 
+  157 => 
   array (
     'title' => 'Talking Tech with Microsoft CEO Satya Nadella!',
     'videoId' => 'ux4R5GeKMUU',
@@ -6025,9 +6949,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  137 => 
+  158 => 
   array (
     'title' => 'Oh My God This Movie is the Worst',
     'videoId' => 'aZOZYpyZOqE',
@@ -6069,9 +6993,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  138 => 
+  159 => 
   array (
     'title' => '2000€ an kleine ZEOs Spenden! - Let\'s Sketch',
     'videoId' => 'C-Osrn4PwXQ',
@@ -6113,9 +7037,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  139 => 
+  160 => 
   array (
     'title' => 'Hands-on with Microsoft\'s Future Foldables!',
     'videoId' => 'omyZvH7aMtg',
@@ -6157,9 +7081,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  140 => 
+  161 => 
   array (
     'title' => '2019 Microsoft Surface Family Impressions!',
     'videoId' => 'aeaBaTqmu8Q',
@@ -6201,9 +7125,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  141 => 
+  162 => 
   array (
     'title' => 'Recursion \'Super Power\' (in Python) - Computerphile',
     'videoId' => '8lhxIOAfDss',
@@ -6245,9 +7169,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  142 => 
+  163 => 
   array (
     'title' => 'godforsaken country',
     'videoId' => '5jFIVxtiJpc',
@@ -6289,9 +7213,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  143 => 
+  164 => 
   array (
     'title' => 'ASMR Shaving and Trimming Your Beard',
     'videoId' => 'amFK-xgA9CU',
@@ -6333,9 +7257,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  144 => 
+  165 => 
   array (
     'title' => 'iPhone 11 Review: Too Easy!',
     'videoId' => 'OoY7zp8GkLI',
@@ -6377,9 +7301,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
-    'authorId' => 'https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ',
+    'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  145 => 
+  166 => 
   array (
     'title' => '25 Redstone Build Hacks in Minecraft',
     'videoId' => 'R9IJA68yRwg',
@@ -6421,9 +7345,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  146 => 
+  167 => 
   array (
     'title' => 'Domtendo, ich bin stolz auf dich! - Zeo Talk and Comments',
     'videoId' => 'fF-9HW9QXXQ',
@@ -6465,9 +7389,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  147 => 
+  168 => 
+  array (
+    'title' => 'The Billion Ant Mega Colony and the Biggest War on Earth',
+    'videoId' => 'cqECNYmM23A',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/cqECNYmM23A/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/cqECNYmM23A/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/cqECNYmM23A/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/cqECNYmM23A/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-09-29T12:30:01+00:00',
+    'publishedText' => '1 month ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  169 => 
   array (
     'title' => 'Dear Smartphone Companies.',
     'videoId' => '_OeUe9DTvN0',
@@ -6509,9 +7477,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  148 => 
+  170 => 
   array (
     'title' => 'Very Serious Business',
     'videoId' => 'ROaj3bCpZEM',
@@ -6553,9 +7521,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  149 => 
+  171 => 
   array (
     'title' => 'Wie man Wassermelone bis Silvester frisch hält! Zweites Experiment',
     'videoId' => '7raS8IiXRCw',
@@ -6597,9 +7565,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  150 => 
+  172 => 
   array (
     'title' => 'How did I turn Old Wire into a Beautiful GLOWING Bonsai? I\'ll show you',
     'videoId' => 'taF0nY9GqMg',
@@ -6641,9 +7609,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  151 => 
+  173 => 
   array (
     'title' => 'Computer Speeds - Computerphile',
     'videoId' => '0UnFN7yyMaA',
@@ -6685,9 +7653,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  152 => 
+  174 => 
   array (
     'title' => 'OnePlus 7T vs iPhone 11 vs Samsung S10 Camera Test Comparison!',
     'videoId' => 'k4bs5rdZy6k',
@@ -6729,53 +7697,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  153 => 
-  array (
-    'title' => 'Hermitcraft 6: Episode 125 - IT WORKS!',
-    'videoId' => 'HbBgatVbKZI',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/HbBgatVbKZI/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/HbBgatVbKZI/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/HbBgatVbKZI/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/HbBgatVbKZI/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-09-26T19:00:00+00:00',
-    'publishedText' => '1 month ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Mumbo Jumbo',
-    'authorId' => 'https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg',
-  ),
-  154 => 
+  175 => 
   array (
     'title' => 'OnePlus 7T Unboxing and Review.',
     'videoId' => 'tp-gaXL0HJw',
@@ -6817,9 +7741,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
-    'authorId' => 'https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA',
+    'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  155 => 
+  176 => 
   array (
     'title' => 'DIY Dual Screen Laptop! (100% DIY!)',
     'videoId' => 'J2aY6cvk-WI',
@@ -6861,9 +7785,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  156 => 
+  177 => 
   array (
     'title' => 'Jetzt REAGIERT auch noch TADDL auf mein Video!',
     'videoId' => 'DXsed3974Zc',
@@ -6905,9 +7829,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  157 => 
+  178 => 
   array (
     'title' => 'The Great Subway Jalapeño Scandal',
     'videoId' => '4vtbkW4-9EY',
@@ -6949,9 +7873,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  158 => 
+  179 => 
   array (
     'title' => 'ASMR Counting Down From 1,000 ♥',
     'videoId' => 'QmOTVw9cyuA',
@@ -6993,9 +7917,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  159 => 
+  180 => 
   array (
     'title' => 'VR with 3D Printed Props - Computerphile',
     'videoId' => 'EiUUFdUFyIU',
@@ -7037,9 +7961,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  160 => 
+  181 => 
   array (
     'title' => 'UKRAINISCHE LOTTERIE GEGEN POLNISCHE, WO GEWINNEN WIR MEHR?',
     'videoId' => 'yKoceCkcK6Y',
@@ -7081,9 +8005,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  161 => 
+  182 => 
   array (
     'title' => 'Wer lädt sowas hoch?!? - Zeo und das Internet',
     'videoId' => 'yNCFwo-AD0I',
@@ -7125,9 +8049,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  162 => 
+  183 => 
   array (
     'title' => 'OS Context Switching - Computerphile',
     'videoId' => 'DKmBRl8j3Ak',
@@ -7169,9 +8093,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  163 => 
+  184 => 
   array (
     'title' => 'Unge REAGIERT auf mein Video!',
     'videoId' => '4sDOHUpXz7U',
@@ -7213,9 +8137,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
-    'authorId' => 'https://www.youtube.com/channel/UCrQWlbBlEp8dCLMu4k2NgkA',
+    'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  164 => 
+  185 => 
   array (
     'title' => 'adam and eve talk to god',
     'videoId' => 'NmiA-6oA8FQ',
@@ -7257,9 +8181,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  165 => 
+  186 => 
   array (
     'title' => 'ASMR VSCO Girl Gives You Tingles',
     'videoId' => '8x6ktUmpv0Q',
@@ -7301,9 +8225,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  166 => 
+  187 => 
+  array (
+    'title' => 'What’s Hiding at the Most Solitary Place on Earth? The Deep Sea',
+    'videoId' => 'PaErPyEnDvk',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/PaErPyEnDvk/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/PaErPyEnDvk/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/PaErPyEnDvk/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/PaErPyEnDvk/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-09-15T12:30:01+00:00',
+    'publishedText' => '1 month ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  188 => 
   array (
     'title' => 'basically the new marlon wayans movie',
     'videoId' => '-tayfHUweLo',
@@ -7345,9 +8313,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  167 => 
+  189 => 
   array (
     'title' => 'Im Unterwasser-Terrarium ist etwas neues aufgetaucht, was ist das?',
     'videoId' => 'vWu4NMHwAI4',
@@ -7389,9 +8357,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  168 => 
+  190 => 
   array (
     'title' => 'The UNCOL Problem - Computerphile',
     'videoId' => 'pP_zIJSp3WA',
@@ -7433,9 +8401,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  169 => 
+  191 => 
   array (
     'title' => 'WAS ESSEN IN DER CHINESICHE ARMEE vs. EPA DER RUSSICHE ARMEE',
     'videoId' => 'by9mHENnFXI',
@@ -7477,9 +8445,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  170 => 
+  192 => 
   array (
     'title' => '\'Accidental\' CrossCompiler - Computerphile',
     'videoId' => '9kp0yUA-KgQ',
@@ -7521,9 +8489,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
-    'authorId' => 'https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA',
+    'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  171 => 
+  193 => 
   array (
     'title' => 'your friend who has been to the theme park before',
     'videoId' => 'Lp7Nh4EBEBg',
@@ -7565,9 +8533,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  172 => 
+  194 => 
+  array (
+    'title' => 'The Egg - A Short Story',
+    'videoId' => 'h6fcK_fRYaI',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/h6fcK_fRYaI/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/h6fcK_fRYaI/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/h6fcK_fRYaI/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/h6fcK_fRYaI/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-09-01T12:30:02+00:00',
+    'publishedText' => '2 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  195 => 
   array (
     'title' => 'Reading the Worst Small Town Casino Reviews',
     'videoId' => 'qYiJq4wJreQ',
@@ -7609,9 +8621,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  173 => 
+  196 => 
   array (
     'title' => 'ASMR Goodnight ♥  8 Triggers To Help You Sleep',
     'videoId' => 'AMVCuBI8Ln4',
@@ -7653,9 +8665,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  174 => 
+  197 => 
   array (
     'title' => 'WIR HABEN EIN SPIELZENTRUM AUS KARTON GEMACHT!',
     'videoId' => '6USBZHI1fm4',
@@ -7697,9 +8709,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  175 => 
+  198 => 
   array (
     'title' => 'I Carve the Sword from 300 out of wewd (ft Alec Steele)',
     'videoId' => 'R7_VopLhK9s',
@@ -7741,9 +8753,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  176 => 
+  199 => 
   array (
     'title' => 'DAS HABEN WIR AUF ALIEXPRESS GEKAUFT',
     'videoId' => 'xS-V_abiF5E',
@@ -7785,9 +8797,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  177 => 
+  200 => 
   array (
     'title' => 'your friends who get married after high school',
     'videoId' => 'BA3gIRyvn-k',
@@ -7829,9 +8841,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  178 => 
+  201 => 
   array (
     'title' => 'DIY Perks Studio Tour',
     'videoId' => 'Z0oGIc8dvJ4',
@@ -7873,9 +8885,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  179 => 
+  202 => 
   array (
     'title' => 'I Carve a Black Window into a Billiard Ball',
     'videoId' => 'aPuKMkGsg_0',
@@ -7917,9 +8929,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  180 => 
+  203 => 
   array (
     'title' => 'imbiamba jombes: big doom',
     'videoId' => 'i4RJ_0XRiXk',
@@ -7961,9 +8973,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  181 => 
+  204 => 
+  array (
+    'title' => 'Quick D: Static Helicopter Blades',
+    'videoId' => 'mPHsRcI5LLQ',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/mPHsRcI5LLQ/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/mPHsRcI5LLQ/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/mPHsRcI5LLQ/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/mPHsRcI5LLQ/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-08-12T18:59:58+00:00',
+    'publishedText' => '2 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  205 => 
   array (
     'title' => 'how they mix the audio for home release movies',
     'videoId' => 'NR98SmoCN0o',
@@ -8005,9 +9061,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  182 => 
+  206 => 
+  array (
+    'title' => 'The World War of the Ants – The Army Ant',
+    'videoId' => '7_e0CA_nhaE',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/7_e0CA_nhaE/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/7_e0CA_nhaE/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/7_e0CA_nhaE/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/7_e0CA_nhaE/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-08-11T12:30:00+00:00',
+    'publishedText' => '2 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  207 => 
   array (
     'title' => 'WAS ESSEN IN POLNISCHE VS UKRAINISCHE ARMEE?',
     'videoId' => 'HTibLh2PuqA',
@@ -8049,9 +9149,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  183 => 
+  208 => 
   array (
     'title' => 'The Universal S',
     'videoId' => 'RQdxHi4_Pvc',
@@ -8093,9 +9193,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  184 => 
+  209 => 
   array (
     'title' => 'Turning Smashed TVs into Realistic Artificial Daylight',
     'videoId' => '8JrqH2oOTK4',
@@ -8137,9 +9237,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  185 => 
+  210 => 
   array (
     'title' => 'how reddit handles internet justice',
     'videoId' => 'h4twYqvssu0',
@@ -8181,9 +9281,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Gus Johnson',
-    'authorId' => 'https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  186 => 
+  211 => 
   array (
     'title' => 'LEBENDE FISCHE VON ALIEXPRESS! WAS IST PASSIERT?',
     'videoId' => 'W1aAKkizwgA',
@@ -8225,9 +9325,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  187 => 
+  212 => 
   array (
     'title' => 'Going Camping at the End of the World',
     'videoId' => 'QynNpzqYt0Y',
@@ -8269,9 +9369,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  188 => 
+  213 => 
   array (
     'title' => 'ASMR Showering You In Compliments',
     'videoId' => 'Vb8PIBQbw7w',
@@ -8313,9 +9413,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  189 => 
+  214 => 
   array (
     'title' => 'The Awkward World of Sex Education',
     'videoId' => '3iEVZ4u5F6U',
@@ -8357,9 +9457,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  190 => 
+  215 => 
   array (
     'title' => 'ASMR Ear to Ear Trigger Words',
     'videoId' => 'U2iU8s3qCrQ',
@@ -8401,9 +9501,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  191 => 
+  216 => 
+  array (
+    'title' => 'Tiny Bombs in your Blood - The Complement System',
+    'videoId' => 'BSypUV6QUNw',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/BSypUV6QUNw/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/BSypUV6QUNw/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/BSypUV6QUNw/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/BSypUV6QUNw/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-07-28T12:30:54+00:00',
+    'publishedText' => '3 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  217 => 
   array (
     'title' => 'ASMR Area 51 Raid Prep (Let\'s see them aliens)',
     'videoId' => 'WefXr2_YewA',
@@ -8445,9 +9589,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  192 => 
+  218 => 
   array (
     'title' => 'WAS ESSEN IN DER US-ARMEE VS RUSSISCHE?',
     'videoId' => 'afV_AwSF0XA',
@@ -8489,9 +9633,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  193 => 
+  219 => 
   array (
     'title' => 'UNTERWASSER TERRARIUM – SIE SIND KANNIBALE',
     'videoId' => 'Yo0XPBRWS6A',
@@ -8533,9 +9677,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
-    'authorId' => 'https://www.youtube.com/channel/UC7VhV6tkAPJcz4aXe9qjSVA',
+    'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  194 => 
+  220 => 
   array (
     'title' => 'High-Performance DIY Acoustic Panels (Build Guide)',
     'videoId' => 'qczNxoG8s6o',
@@ -8577,9 +9721,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  195 => 
+  221 => 
   array (
     'title' => 'How To Carve a billiard ball into a SKULL',
     'videoId' => 'HuDX96t_a_4',
@@ -8621,9 +9765,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  196 => 
+  222 => 
+  array (
+    'title' => 'Could Your Phone Hurt You? Electromagnetic Pollution',
+    'videoId' => 'FfgT6zx4k3Q',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/FfgT6zx4k3Q/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/FfgT6zx4k3Q/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/FfgT6zx4k3Q/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/FfgT6zx4k3Q/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-07-07T12:31:14+00:00',
+    'publishedText' => '4 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  223 => 
   array (
     'title' => 'ASMR Countryside Shop',
     'videoId' => 'RrSEm6hiFeU',
@@ -8665,9 +9853,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
-    'authorId' => 'https://www.youtube.com/channel/UCikebqFWoT3QC9axUbXCPYw',
+    'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  197 => 
+  224 => 
   array (
     'title' => '100\'s of hours of work gone in seconds',
     'videoId' => 'YWaA-RPi5Zw',
@@ -8709,9 +9897,141 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  198 => 
+  225 => 
+  array (
+    'title' => 'CD / Interlacing ADDENDUM',
+    'videoId' => '_1yOwgXGKPM',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/_1yOwgXGKPM/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/_1yOwgXGKPM/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/_1yOwgXGKPM/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/_1yOwgXGKPM/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-06-20T18:30:00+00:00',
+    'publishedText' => '4 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  226 => 
+  array (
+    'title' => 'Cringing at Rick & Morty Memes w/ The Show\'s Creator Justin Roiland',
+    'videoId' => 'jrHz8Bti6FY',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/jrHz8Bti6FY/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/jrHz8Bti6FY/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/jrHz8Bti6FY/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/jrHz8Bti6FY/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-06-10T19:33:05+00:00',
+    'publishedText' => '4 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  227 => 
+  array (
+    'title' => 'Is Meat Bad for You? Is Meat Unhealthy?',
+    'videoId' => 'ouAccsTzlGU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/ouAccsTzlGU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/ouAccsTzlGU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/ouAccsTzlGU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/ouAccsTzlGU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-06-09T12:28:46+00:00',
+    'publishedText' => '5 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  228 => 
   array (
     'title' => 'Building a spectacular DIY \'desk PC\' (it can fold!)',
     'videoId' => 'QaoFh1DH51U',
@@ -8753,9 +10073,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  199 => 
+  229 => 
+  array (
+    'title' => 'CD / Interlacing',
+    'videoId' => '5eu_KjKsnpM',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/5eu_KjKsnpM/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/5eu_KjKsnpM/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/5eu_KjKsnpM/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/5eu_KjKsnpM/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-06-03T19:12:28+00:00',
+    'publishedText' => '5 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  230 => 
   array (
     'title' => 'The Biggest Failure of Our Childhood',
     'videoId' => 'dniuimymhfk',
@@ -8797,9 +10161,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  200 => 
+  231 => 
   array (
     'title' => 'Stranger Danger Films from the 90\'s are Insane',
     'videoId' => 'uszY3AkyBqA',
@@ -8841,9 +10205,97 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  201 => 
+  232 => 
+  array (
+    'title' => 'Our Lives Are About To Change Forever',
+    'videoId' => 'JNpKUp5FTeY',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/JNpKUp5FTeY/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/JNpKUp5FTeY/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/JNpKUp5FTeY/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/JNpKUp5FTeY/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-05-21T19:56:23+00:00',
+    'publishedText' => '5 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  233 => 
+  array (
+    'title' => 'Is the EU Democratic? Does Your Vote Matter?',
+    'videoId' => 'h4Uu5eyN6VU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/h4Uu5eyN6VU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-05-19T12:30:02+00:00',
+    'publishedText' => '5 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  234 => 
   array (
     'title' => 'Democratic Elections in the European Union [Swedish]',
     'videoId' => 'XJKv8XqO5zQ',
@@ -8885,9 +10337,97 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  202 => 
+  235 => 
+  array (
+    'title' => 'CD / Resolution',
+    'videoId' => '1unkluyh2Ks',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/1unkluyh2Ks/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/1unkluyh2Ks/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/1unkluyh2Ks/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/1unkluyh2Ks/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-05-14T18:59:59+00:00',
+    'publishedText' => '5 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  236 => 
+  array (
+    'title' => 'The Side Effects of Vaccines - How High is the Risk?',
+    'videoId' => 'zBkVCpbNnkU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/zBkVCpbNnkU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/zBkVCpbNnkU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/zBkVCpbNnkU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/zBkVCpbNnkU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-05-12T12:30:04+00:00',
+    'publishedText' => '5 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  237 => 
   array (
     'title' => 'I Turned Old Wewd into a Giant Hat',
     'videoId' => 'Y27Jtbx6tKE',
@@ -8929,9 +10469,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  203 => 
+  238 => 
+  array (
+    'title' => 'Instagram vs. Reality',
+    'videoId' => 'OX_Bini29kU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/OX_Bini29kU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/OX_Bini29kU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/OX_Bini29kU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/OX_Bini29kU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-05-08T22:49:56+00:00',
+    'publishedText' => '6 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  239 => 
   array (
     'title' => 'Gus and Eddy Hire an Online Psychic',
     'videoId' => 'Wy5ZJl7fAH8',
@@ -8973,9 +10557,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  204 => 
+  240 => 
+  array (
+    'title' => 'H3H3 Prankster Tier List',
+    'videoId' => 'gUU1HOj7o2k',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/gUU1HOj7o2k/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/gUU1HOj7o2k/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/gUU1HOj7o2k/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/gUU1HOj7o2k/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-05-04T17:34:08+00:00',
+    'publishedText' => '6 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  241 => 
   array (
     'title' => 'The Fall of 76',
     'videoId' => 'kjyeCdd-dl8',
@@ -9017,9 +10645,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  205 => 
+  242 => 
   array (
     'title' => 'What happened to DIY Perks?',
     'videoId' => 'yjdvpGK9TmE',
@@ -9061,9 +10689,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  206 => 
+  243 => 
   array (
     'title' => 'Killed by Google A to Z',
     'videoId' => '4s2an-SKZws',
@@ -9105,9 +10733,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  207 => 
+  244 => 
   array (
     'title' => 'The War on Bird Scooters',
     'videoId' => 'Ysh9ILpvBpg',
@@ -9149,9 +10777,97 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  208 => 
+  245 => 
+  array (
+    'title' => 'KFC Blocks Our Video',
+    'videoId' => 'S9rw7H6Guc0',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/S9rw7H6Guc0/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/S9rw7H6Guc0/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/S9rw7H6Guc0/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/S9rw7H6Guc0/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-04-20T22:05:49+00:00',
+    'publishedText' => '6 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  246 => 
+  array (
+    'title' => 'Vogue\'s 73 Questions is Stupid (Ft. Kim Kardashian & Kanye West)',
+    'videoId' => 'Mtl-Lc1y4YU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/Mtl-Lc1y4YU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/Mtl-Lc1y4YU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/Mtl-Lc1y4YU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/Mtl-Lc1y4YU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-04-18T19:57:27+00:00',
+    'publishedText' => '6 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  247 => 
   array (
     'title' => 'Google is recording everything you say to the Assistant, and here’s how to stop it!',
     'videoId' => 'Yw9ktQ3sa4A',
@@ -9193,9 +10909,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  209 => 
+  248 => 
   array (
     'title' => 'The Vanishing of Flight 370',
     'videoId' => 'kd2KEHvK-q8',
@@ -9237,9 +10953,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  210 => 
+  249 => 
+  array (
+    'title' => 'The Most Dangerous Stuff in the Universe - Strange Stars Explained',
+    'videoId' => 'p_8yK2kmxoo',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/p_8yK2kmxoo/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/p_8yK2kmxoo/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/p_8yK2kmxoo/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/p_8yK2kmxoo/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-04-14T12:30:02+00:00',
+    'publishedText' => '6 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  250 => 
   array (
     'title' => 'How-To Carve a Realistic beetle out of Wewd',
     'videoId' => 'nKh_yq627WM',
@@ -9281,9 +11041,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  211 => 
+  251 => 
   array (
     'title' => 'I Paid for an Online Dating Scam',
     'videoId' => 'Nigz2cPf2-Y',
@@ -9325,9 +11085,185 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  212 => 
+  252 => 
+  array (
+    'title' => 'CD / Aspect Ratio',
+    'videoId' => 'g5ZgUIobSj0',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/g5ZgUIobSj0/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/g5ZgUIobSj0/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/g5ZgUIobSj0/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/g5ZgUIobSj0/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-04-09T19:02:00+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  253 => 
+  array (
+    'title' => 'CD / Frame Rate',
+    'videoId' => 'DyqjTZHRdRs',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/DyqjTZHRdRs/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/DyqjTZHRdRs/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/DyqjTZHRdRs/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/DyqjTZHRdRs/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-04-09T19:01:00+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  254 => 
+  array (
+    'title' => 'CD / Intro',
+    'videoId' => 'R4sF0MT1TGM',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/R4sF0MT1TGM/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/R4sF0MT1TGM/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/R4sF0MT1TGM/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/R4sF0MT1TGM/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-04-09T19:00:00+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  255 => 
+  array (
+    'title' => 'We Must Stop This Millionaire Content Thief',
+    'videoId' => 'CiHUcQG7bH4',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/CiHUcQG7bH4/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/CiHUcQG7bH4/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/CiHUcQG7bH4/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/CiHUcQG7bH4/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-04-03T20:05:01+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  256 => 
   array (
     'title' => 'The Curious Case of the YouTube Comment Dislike Button',
     'videoId' => '61ycBjjpvJQ',
@@ -9369,9 +11305,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  213 => 
+  257 => 
+  array (
+    'title' => 'What If We Detonated All Nuclear Bombs at Once?',
+    'videoId' => 'JyECrGp-Sw8',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/JyECrGp-Sw8/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/JyECrGp-Sw8/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/JyECrGp-Sw8/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/JyECrGp-Sw8/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-03-31T12:30:00+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  258 => 
   array (
     'title' => 'I Carve another Ostrich buttfruit filled with Resin (and it glows) duh',
     'videoId' => 'fVN35EoLtZw',
@@ -9413,9 +11393,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  214 => 
+  259 => 
+  array (
+    'title' => 'Shane Dawson Did WHAT With His Cat?!',
+    'videoId' => 'AU4fXUVd3o0',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/AU4fXUVd3o0/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/AU4fXUVd3o0/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/AU4fXUVd3o0/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/AU4fXUVd3o0/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-03-25T22:50:52+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  260 => 
   array (
     'title' => 'The Instagrabbing of /r/dankmemes',
     'videoId' => '9XN57BhyZwk',
@@ -9457,9 +11481,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  215 => 
+  261 => 
   array (
     'title' => '404 Not Found',
     'videoId' => 'L1tx-wAI6Nw',
@@ -9501,9 +11525,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  216 => 
+  262 => 
+  array (
+    'title' => 'Lesbians Try Kissing Men - H3H3',
+    'videoId' => 'IKjK9_pTjYk',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/IKjK9_pTjYk/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/IKjK9_pTjYk/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/IKjK9_pTjYk/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/IKjK9_pTjYk/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-03-19T22:34:42+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  263 => 
   array (
     'title' => 'might quit',
     'videoId' => 'mpkf_p71rKY',
@@ -9545,9 +11613,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  217 => 
+  264 => 
   array (
     'title' => 'This Movie Has Whoopi Goldberg and a Dinosaur',
     'videoId' => 'NKBZs0dSV5s',
@@ -9589,9 +11657,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  218 => 
+  265 => 
+  array (
+    'title' => 'The Origin of Consciousness – How Unaware Things Became Aware',
+    'videoId' => 'H6u0VBqNBQ8',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/H6u0VBqNBQ8/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/H6u0VBqNBQ8/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/H6u0VBqNBQ8/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/H6u0VBqNBQ8/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-03-17T13:30:12+00:00',
+    'publishedText' => '7 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  266 => 
   array (
     'title' => '3,000,000 - Q&A',
     'videoId' => 'uQxg2zv_Orc',
@@ -9629,13 +11741,57 @@
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-03-09T19:57:46+00:00',
-    'publishedText' => '7 months ago',
+    'publishedText' => '8 months ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  219 => 
+  267 => 
+  array (
+    'title' => 'Can You Trust Kurzgesagt Videos?',
+    'videoId' => 'JtUAAXe_0VI',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/JtUAAXe_0VI/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/JtUAAXe_0VI/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/JtUAAXe_0VI/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/JtUAAXe_0VI/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-03-03T13:30:28+00:00',
+    'publishedText' => '8 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  268 => 
   array (
     'title' => 'I Carve a Rock and Cast my Hand in Resin to hold it',
     'videoId' => 'jfEz-BkdBEE',
@@ -9677,9 +11833,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  220 => 
+  269 => 
+  array (
+    'title' => 'The Sea Monsters of YouTube - H3H3',
+    'videoId' => 'yRXWYrgoHg8',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/yRXWYrgoHg8/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/yRXWYrgoHg8/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/yRXWYrgoHg8/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/yRXWYrgoHg8/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-02-28T19:43:15+00:00',
+    'publishedText' => '8 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  270 => 
   array (
     'title' => 'Dear Samsung, This is a Notch!',
     'videoId' => 'wm0_4O_XykI',
@@ -9721,9 +11921,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  221 => 
+  271 => 
   array (
     'title' => 'This Kids Movie from 1985 Is Insane',
     'videoId' => 'JJCmvwh1XhY',
@@ -9765,9 +11965,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  222 => 
+  272 => 
   array (
     'title' => 'I Carve Hands holding a Bucket from a bloke of Wewd (Part 1)',
     'videoId' => 'p3lf5DYo4X8',
@@ -9809,9 +12009,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  223 => 
+  273 => 
+  array (
+    'title' => 'Laminar Flow DISAMBIGUATION',
+    'videoId' => '5LI2nYhGhYM',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/5LI2nYhGhYM/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/5LI2nYhGhYM/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/5LI2nYhGhYM/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/5LI2nYhGhYM/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-02-14T20:00:14+00:00',
+    'publishedText' => '8 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  274 => 
   array (
     'title' => 'Wild Frolicking Adventures of Informational Education',
     'videoId' => '1PDQ22sePmU',
@@ -9853,9 +12097,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  224 => 
+  275 => 
   array (
     'title' => 'Back Button Hijacking In a Nutshell',
     'videoId' => 'SZA-Vmowqvw',
@@ -9897,9 +12141,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  225 => 
+  276 => 
+  array (
+    'title' => 'Baby Gender Reveal!!',
+    'videoId' => 'Cylt4QXHuaI',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/Cylt4QXHuaI/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/Cylt4QXHuaI/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/Cylt4QXHuaI/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/Cylt4QXHuaI/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-01-30T20:15:55+00:00',
+    'publishedText' => '9 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  277 => 
   array (
     'title' => 'Make Websites Dark!',
     'videoId' => 'kdGbGE76mdA',
@@ -9941,9 +12229,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  226 => 
+  278 => 
   array (
     'title' => 'My Immortal (3/3) | Sundance Rejects',
     'videoId' => 'M6EPWjzVflE',
@@ -9985,9 +12273,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  227 => 
+  279 => 
+  array (
+    'title' => 'RiceGum Digs A Hole And Jumps In It',
+    'videoId' => 'BuEgzFAM6Es',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/BuEgzFAM6Es/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/BuEgzFAM6Es/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/BuEgzFAM6Es/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/BuEgzFAM6Es/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-01-20T21:23:09+00:00',
+    'publishedText' => '9 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  280 => 
   array (
     'title' => 'I Paid for a Women\'s Kissing Class (Review)',
     'videoId' => 'xyUFlTk5x_I',
@@ -10029,9 +12361,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  228 => 
+  281 => 
   array (
     'title' => 'at the airport terminal',
     'videoId' => 'q-qqrGtlHkg',
@@ -10073,9 +12405,141 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  229 => 
+  282 => 
+  array (
+    'title' => 'Fortnite Is Ruining Society',
+    'videoId' => 'HE2Jg3GXH6Q',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/HE2Jg3GXH6Q/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/HE2Jg3GXH6Q/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/HE2Jg3GXH6Q/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/HE2Jg3GXH6Q/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-01-10T22:57:03+00:00',
+    'publishedText' => '9 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  283 => 
+  array (
+    'title' => 'RiceGum Is Caught Snitching (Mystery Box Part 2)',
+    'videoId' => 'jw7LD2-gg14',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/jw7LD2-gg14/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/jw7LD2-gg14/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/jw7LD2-gg14/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/jw7LD2-gg14/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-01-04T23:19:16+00:00',
+    'publishedText' => '10 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  284 => 
+  array (
+    'title' => 'Jake Paul & RiceGum Promote Gambling To Kids',
+    'videoId' => '3ewyEF3Wd9M',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/3ewyEF3Wd9M/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/3ewyEF3Wd9M/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/3ewyEF3Wd9M/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/3ewyEF3Wd9M/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-01-02T19:39:59+00:00',
+    'publishedText' => '10 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'h3h3Productions',
+    'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
+  ),
+  285 => 
   array (
     'title' => 'ball & stick',
     'videoId' => 'phsLfS3VaRg',
@@ -10117,9 +12581,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  230 => 
+  286 => 
   array (
     'title' => 'I Carve an Ostrich Egg filled with Resin (and it glows)',
     'videoId' => 'h5MWBexdwjo',
@@ -10161,9 +12625,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Bobby Duke Arts',
-    'authorId' => 'https://www.youtube.com/channel/UCSC1HqVmTaE4Shn32ihbC7w',
+    'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  231 => 
+  287 => 
   array (
     'title' => '2018 Notch Awards',
     'videoId' => 'txrMcuZ8XyU',
@@ -10205,9 +12669,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  232 => 
+  288 => 
   array (
     'title' => 'Brad\'s Wife',
     'videoId' => 'vZlmUG00OrI',
@@ -10249,9 +12713,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  233 => 
+  289 => 
   array (
     'title' => 'i just did a bad thing',
     'videoId' => 'O2yPnnDfqpw',
@@ -10293,9 +12757,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  234 => 
+  290 => 
   array (
     'title' => 'The Towns And Cities Of Red Dead Redemption 2 (A Montage)',
     'videoId' => 'DWnaNCuDV3w',
@@ -10337,9 +12801,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  235 => 
+  291 => 
   array (
     'title' => 'Planking | A Historical Footnote',
     'videoId' => 'xsqjbJ6hamc',
@@ -10381,9 +12845,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  236 => 
+  292 => 
   array (
     'title' => 'I Think This Dude Wants to Kill Me',
     'videoId' => '3Hbz1S6gMxA',
@@ -10425,9 +12889,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  237 => 
+  293 => 
+  array (
+    'title' => 'Mr. Flare Explains: The Virgin Mary',
+    'videoId' => 'Wc6pK_ouO1k',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/Wc6pK_ouO1k/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/Wc6pK_ouO1k/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/Wc6pK_ouO1k/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/Wc6pK_ouO1k/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2018-12-12T14:00:21+00:00',
+    'publishedText' => '10 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  294 => 
   array (
     'title' => 'how to win at spelling',
     'videoId' => 'vXdv9dD2_mM',
@@ -10469,9 +12977,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  238 => 
+  295 => 
   array (
     'title' => 'The Great Silence',
     'videoId' => 'ryg077wBvsM',
@@ -10513,9 +13021,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  239 => 
+  296 => 
   array (
     'title' => 'The App That Did Nothing',
     'videoId' => 'LiJG1GT2_HQ',
@@ -10557,9 +13065,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  240 => 
+  297 => 
   array (
     'title' => 'christmas isn\'t real',
     'videoId' => 'jDYXgsMzwSI',
@@ -10601,9 +13109,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  241 => 
+  298 => 
   array (
     'title' => 'Can Everyone Stop Being So Weird?',
     'videoId' => 'Z_xAlp4AE2A',
@@ -10645,9 +13153,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  242 => 
+  299 => 
   array (
     'title' => 'Please Don\'t Tell My Mom I Watched This',
     'videoId' => '4PcWevEZBEY',
@@ -10689,9 +13197,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  243 => 
+  300 => 
   array (
     'title' => 'What Happened To Google\'s Killer-Robots Easter Egg? 🤖',
     'videoId' => '4K6XJuH6P_w',
@@ -10733,9 +13241,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  244 => 
+  301 => 
   array (
     'title' => 'Slow Down',
     'videoId' => '83w4FgVkjUE',
@@ -10777,9 +13285,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  245 => 
+  302 => 
   array (
     'title' => 'Why Would You Do This With Your Sister?',
     'videoId' => 'clI1FoygWiU',
@@ -10821,9 +13329,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Eddy Burback',
-    'authorId' => 'https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw',
+    'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  246 => 
+  303 => 
+  array (
+    'title' => 'Captain Disillusion: World\'s Greatest Blenderer - Live at the Blender Conference 2018',
+    'videoId' => '1qSTcxt2t74',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/1qSTcxt2t74/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/1qSTcxt2t74/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/1qSTcxt2t74/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/1qSTcxt2t74/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2018-11-08T15:00:05+00:00',
+    'publishedText' => '1 year ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  304 => 
   array (
     'title' => 'long long long journey',
     'videoId' => '0jEm6owSKFU',
@@ -10865,9 +13417,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  247 => 
+  305 => 
   array (
     'title' => 'YouTube Dark Theme For Android - Will It Save Battery Life?',
     'videoId' => '8qpYQJ0SA5s',
@@ -10909,9 +13461,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
-    'authorId' => 'https://www.youtube.com/channel/UCdHIPSWf3kkwNg9y_puaChA',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  248 => 
+  306 => 
   array (
     'title' => 'When I Get Older',
     'videoId' => 'CX-Qr8iNqm0',
@@ -10953,9 +13505,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  249 => 
+  307 => 
   array (
     'title' => 'The Story of Kony2012',
     'videoId' => 'Y7nymZEXjf8',
@@ -10997,9 +13549,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  250 => 
+  308 => 
   array (
     'title' => 'the Moon is made of Cheese (but i can\'t taste it)',
     'videoId' => 'CpelFcu602A',
@@ -11041,9 +13593,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  251 => 
+  309 => 
+  array (
+    'title' => 'Quick D: Mobile Drone',
+    'videoId' => 'PI4EszMsYy4',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/PI4EszMsYy4/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/PI4EszMsYy4/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/PI4EszMsYy4/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/PI4EszMsYy4/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2018-09-27T20:13:53+00:00',
+    'publishedText' => '1 year ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  310 => 
   array (
     'title' => 'DIY Home Security - ON A BUDGET!',
     'videoId' => 'CouxmNqxO4A',
@@ -11085,9 +13681,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  252 => 
+  311 => 
   array (
     'title' => 'Mount St. Helens is about to Blow Up',
     'videoId' => 'elizAugXVcI',
@@ -11129,9 +13725,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  253 => 
+  312 => 
   array (
     'title' => 'DIY Studio Lights - How to Build Your Own!',
     'videoId' => 'DhbMnQt14_o',
@@ -11173,9 +13769,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  254 => 
+  313 => 
   array (
     'title' => 'i\'m Best Friends with my Own Front Door',
     'videoId' => 'HCxJ4gAt2cs',
@@ -11217,9 +13813,53 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  255 => 
+  314 => 
+  array (
+    'title' => 'Quick D: Wall Walking',
+    'videoId' => '9vncG0IP9qU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/9vncG0IP9qU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/9vncG0IP9qU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/9vncG0IP9qU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/9vncG0IP9qU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2018-09-03T16:02:16+00:00',
+    'publishedText' => '1 year ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Captain Disillusion',
+    'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
+  ),
+  315 => 
   array (
     'title' => 'The Battle of Los Angeles',
     'videoId' => '6oY8HIWBS-Y',
@@ -11261,9 +13901,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  256 => 
+  316 => 
   array (
     'title' => 'hallelujah',
     'videoId' => 'gqxT6KOFRIo',
@@ -11305,9 +13945,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  257 => 
+  317 => 
   array (
     'title' => 'My Immortal (2/3) | Sundance Rejects',
     'videoId' => 'd68b659E4F4',
@@ -11349,9 +13989,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  258 => 
+  318 => 
   array (
     'title' => 'DIY glass speaker! How to build your own.',
     'videoId' => '27zBr74NuKU',
@@ -11393,9 +14033,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  259 => 
+  319 => 
   array (
     'title' => 'Growing tomatoes this summer? Try this to keep snails away!',
     'videoId' => 'oAA9nCqNfR4',
@@ -11437,9 +14077,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  260 => 
+  320 => 
   array (
     'title' => 'My Immortal (1/3) | Sundance Rejects',
     'videoId' => 'Ffh7cWRrqF4',
@@ -11481,9 +14121,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  261 => 
+  321 => 
   array (
     'title' => 'Got my hands on a FOOTBALL STADIUM LIGHT!',
     'videoId' => 'CvRlfp236Ms',
@@ -11525,9 +14165,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  262 => 
+  322 => 
   array (
     'title' => 'DIY wall-mounted LAPTOP DOCK (neat, tidy, elegant)',
     'videoId' => 'tGX34631pdk',
@@ -11569,9 +14209,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  263 => 
+  323 => 
   array (
     'title' => 'hello sexy pants',
     'videoId' => 'ldaQLGOoJW0',
@@ -11613,9 +14253,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
-    'authorId' => 'https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ',
+    'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  264 => 
+  324 => 
   array (
     'title' => 'The Curse of the Olympic Flame',
     'videoId' => 'YcuofODMCMU',
@@ -11657,9 +14297,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  265 => 
+  325 => 
   array (
     'title' => 'How To Make a Rustic Desk with Drawers (from scratch)',
     'videoId' => 'TK_WUH9LyWc',
@@ -11701,9 +14341,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  266 => 
+  326 => 
   array (
     'title' => 'Cicada 3301: An Internet Mystery',
     'videoId' => 'I2O7blSSzpI',
@@ -11745,9 +14385,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  267 => 
+  327 => 
   array (
     'title' => 'The Y2K Apocalypse',
     'videoId' => 'h-StyszRCzc',
@@ -11789,9 +14429,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  268 => 
+  328 => 
   array (
     'title' => 'I built a PC out of rope and wood...',
     'videoId' => 'N-z9PidYH4E',
@@ -11833,9 +14473,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'DIY Perks',
-    'authorId' => 'https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw',
+    'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  269 => 
+  329 => 
   array (
     'title' => 'The Harry Potter Skirmishes',
     'videoId' => 't95aLo7R1NM',
@@ -11877,9 +14517,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  270 => 
+  330 => 
   array (
     'title' => 'Top 10 Facts - Music',
     'videoId' => 'EL5hcdXu8dc',
@@ -11921,9 +14561,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  271 => 
+  331 => 
   array (
     'title' => 'Any Poll\'s a Goal',
     'videoId' => 'HiTqIyx6tBU',
@@ -11965,9 +14605,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  272 => 
+  332 => 
   array (
     'title' => 'Friendship Ended.',
     'videoId' => '-wmfpoq_Y0E',
@@ -12009,9 +14649,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Internet Historian',
-    'authorId' => 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw',
+    'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  273 => 
+  333 => 
   array (
     'title' => 'Top 10 Facts - Reddit',
     'videoId' => 'sf9tBmMfFcw',
@@ -12053,9 +14693,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  274 => 
+  334 => 
   array (
     'title' => 'Top 10 Facts - 2017',
     'videoId' => 'fM8UapzfZkU',
@@ -12097,9 +14737,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  275 => 
+  335 => 
   array (
     'title' => 'Ads & Patreon',
     'videoId' => '60EvAfhA0j8',
@@ -12141,9 +14781,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  276 => 
+  336 => 
   array (
     'title' => 'The Unknowns: Mystifying UFO Cases',
     'videoId' => 'fb7T1v_VHpE',
@@ -12185,9 +14825,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  277 => 
+  337 => 
   array (
     'title' => 'Top 10 Facts - Death',
     'videoId' => 'KhwHR9pkoao',
@@ -12229,9 +14869,9 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  278 => 
+  338 => 
   array (
     'title' => 'The Mandela Effect: A Critical Analysis',
     'videoId' => 'vB7Xv6gG5_0',
@@ -12273,6 +14913,6 @@
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
-    'authorId' => 'https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q',
+    'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
 );

@@ -247,7 +247,7 @@ function subscriptionVideoFeedCallback($element)
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => $element['author']['name'],
-    'authorId' => $element['author']['uri']
+    'authorId' => str_replace('https://www.youtube.com/channel/', '', $element['author']['uri'])
   ];
   return $result;
 }

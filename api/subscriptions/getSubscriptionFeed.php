@@ -83,7 +83,11 @@ if ($_SERVER['REQUEST_METHOD'] == "OPTIONS") {
           $newestVideos = $cachedVideos;
         }
 
-        $newestVideos = array_slice($newestVideos, 0, 40);
+        if (isset($_GET['limit'])) {
+          $newestVideos = array_slice($newestVideos, 0, $_GET['limit']);
+        } else {
+          $newestVideos = array_slice($newestVideos, 0, 40);
+        }
 
         echo json_encode(array(
           "subscriptions" => $newestVideos
