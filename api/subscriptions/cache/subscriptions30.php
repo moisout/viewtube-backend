@@ -1,5 +1,413 @@
-<?php $date = 1573355991; $subscriptionFeedArray = array (
+<?php $date = 1573430195; $subscriptionFeedArray = array (
   0 => 
+  array (
+    'title' => '30 Things you CAN\'T do with Honey Blocks',
+    'videoId' => 'fX0UFeL2XLE',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/fX0UFeL2XLE/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/fX0UFeL2XLE/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/fX0UFeL2XLE/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/fX0UFeL2XLE/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/fX0UFeL2XLE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T20:00:02+00:00',
+    'publishedText' => '3 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Mumbo Jumbo',
+    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
+  ),
+  1 => 
+  array (
+    'title' => 'NVIDIA, I retract my apology. - GTX 1660 Super Review',
+    'videoId' => '-zzcfNecsRY',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/-zzcfNecsRY/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/-zzcfNecsRY/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/-zzcfNecsRY/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/-zzcfNecsRY/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-zzcfNecsRY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T19:59:52+00:00',
+    'publishedText' => '3 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Linus Tech Tips',
+    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
+  ),
+  2 => 
+  array (
+    'title' => 'STOP calling me A BOOMER!!!',
+    'videoId' => 'J3BltOoCFbU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/J3BltOoCFbU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/J3BltOoCFbU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/J3BltOoCFbU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/J3BltOoCFbU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/J3BltOoCFbU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T18:06:41+00:00',
+    'publishedText' => '5 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'PewDiePie',
+    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
+  ),
+  3 => 
+  array (
+    'title' => 'hey do you want to make a video',
+    'videoId' => 'gMiUF_nt8HE',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/gMiUF_nt8HE/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/gMiUF_nt8HE/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/gMiUF_nt8HE/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/gMiUF_nt8HE/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/gMiUF_nt8HE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T17:09:39+00:00',
+    'publishedText' => '6 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Gus Johnson',
+    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
+  ),
+  4 => 
+  array (
+    'title' => 'WHAT EVEN AM I?!',
+    'videoId' => '2gq4DhMdZC0',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/2gq4DhMdZC0/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/2gq4DhMdZC0/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/2gq4DhMdZC0/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/2gq4DhMdZC0/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/2gq4DhMdZC0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T16:00:00+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Markiplier',
+    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
+  ),
+  5 => 
+  array (
+    'title' => 'I\'ve created a new channel',
+    'videoId' => 'OBxlYJTE2yk',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/OBxlYJTE2yk/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/OBxlYJTE2yk/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/OBxlYJTE2yk/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/OBxlYJTE2yk/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/OBxlYJTE2yk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T15:48:25+00:00',
+    'publishedText' => '7 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'CHM Tech',
+    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
+  ),
+  6 => 
+  array (
+    'title' => 'Neutron Stars – The Most Extreme Things that are not Black Holes',
+    'videoId' => 'udFxKZRyQt4',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/udFxKZRyQt4/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/udFxKZRyQt4/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/udFxKZRyQt4/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/udFxKZRyQt4/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/udFxKZRyQt4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T13:30:02+00:00',
+    'publishedText' => '10 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  7 => 
+  array (
+    'title' => 'HOW GOVERNMENT WORKS',
+    'videoId' => 'W47nB65zcmk',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/W47nB65zcmk/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/W47nB65zcmk/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/W47nB65zcmk/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/W47nB65zcmk/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/W47nB65zcmk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-11-10T03:25:33+00:00',
+    'publishedText' => '20 hours ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Louis Rossmann',
+    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
+  ),
+  8 => 
   array (
     'title' => 'Walking Spider House with Honey Blocks',
     'videoId' => 'DUdjXVeDoNY',
@@ -33,17 +441,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/DUdjXVeDoNY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T20:00:02+00:00',
-    'publishedText' => '7 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  1 => 
+  9 => 
   array (
     'title' => 'Frankenstein GPU Cooling - IT\'S AWESOME',
     'videoId' => 'm3YnpwAAHhM',
@@ -77,17 +492,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/m3YnpwAAHhM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T19:59:08+00:00',
-    'publishedText' => '7 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  2 => 
+  10 => 
   array (
     'title' => 'Rossmann.Realty.S02E05 Let the negotiations commence',
     'videoId' => '2o1TK3evwwI',
@@ -121,17 +543,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/2o1TK3evwwI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T19:58:09+00:00',
-    'publishedText' => '7 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  3 => 
+  11 => 
   array (
     'title' => 'Rossmann.Realty.S02E04 Top 10 anime betrayals',
     'videoId' => 'eCkzJzV9Rhc',
@@ -165,17 +594,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/eCkzJzV9Rhc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T19:47:36+00:00',
-    'publishedText' => '7 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  4 => 
+  12 => 
   array (
     'title' => 'Rossmann.Realty.S02E03 Let\'s check it out.',
     'videoId' => 'WUtcbw3NhcE',
@@ -209,17 +645,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/WUtcbw3NhcE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T19:23:23+00:00',
-    'publishedText' => '7 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  5 => 
+  13 => 
   array (
     'title' => 'Rossmann.Realty.S02E02 It was RIGHT UNDER my nose and I MISSED IT 😢',
     'videoId' => 'K6kRGHhgyV4',
@@ -253,17 +696,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/K6kRGHhgyV4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T19:15:18+00:00',
-    'publishedText' => '7 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  6 => 
+  14 => 
   array (
     'title' => 'Rossmann Realty S02E01 We start over',
     'videoId' => 'vHoQfYn09d8',
@@ -297,17 +747,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/vHoQfYn09d8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T18:53:34+00:00',
-    'publishedText' => '8 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  7 => 
+  15 => 
   array (
     'title' => 'Rossmann Realty Season 2 - PREMIERE!',
     'videoId' => 'Fr_6LFRtv-M',
@@ -341,17 +798,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Fr_6LFRtv-M/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T18:48:49+00:00',
-    'publishedText' => '8 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  8 => 
+  16 => 
   array (
     'title' => '(CHALLENGE) You Lose You Laugh, Can you do it?',
     'videoId' => 'ZFyqoXZHbvc',
@@ -385,17 +849,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ZFyqoXZHbvc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T18:07:20+00:00',
-    'publishedText' => '8 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  9 => 
+  17 => 
   array (
     'title' => 'Wie geil ist das denn? -  Zeo und das Internet!',
     'videoId' => 'nlJWlGWrDts',
@@ -429,17 +900,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/nlJWlGWrDts/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T13:00:09+00:00',
-    'publishedText' => '14 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  10 => 
+  18 => 
   array (
     'title' => 'China Tries to Restrict Gaming - WAN Show Nov 8, 2019',
     'videoId' => 'zuyjg_AWubU',
@@ -473,17 +951,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zuyjg_AWubU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T08:04:30+00:00',
-    'publishedText' => '19 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  11 => 
+  19 => 
   array (
     'title' => 'YouTube has a huge problem...',
     'videoId' => 'pWaz7ofl5wQ',
@@ -517,17 +1002,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/pWaz7ofl5wQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-09T04:00:09+00:00',
-    'publishedText' => '23 hours ago',
+    'publishedText' => '1 day ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  12 => 
+  20 => 
   array (
     'title' => 'It\'s over, Intel.',
     'videoId' => 'VkDEUeqQUXY',
@@ -561,6 +1053,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/VkDEUeqQUXY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -571,7 +1070,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  13 => 
+  21 => 
   array (
     'title' => 'Dell XPS 13 2-in-1 Showcase',
     'videoId' => 'o1MIhHdDUQk',
@@ -605,17 +1104,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/o1MIhHdDUQk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-08T20:04:48+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  14 => 
+  22 => 
   array (
     'title' => 'Minecraft mobs I could beat in a fight💪🤴',
     'videoId' => 'mOwX1ZNY2Jc',
@@ -649,17 +1155,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/mOwX1ZNY2Jc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-08T19:09:59+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  15 => 
+  23 => 
   array (
     'title' => 'Half Dead 2 w/ Jack and Bob',
     'videoId' => 'zqD_ZC1MSTY',
@@ -693,17 +1206,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zqD_ZC1MSTY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-08T16:00:10+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  16 => 
+  24 => 
   array (
     'title' => 'Das haben wir auf Aliexpress gekauft!',
     'videoId' => 'aHAy-XOzOTs',
@@ -737,17 +1257,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/aHAy-XOzOTs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-08T14:15:01+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  17 => 
+  25 => 
   array (
     'title' => 'What Nokia has REALLY been working on.',
     'videoId' => 'OSRY-bJknqs',
@@ -781,17 +1308,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/OSRY-bJknqs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-08T11:34:55+00:00',
-    'publishedText' => '1 day ago',
+    'publishedText' => '2 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  18 => 
+  26 => 
   array (
     'title' => 'iPhone 11 Pro vs Original iPhone!',
     'videoId' => 'zIjngBAxTr4',
@@ -825,17 +1359,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zIjngBAxTr4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T22:39:45+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  19 => 
+  27 => 
   array (
     'title' => 'Hermitcraft 6: Episode 132 - Secure the BUNKER',
     'videoId' => 'HBFggLja_ow',
@@ -869,17 +1410,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/HBFggLja_ow/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T20:00:01+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  20 => 
+  28 => 
   array (
     'title' => 'Sometimes Apple just does it better - AirPods Pro Review',
     'videoId' => 'XziVC8YUE5M',
@@ -913,17 +1461,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/XziVC8YUE5M/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T19:41:16+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  21 => 
+  29 => 
   array (
     'title' => 'The BROFIST is declared a HATE SYMBOL! (this is bad)',
     'videoId' => 'F5QWUOAcg_Q',
@@ -957,17 +1512,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/F5QWUOAcg_Q/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T18:22:04+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  22 => 
+  30 => 
   array (
     'title' => 'BIGFOOT w/ JackSepticEye',
     'videoId' => 'KjkyXkbxMzU',
@@ -1001,17 +1563,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/KjkyXkbxMzU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T16:00:04+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  23 => 
+  31 => 
   array (
     'title' => 'How can normal people help me on Right to Repair?',
     'videoId' => '-iYHTDch6Ng',
@@ -1045,17 +1614,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-iYHTDch6Ng/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-07T04:16:32+00:00',
-    'publishedText' => '2 days ago',
+    'publishedText' => '3 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  24 => 
+  32 => 
   array (
     'title' => 'Valve, you sly fox.',
     'videoId' => 'UcGH9XH147g',
@@ -1089,6 +1665,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/UcGH9XH147g/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -1099,7 +1682,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  25 => 
+  33 => 
   array (
     'title' => 'THIS MAN IS A CRIMINAL',
     'videoId' => 'aJDB06tm2Rs',
@@ -1133,6 +1716,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/aJDB06tm2Rs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -1143,7 +1733,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  26 => 
+  34 => 
   array (
     'title' => 'Home 10 Gig Network Upgrade for CHEAP',
     'videoId' => 'b4Wp4SzdNj4',
@@ -1177,17 +1767,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/b4Wp4SzdNj4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T20:31:07+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  27 => 
+  35 => 
   array (
     'title' => 'Blursed images is HILARIOUS',
     'videoId' => 'UrJVL3CftIU',
@@ -1221,17 +1818,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/UrJVL3CftIU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T19:57:21+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  28 => 
+  36 => 
   array (
     'title' => 'Oha! Was ist denn DAS?!? - Zeo entdeckt Instagram',
     'videoId' => '9DDJ1I-L-Tg',
@@ -1265,17 +1869,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/9DDJ1I-L-Tg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T19:00:00+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  29 => 
+  37 => 
   array (
     'title' => 'First Time on the Internet (Internet at 50) - Computerphile',
     'videoId' => 'm4ErHic6gcA',
@@ -1309,17 +1920,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/m4ErHic6gcA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T18:44:40+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  30 => 
+  38 => 
   array (
     'title' => 'Clinton the cat destroys a DJI Tello drone.',
     'videoId' => 'fAQszkppin0',
@@ -1353,17 +1971,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/fAQszkppin0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T14:30:00+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  31 => 
+  39 => 
   array (
     'title' => 'Xiaomi Mi Note 10 Review - 108 Megapixel Madness.',
     'videoId' => 'RPoCsWIyZWg',
@@ -1397,17 +2022,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/RPoCsWIyZWg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-06T11:56:47+00:00',
-    'publishedText' => '3 days ago',
+    'publishedText' => '4 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  32 => 
+  40 => 
   array (
     'title' => 'Moving Cliffside Mansion with Honey Blocks',
     'videoId' => '91k7nTL4gf4',
@@ -1441,17 +2073,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/91k7nTL4gf4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T20:00:01+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  33 => 
+  41 => 
   array (
     'title' => 'This guy has a PROBLEM - Tech Hoarders',
     'videoId' => 'hiLlNzxDfAg',
@@ -1485,17 +2124,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/hiLlNzxDfAg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T19:52:53+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  34 => 
+  42 => 
   array (
     'title' => 'I plant 20 000 000 Trees in Minecraft (Not Creative)',
     'videoId' => 'hT0uqXlZ70A',
@@ -1529,17 +2175,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/hT0uqXlZ70A/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T17:32:58+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  35 => 
+  43 => 
   array (
     'title' => 'Handsome lobbyist DESTROYS repair with CHEEKBONES and BLUE EYES!',
     'videoId' => 'PD6UcT4KyEg',
@@ -1573,17 +2226,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/PD6UcT4KyEg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T17:29:15+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  36 => 
+  44 => 
   array (
     'title' => 'Someone think of the children...',
     'videoId' => 'RlyQc6SH3u0',
@@ -1617,17 +2277,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/RlyQc6SH3u0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T16:31:49+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  37 => 
+  45 => 
   array (
     'title' => 'A Heist with Markiplier | BEHIND THE SCENES',
     'videoId' => '78ZMKQSXLUA',
@@ -1661,17 +2328,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/78ZMKQSXLUA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T16:01:42+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  38 => 
+  46 => 
   array (
     'title' => 'Politician Dave Rogers speaks about Repair Bill',
     'videoId' => 'UsP20iivlKI',
@@ -1705,17 +2379,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/UsP20iivlKI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-05T04:48:46+00:00',
-    'publishedText' => '4 days ago',
+    'publishedText' => '5 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  39 => 
+  47 => 
   array (
     'title' => 'Edge just wants to be Chrome...',
     'videoId' => '2VSFnIm8TMQ',
@@ -1749,6 +2430,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/2VSFnIm8TMQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -1759,7 +2447,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  40 => 
+  48 => 
   array (
     'title' => 'AirPods Pro Review: Imperfectly Perfect!',
     'videoId' => 'cG8PXdTlDag',
@@ -1793,6 +2481,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/cG8PXdTlDag/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -1803,7 +2498,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  41 => 
+  49 => 
   array (
     'title' => 'I Sold Her this $5000 Gaming PC for $20!',
     'videoId' => '5rwYjRzLHHI',
@@ -1837,17 +2532,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/5rwYjRzLHHI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T19:25:24+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  42 => 
+  50 => 
   array (
     'title' => 'Dark Modes!',
     'videoId' => 'aHO6kcXAYoo',
@@ -1881,17 +2583,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/aHO6kcXAYoo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T19:08:42+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  43 => 
+  51 => 
   array (
     'title' => 'First Contact (Internet at 50) - Computerphile',
     'videoId' => 'zqcoPrvXSqg',
@@ -1925,17 +2634,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zqcoPrvXSqg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T18:57:37+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  44 => 
+  52 => 
   array (
     'title' => '"Ok Boomer" - The ultimate Insult',
     'videoId' => 'AAUiyQyEARs',
@@ -1969,17 +2685,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/AAUiyQyEARs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T18:45:19+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  45 => 
+  53 => 
   array (
     'title' => 'Unge und Zeo REAGIEREN auf Knossi reagiert auf Zeos How to be Knossi | #ungeklickt',
     'videoId' => 'bZ3BRuJfD5I',
@@ -2013,17 +2736,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/bZ3BRuJfD5I/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T16:00:06+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  46 => 
+  54 => 
   array (
     'title' => 'A Heist with Markiplier | BLOOPERS',
     'videoId' => 'VzhFuf-B-N4',
@@ -2057,17 +2787,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/VzhFuf-B-N4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T15:59:38+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  47 => 
+  55 => 
   array (
     'title' => 'Tariffs can be evaded by incumbents & act as barrier to new competition .',
     'videoId' => 'br8L9FD-Jw4',
@@ -2101,17 +2838,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/br8L9FD-Jw4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T15:37:37+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  48 => 
+  56 => 
   array (
     'title' => 'EXTENDED CUT - Captain D\'s \'Could You Survive GHOSTBUSTERS\' Segment',
     'videoId' => 'wl4HP24p2eU',
@@ -2145,17 +2889,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/wl4HP24p2eU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-04T15:16:42+00:00',
-    'publishedText' => '5 days ago',
+    'publishedText' => '6 days ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  49 => 
+  57 => 
   array (
     'title' => 'The Fake Mac Pro Case is SHOCKINGLY GOOD',
     'videoId' => '518AWHLn3ZU',
@@ -2189,17 +2940,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/518AWHLn3ZU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-03T19:11:17+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  50 => 
+  58 => 
   array (
     'title' => 'THEY ACTUALLY DID THAT?! (mad)',
     'videoId' => 'LlW7Es7gStA',
@@ -2233,17 +2991,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/LlW7Es7gStA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-03T18:20:04+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  51 => 
+  59 => 
   array (
     'title' => 'The 12,020 Human SPACE Era Calendar 🚀',
     'videoId' => 'f9uZ0REjIjo',
@@ -2277,17 +3042,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/f9uZ0REjIjo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-03T13:29:35+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  52 => 
+  60 => 
   array (
     'title' => 'The Biggest Smartphone Unboxing EVER?',
     'videoId' => 'N9xiiVPa7ZU',
@@ -2321,17 +3093,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/N9xiiVPa7ZU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-11-03T09:53:37+00:00',
-    'publishedText' => '6 days ago',
+    'publishedText' => '1 week ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  53 => 
+  61 => 
   array (
     'title' => 'Lobbying 101: How to quash a bill through fearmongering featuring Sarah Faye Pierce.',
     'videoId' => 'lgUIsgMGTfU',
@@ -2365,6 +3144,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/lgUIsgMGTfU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2375,7 +3161,7 @@
     'author' => 'Louis Rossmann',
     'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
   ),
-  54 => 
+  62 => 
   array (
     'title' => 'We went to Canada for something EPIC!',
     'videoId' => 'ar25iJORncI',
@@ -2409,6 +3195,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ar25iJORncI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2419,51 +3212,7 @@
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  55 => 
-  array (
-    'title' => 'Right to Repair vs. Sarah Faye Pierce - AHAM lobbyist',
-    'videoId' => 'rUFAyxbOFic',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/rUFAyxbOFic/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/rUFAyxbOFic/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/rUFAyxbOFic/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/rUFAyxbOFic/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-11-02T22:36:49+00:00',
-    'publishedText' => '1 week ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Louis Rossmann',
-    'authorId' => 'UCl2mFZoRqjw_ELax4Yisf6w',
-  ),
-  56 => 
+  63 => 
   array (
     'title' => 'Self Building Bridges with Honey Blocks',
     'videoId' => 'wEQvx-wpcrc',
@@ -2497,6 +3246,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/wEQvx-wpcrc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2507,7 +3263,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  57 => 
+  64 => 
   array (
     'title' => 'We gave out GAMING PCs for Halloween!!',
     'videoId' => 'P3gqwkjDDa8',
@@ -2541,6 +3297,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/P3gqwkjDDa8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2551,7 +3314,7 @@
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  58 => 
+  65 => 
   array (
     'title' => 'when you drop your phone while the screen is unlocked',
     'videoId' => 'EDMxOeDagXc',
@@ -2585,6 +3348,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/EDMxOeDagXc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2595,7 +3365,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  59 => 
+  66 => 
   array (
     'title' => 'I make PewDiePie\'s replacement 100 MIL subscriber award  (and mail it to him)',
     'videoId' => '2LoLE7iTCDM',
@@ -2629,6 +3399,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/2LoLE7iTCDM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2639,7 +3416,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  60 => 
+  67 => 
   array (
     'title' => 'Wir haben unser Aquarium hermetisch verschlossen, was passiert weiter?',
     'videoId' => 'RjH0PbSbacs',
@@ -2673,6 +3450,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/RjH0PbSbacs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2683,7 +3467,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  61 => 
+  68 => 
   array (
     'title' => 'Google to Apple: WATCH OUT',
     'videoId' => 'OadjwPr3lP8',
@@ -2717,6 +3501,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/OadjwPr3lP8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2727,7 +3518,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  62 => 
+  69 => 
   array (
     'title' => 'YouTube P Score Drama - WAN Show Nov 1, 2019',
     'videoId' => 'rXz0veV1AuU',
@@ -2761,6 +3552,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/rXz0veV1AuU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2771,7 +3569,7 @@
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  63 => 
+  70 => 
   array (
     'title' => 'Beats Solo Pro: Return to Excellence!',
     'videoId' => 'DHiKz_lCYMU',
@@ -2805,6 +3603,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/DHiKz_lCYMU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2815,7 +3620,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  64 => 
+  71 => 
   array (
     'title' => 'Kids are dumb.',
     'videoId' => 'UK15xIMc1DY',
@@ -2849,6 +3654,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/UK15xIMc1DY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2859,7 +3671,7 @@
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  65 => 
+  72 => 
   array (
     'title' => 'Realistic Piston Elevators with Honey Blocks',
     'videoId' => 'q11J9ibl7zs',
@@ -2893,6 +3705,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/q11J9ibl7zs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2903,7 +3722,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  66 => 
+  73 => 
   array (
     'title' => 'The BEST Keyboards Under $75!',
     'videoId' => '9S-U5f140-U',
@@ -2937,6 +3756,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/9S-U5f140-U/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2947,7 +3773,7 @@
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  67 => 
+  74 => 
   array (
     'title' => 'LG G8X Proves Foldables are Coming!',
     'videoId' => 'q2CdBFA98SI',
@@ -2981,6 +3807,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/q2CdBFA98SI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -2991,7 +3824,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  68 => 
+  75 => 
   array (
     'title' => 'Rare Insults is a Treassure!',
     'videoId' => 'wnvaqGuiLlI',
@@ -3025,6 +3858,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/wnvaqGuiLlI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3035,7 +3875,7 @@
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  69 => 
+  76 => 
   array (
     'title' => 'Not ANOTHER one...',
     'videoId' => 'jCWCuDKC6xU',
@@ -3069,6 +3909,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/jCWCuDKC6xU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3079,7 +3926,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  70 => 
+  77 => 
   array (
     'title' => 'WTF is this thing? - RAM on a PCI Card??',
     'videoId' => 'bYbCYgYZVT8',
@@ -3113,6 +3960,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/bYbCYgYZVT8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3123,7 +3977,7 @@
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  71 => 
+  78 => 
   array (
     'title' => 'Digital Storytelling - Computerphile',
     'videoId' => '-Elq8f0X1g8',
@@ -3157,6 +4011,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-Elq8f0X1g8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3167,7 +4028,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  72 => 
+  79 => 
   array (
     'title' => 'We need to STOP INSTAGRAM Filters!',
     'videoId' => 'SsHGYhWpXZM',
@@ -3201,6 +4062,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/SsHGYhWpXZM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3211,7 +4079,7 @@
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  73 => 
+  80 => 
   array (
     'title' => 'A Heist with Markiplier',
     'videoId' => '9TjfkXmwbTs',
@@ -3245,6 +4113,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/9TjfkXmwbTs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3255,7 +4130,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  74 => 
+  81 => 
   array (
     'title' => 'Hermitcraft 6: Episode 131 - DON\'T DIE COMPOUND',
     'videoId' => 'sxC0K7KxllM',
@@ -3289,6 +4164,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/sxC0K7KxllM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3299,7 +4181,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  75 => 
+  82 => 
   array (
     'title' => 'Am I a Boomer?',
     'videoId' => 'feYE_0-Ts_w',
@@ -3333,6 +4215,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/feYE_0-Ts_w/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3343,7 +4232,7 @@
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  76 => 
+  83 => 
   array (
     'title' => '4K Video Editing PC on a BUDGET',
     'videoId' => 'w_HKRUPN1Mk',
@@ -3377,6 +4266,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/w_HKRUPN1Mk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3387,7 +4283,7 @@
     'author' => 'Linus Tech Tips',
     'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
   ),
-  77 => 
+  84 => 
   array (
     'title' => 'I need a favor...',
     'videoId' => 'KL1wsC78D1s',
@@ -3421,6 +4317,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/KL1wsC78D1s/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3431,7 +4334,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  78 => 
+  85 => 
   array (
     'title' => 'AirPods Pro Unboxing & Impressions!',
     'videoId' => 'MrUhzYdcX6w',
@@ -3465,6 +4368,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/MrUhzYdcX6w/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3475,7 +4385,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  79 => 
+  86 => 
   array (
     'title' => 'DIY Smart Mirror (that doesn\'t steam up!)',
     'videoId' => 'puFSdfIRNIw',
@@ -3509,6 +4419,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/puFSdfIRNIw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3519,7 +4436,7 @@
     'author' => 'DIY Perks',
     'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  80 => 
+  87 => 
   array (
     'title' => 'How to win the silicon lottery',
     'videoId' => 'bJhES0J5sT4',
@@ -3553,6 +4470,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/bJhES0J5sT4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3563,51 +4487,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  81 => 
-  array (
-    'title' => 'Every other phone is dead to me. - Galaxy Fold Review',
-    'videoId' => 'WGZh-xP-q7A',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/WGZh-xP-q7A/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/WGZh-xP-q7A/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/WGZh-xP-q7A/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/WGZh-xP-q7A/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-10-28T20:20:17+00:00',
-    'publishedText' => '1 week ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Linus Tech Tips',
-    'authorId' => 'UCXuqSBlHAE6Xw-yeJA0Tunw',
-  ),
-  82 => 
+  88 => 
   array (
     'title' => 'You Cringe, You Cringe Challenge (Cringe)',
     'videoId' => 'ZcFmJ_sce68',
@@ -3641,6 +4521,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ZcFmJ_sce68/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3651,7 +4538,7 @@
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  83 => 
+  89 => 
   array (
     'title' => 'Try Not To Laugh Challenge #23',
     'videoId' => 'F5tMDGRqUOk',
@@ -3685,6 +4572,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/F5tMDGRqUOk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3695,7 +4589,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  84 => 
+  90 => 
   array (
     'title' => 'The realme X2 Pro surprised me.',
     'videoId' => 'SZpVGgZDVdY',
@@ -3729,6 +4623,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/SZpVGgZDVdY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3739,7 +4640,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  85 => 
+  91 => 
   array (
     'title' => 'ASMR Coraline Welcomes You',
     'videoId' => 'Pe3VcHJz4ig',
@@ -3773,17 +4674,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Pe3VcHJz4ig/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-27T21:46:38+00:00',
-    'publishedText' => '1 week ago',
+    'publishedText' => '2 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  86 => 
+  92 => 
   array (
     'title' => 'Which is my worst CONTROVERSY?',
     'videoId' => 'Ce11NMlBOTo',
@@ -3817,17 +4725,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Ce11NMlBOTo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-27T20:18:31+00:00',
-    'publishedText' => '1 week ago',
+    'publishedText' => '2 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'PewDiePie',
     'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
   ),
-  87 => 
+  93 => 
   array (
     'title' => 'KeiNe ScHwÄchE ZeiGeN!',
     'videoId' => 'AO-mkQSQr8k',
@@ -3861,17 +4776,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/AO-mkQSQr8k/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-27T16:15:01+00:00',
-    'publishedText' => '1 week ago',
+    'publishedText' => '2 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  88 => 
+  94 => 
   array (
     'title' => 'THIS IS FINE...',
     'videoId' => '2yUDgY8XmLA',
@@ -3905,17 +4827,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/2yUDgY8XmLA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-27T15:00:33+00:00',
-    'publishedText' => '1 week ago',
+    'publishedText' => '2 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  89 => 
+  95 => 
   array (
     'title' => 'Honey Block Piston Doors are Crazy',
     'videoId' => '-3pu6byTs6o',
@@ -3949,6 +4878,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-3pu6byTs6o/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -3959,51 +4895,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  90 => 
-  array (
-    'title' => 'Try not to MIND BLOWN challenge!',
-    'videoId' => 'ZQG91KPBNTk',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/ZQG91KPBNTk/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/ZQG91KPBNTk/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/ZQG91KPBNTk/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/ZQG91KPBNTk/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-10-26T17:14:46+00:00',
-    'publishedText' => '2 weeks ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'PewDiePie',
-    'authorId' => 'UC-lHJZR3Gqxm24_Vd_AJ5Yw',
-  ),
-  91 => 
+  96 => 
   array (
     'title' => 'HUNTING the GOATMAN',
     'videoId' => 'M4Z5OlNYrl4',
@@ -4037,6 +4929,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/M4Z5OlNYrl4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4047,7 +4946,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  92 => 
+  97 => 
   array (
     'title' => 'The Best 2019 Smartphone? - ft MKBHD',
     'videoId' => 'dJCA_RxBXuA',
@@ -4081,6 +4980,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/dJCA_RxBXuA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4091,7 +4997,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  93 => 
+  98 => 
   array (
     'title' => 'Google broke my Home mini.',
     'videoId' => 'lnrfDw8gYH4',
@@ -4125,6 +5031,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/lnrfDw8gYH4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4135,7 +5048,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  94 => 
+  99 => 
   array (
     'title' => 'Trees #TeamTrees',
     'videoId' => 'GbetzV4l4CY',
@@ -4169,6 +5082,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/GbetzV4l4CY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4179,7 +5099,7 @@
     'author' => 'LEMMiNO',
     'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  95 => 
+  100 => 
   array (
     'title' => 'Captain Disillusion on #TeamTrees',
     'videoId' => 'IK7QXAUvCOA',
@@ -4213,6 +5133,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/IK7QXAUvCOA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4223,7 +5150,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  96 => 
+  101 => 
   array (
     'title' => 'Why Are YouTube Kids Channels on Hulu Now?',
     'videoId' => 'Dgx8ajOES6E',
@@ -4257,6 +5184,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Dgx8ajOES6E/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4267,7 +5201,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  97 => 
+  102 => 
   array (
     'title' => 'MULTIPLAYER HORROR IS SPOOKY  | Pacify (FULL GAME)',
     'videoId' => 'WWrj56s1yGk',
@@ -4301,6 +5235,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/WWrj56s1yGk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4311,7 +5252,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  98 => 
+  103 => 
   array (
     'title' => 'paper-based stickers',
     'videoId' => '_GkCJmzXyJA',
@@ -4345,6 +5286,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/_GkCJmzXyJA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4355,7 +5303,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  99 => 
+  104 => 
   array (
     'title' => 'Honey Blocks are now the best blocks',
     'videoId' => 'uEflwhBCFTE',
@@ -4389,6 +5337,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/uEflwhBCFTE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4399,7 +5354,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  100 => 
+  105 => 
   array (
     'title' => 'Warum lädt man das hoch?!? - Zeo und das Internet',
     'videoId' => 'uhJglSLJFkE',
@@ -4433,6 +5388,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/uhJglSLJFkE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4443,7 +5405,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  101 => 
+  106 => 
   array (
     'title' => 'Five Nights at Freddy\'s: Curse of Dreadbear',
     'videoId' => 'oJtrQDfqgqU',
@@ -4477,6 +5439,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/oJtrQDfqgqU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4487,7 +5456,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  102 => 
+  107 => 
   array (
     'title' => 'Mystery Unboxing from Samsung.',
     'videoId' => 'Zl6BSmSHjEU',
@@ -4521,6 +5490,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Zl6BSmSHjEU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4531,7 +5507,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  103 => 
+  108 => 
   array (
     'title' => '"Quantum Supremacy"',
     'videoId' => 'th-zdW5Wr80',
@@ -4565,6 +5541,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/th-zdW5Wr80/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4575,7 +5558,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  104 => 
+  109 => 
   array (
     'title' => 'Vectoring Words (Word Embeddings) - Computerphile',
     'videoId' => 'gQddtTdmG_8',
@@ -4609,6 +5592,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/gQddtTdmG_8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4619,7 +5609,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  105 => 
+  110 => 
   array (
     'title' => 'A Heist with Markiplier | Official Trailer',
     'videoId' => 'trYqU6kShPA',
@@ -4653,6 +5643,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/trYqU6kShPA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4663,7 +5660,7 @@
     'author' => 'Markiplier',
     'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
   ),
-  106 => 
+  111 => 
   array (
     'title' => 'The world\'s most dangerous fast food training video',
     'videoId' => 'xGCnd8nDdDE',
@@ -4697,6 +5694,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/xGCnd8nDdDE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4707,51 +5711,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  107 => 
-  array (
-    'title' => '3 SCARY GAMES #31',
-    'videoId' => 'J9xQNA5kq2g',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/J9xQNA5kq2g/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/J9xQNA5kq2g/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/J9xQNA5kq2g/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/J9xQNA5kq2g/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-10-22T15:00:05+00:00',
-    'publishedText' => '2 weeks ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Markiplier',
-    'authorId' => 'UC7_YxT-KID8kRbqZo7MyscQ',
-  ),
-  108 => 
+  112 => 
   array (
     'title' => 'Google Pixel 4 Review: Inside the Hype Machine!',
     'videoId' => 'mfbSqTB74xM',
@@ -4785,6 +5745,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/mfbSqTB74xM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4795,7 +5762,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  109 => 
+  113 => 
   array (
     'title' => 'THAT\'S what it looks like!??',
     'videoId' => 'CdHc-xnrpsI',
@@ -4829,6 +5796,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/CdHc-xnrpsI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4839,7 +5813,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  110 => 
+  114 => 
   array (
     'title' => 'Google Pixel 4 vs iPhone 11 Pro vs Samsung Note 10 Plus Camera Test Comparison!',
     'videoId' => 'yHvkpmL-NTY',
@@ -4873,6 +5847,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/yHvkpmL-NTY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -4883,7 +5864,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  111 => 
+  115 => 
   array (
     'title' => 'ASMR Pure Microphone Scratching ♥',
     'videoId' => 'fUJ8LdzSXOw',
@@ -4917,17 +5898,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/fUJ8LdzSXOw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-20T23:00:09+00:00',
-    'publishedText' => '2 weeks ago',
+    'publishedText' => '3 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  112 => 
+  116 => 
   array (
     'title' => 'Hermitcraft 6: Episode 130 - More INDUSTRY!',
     'videoId' => 'OLbeH6YXgSY',
@@ -4961,17 +5949,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/OLbeH6YXgSY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-20T19:00:00+00:00',
-    'publishedText' => '2 weeks ago',
+    'publishedText' => '3 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  113 => 
+  117 => 
   array (
     'title' => 'Shirin Davids Kalender für die Community? - Zeo Talk and Comments',
     'videoId' => 'yAl_0wwlFR4',
@@ -5005,17 +6000,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/yAl_0wwlFR4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-20T15:00:10+00:00',
-    'publishedText' => '2 weeks ago',
+    'publishedText' => '3 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  114 => 
+  118 => 
   array (
     'title' => '1 TAG IM WALD MIT DEUTSCHEM EPA',
     'videoId' => 'V190MlhD-6I',
@@ -5049,6 +6051,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/V190MlhD-6I/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5059,7 +6068,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  115 => 
+  119 => 
   array (
     'title' => 'It\'s coming BACK!!',
     'videoId' => 'StKLjzP2z98',
@@ -5093,6 +6102,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/StKLjzP2z98/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5103,7 +6119,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  116 => 
+  120 => 
   array (
     'title' => 'Optic Flow Solutions - Computerphile',
     'videoId' => '4v_keMNROv4',
@@ -5137,6 +6153,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/4v_keMNROv4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5147,7 +6170,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  117 => 
+  121 => 
   array (
     'title' => 'What you didn\'t know about Apple.',
     'videoId' => '14x5n_oNEV4',
@@ -5181,6 +6204,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/14x5n_oNEV4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5191,7 +6221,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  118 => 
+  122 => 
   array (
     'title' => 'OnePlus 7T Pro: Tiny Tweaks to Excellence!',
     'videoId' => 'zsEcLVHnxUM',
@@ -5225,6 +6255,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zsEcLVHnxUM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5235,7 +6272,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  119 => 
+  123 => 
   array (
     'title' => 'ASMR Baking Blueberry Muffins',
     'videoId' => 'qPMZIeRi2rs',
@@ -5269,6 +6306,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/qPMZIeRi2rs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5279,7 +6323,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  120 => 
+  124 => 
   array (
     'title' => 'Overwatch on Switch... is bad',
     'videoId' => 'rE-QUEUTjAs',
@@ -5313,6 +6357,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/rE-QUEUTjAs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5323,7 +6374,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  121 => 
+  125 => 
   array (
     'title' => 'Optical Flow - Computerphile',
     'videoId' => '5AUypv5BNbI',
@@ -5357,6 +6408,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/5AUypv5BNbI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5367,7 +6425,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  122 => 
+  126 => 
   array (
     'title' => 'How to be KNOSSI',
     'videoId' => 'ewigmfgeODw',
@@ -5401,6 +6459,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ewigmfgeODw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5411,7 +6476,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  123 => 
+  127 => 
   array (
     'title' => 'Google Pixel 4 - The Complicated Truth.',
     'videoId' => '085_hlIcLu8',
@@ -5445,6 +6510,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/085_hlIcLu8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5455,7 +6527,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  124 => 
+  128 => 
   array (
     'title' => 'Pixel 4... for real this time',
     'videoId' => 'h6uBB8nDenU',
@@ -5489,6 +6561,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/h6uBB8nDenU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5499,7 +6578,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  125 => 
+  129 => 
   array (
     'title' => 'Pixel 4 Impressions: Google and Gaps!',
     'videoId' => 'sKJ4i7p-o-4',
@@ -5533,6 +6612,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/sKJ4i7p-o-4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5543,7 +6629,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  126 => 
+  130 => 
   array (
     'title' => 'Honey Blocks: Here\'s what I Think',
     'videoId' => 'SLqwJ2tmYNE',
@@ -5577,6 +6663,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/SLqwJ2tmYNE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5587,7 +6680,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  127 => 
+  131 => 
   array (
     'title' => 'people who argue what the civil war was about',
     'videoId' => '-jbXggLSNR0',
@@ -5621,6 +6714,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-jbXggLSNR0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5631,7 +6731,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  128 => 
+  132 => 
   array (
     'title' => 'Intel finally GETS it!',
     'videoId' => 'qwNRqVyKXQo',
@@ -5665,6 +6765,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/qwNRqVyKXQo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5675,7 +6782,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  129 => 
+  133 => 
   array (
     'title' => 'ASMR Intense Tapping and Scratching ♥',
     'videoId' => '-q4jFTOpKpc',
@@ -5709,6 +6816,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-q4jFTOpKpc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5719,7 +6833,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  130 => 
+  134 => 
   array (
     'title' => 'WAS ESSEN IN DER FRANZOSISCHE ARMEE VS ENGLAND',
     'videoId' => 'UjhCnDweiLk',
@@ -5753,17 +6867,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/UjhCnDweiLk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-13T15:17:26+00:00',
-    'publishedText' => '3 weeks ago',
+    'publishedText' => '4 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  131 => 
+  135 => 
   array (
     'title' => 'What if We Nuke a City?',
     'videoId' => '5iPH-br_eJQ',
@@ -5797,17 +6918,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/5iPH-br_eJQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-13T12:30:00+00:00',
-    'publishedText' => '3 weeks ago',
+    'publishedText' => '4 weeks ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  132 => 
+  136 => 
   array (
     'title' => 'Hermitcraft 6: Episode 129 - LEAVING SAHARA',
     'videoId' => 'gWkUvx5Li0s',
@@ -5841,6 +6969,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/gWkUvx5Li0s/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5851,7 +6986,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  133 => 
+  137 => 
   array (
     'title' => 'Was ist DAS? Warum gibt es diese WERBUNG? - Chill deine Basics',
     'videoId' => 'zR9EGT5INQ0',
@@ -5885,6 +7020,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zR9EGT5INQ0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5895,7 +7037,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  134 => 
+  138 => 
   array (
     'title' => 'The Ultimate iPhone 11 Pro Camera.',
     'videoId' => 'leBccIkULds',
@@ -5929,6 +7071,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/leBccIkULds/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5939,7 +7088,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  135 => 
+  139 => 
   array (
     'title' => '"Negative Latency"',
     'videoId' => 'COKCTyi7R90',
@@ -5973,6 +7122,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/COKCTyi7R90/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -5983,7 +7139,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  136 => 
+  140 => 
   array (
     'title' => 'This Is What Happens When You Re-Upload a YouTube Video 1000 Times!',
     'videoId' => 'JR4KHfqw-oE',
@@ -6017,6 +7173,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/JR4KHfqw-oE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6027,7 +7190,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  137 => 
+  141 => 
   array (
     'title' => 'OnePlus 7T Pro vs Samsung Galaxy Note 10 Plus!',
     'videoId' => 'zFv8NV29P2Y',
@@ -6061,17 +7224,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zFv8NV29P2Y/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-10T15:59:35+00:00',
-    'publishedText' => '4 weeks ago',
+    'publishedText' => '1 month ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  138 => 
+  142 => 
   array (
     'title' => 'Porting Compilers - Computerphile',
     'videoId' => '9W0Vxa6eqjA',
@@ -6105,17 +7275,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/9W0Vxa6eqjA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-10-10T15:30:05+00:00',
-    'publishedText' => '4 weeks ago',
+    'publishedText' => '1 month ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  139 => 
+  143 => 
   array (
     'title' => 'ASMR  Relaxing Phrases in 10 Languages',
     'videoId' => 'pxWpxGVqohc',
@@ -6149,6 +7326,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/pxWpxGVqohc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6159,7 +7343,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  140 => 
+  144 => 
   array (
     'title' => 'This Phone WASN\'T Photoshopped.',
     'videoId' => 'tLUALcR2UP4',
@@ -6193,6 +7377,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/tLUALcR2UP4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6203,7 +7394,7 @@
     'author' => 'TechLinked',
     'authorId' => 'UCeeFfhMcJa1kjtfZAGskOCA',
   ),
-  141 => 
+  145 => 
   array (
     'title' => 'Apple Watch Series 5 Review: One Big Tradeoff!',
     'videoId' => '5TuyvWoaAZk',
@@ -6237,6 +7428,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/5TuyvWoaAZk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6247,7 +7445,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  142 => 
+  146 => 
   array (
     'title' => 'potato chip boys',
     'videoId' => 'AfZP8ns1MuY',
@@ -6281,6 +7479,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/AfZP8ns1MuY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6291,7 +7496,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  143 => 
+  147 => 
   array (
     'title' => 'Was sind das für Videos? - Zeo und das Internet',
     'videoId' => 'xWqMGTSolwA',
@@ -6325,6 +7530,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/xWqMGTSolwA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6335,7 +7547,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  144 => 
+  148 => 
   array (
     'title' => 'Halting Problem in Python - Computerphile',
     'videoId' => 'r__GZ7ubU0M',
@@ -6369,6 +7581,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/r__GZ7ubU0M/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6379,7 +7598,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  145 => 
+  149 => 
   array (
     'title' => 'Talking Tech & Meme Review with Will Smith!',
     'videoId' => 'O6NiridP0Oo',
@@ -6413,6 +7632,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/O6NiridP0Oo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6423,7 +7649,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  146 => 
+  150 => 
   array (
     'title' => 'ASMR Worst Reviewed Makeup Artist ft. B*tchy Brittney',
     'videoId' => 'AkQp1s5Sm9g',
@@ -6457,6 +7683,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/AkQp1s5Sm9g/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6467,7 +7700,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  147 => 
+  151 => 
   array (
     'title' => 'Hermitcraft 6: Episode 128 - The Emerald GENERATOR!',
     'videoId' => 'iAyt7h1qC04',
@@ -6501,6 +7734,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/iAyt7h1qC04/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6511,7 +7751,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  148 => 
+  152 => 
   array (
     'title' => '50 Fakten über uns! - Zeo und Carina',
     'videoId' => 'URI20LzKZeE',
@@ -6545,6 +7785,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/URI20LzKZeE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6555,7 +7802,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  149 => 
+  153 => 
   array (
     'title' => 'I Made the Best Treehouse in Minecraft',
     'videoId' => 'JOpauE_EEjE',
@@ -6589,6 +7836,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/JOpauE_EEjE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6599,7 +7853,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  150 => 
+  154 => 
   array (
     'title' => 'Fun Google Secrets - Part 4',
     'videoId' => 'hdYiwt5b6ZY',
@@ -6633,6 +7887,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/hdYiwt5b6ZY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6643,7 +7904,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  151 => 
+  155 => 
   array (
     'title' => 'WIE MAN PILZE IM GARTEN ZÜCHTET! EXPERIMENT',
     'videoId' => 'y_D-5qQ34vs',
@@ -6677,6 +7938,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/y_D-5qQ34vs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6687,7 +7955,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  152 => 
+  156 => 
   array (
     'title' => 'The Ultimate iPhone Comparison.',
     'videoId' => '788E-ATJ3pk',
@@ -6721,6 +7989,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/788E-ATJ3pk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6731,7 +8006,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  153 => 
+  157 => 
   array (
     'title' => 'Quick D: Gyro Drop',
     'videoId' => 'LuM1IXl66B8',
@@ -6765,6 +8040,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/LuM1IXl66B8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6775,7 +8057,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  154 => 
+  158 => 
   array (
     'title' => 'Improving Intermediate Codes - Computerphile',
     'videoId' => 'TiJn9D6lZ-Y',
@@ -6809,6 +8091,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/TiJn9D6lZ-Y/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6819,7 +8108,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  155 => 
+  159 => 
   array (
     'title' => 'ASMR Fall Triggers To Help You Sleep 🎃',
     'videoId' => '7H_bFvZ-WY4',
@@ -6853,6 +8142,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/7H_bFvZ-WY4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6863,7 +8159,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  156 => 
+  160 => 
   array (
     'title' => 'Hermitcraft 6: Episode 126 - FREE DIAMONDS!',
     'videoId' => 'QoRL71AyCmo',
@@ -6897,6 +8193,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/QoRL71AyCmo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6907,7 +8210,7 @@
     'author' => 'Mumbo Jumbo',
     'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
   ),
-  157 => 
+  161 => 
   array (
     'title' => 'Talking Tech with Microsoft CEO Satya Nadella!',
     'videoId' => 'ux4R5GeKMUU',
@@ -6941,6 +8244,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ux4R5GeKMUU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6951,7 +8261,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  158 => 
+  162 => 
   array (
     'title' => 'Oh My God This Movie is the Worst',
     'videoId' => 'aZOZYpyZOqE',
@@ -6985,6 +8295,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/aZOZYpyZOqE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -6995,7 +8312,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  159 => 
+  163 => 
   array (
     'title' => '2000€ an kleine ZEOs Spenden! - Let\'s Sketch',
     'videoId' => 'C-Osrn4PwXQ',
@@ -7029,6 +8346,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/C-Osrn4PwXQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7039,7 +8363,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  160 => 
+  164 => 
   array (
     'title' => 'Hands-on with Microsoft\'s Future Foldables!',
     'videoId' => 'omyZvH7aMtg',
@@ -7073,6 +8397,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/omyZvH7aMtg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7083,7 +8414,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  161 => 
+  165 => 
   array (
     'title' => '2019 Microsoft Surface Family Impressions!',
     'videoId' => 'aeaBaTqmu8Q',
@@ -7117,6 +8448,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/aeaBaTqmu8Q/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7127,7 +8465,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  162 => 
+  166 => 
   array (
     'title' => 'Recursion \'Super Power\' (in Python) - Computerphile',
     'videoId' => '8lhxIOAfDss',
@@ -7161,6 +8499,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/8lhxIOAfDss/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7171,7 +8516,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  163 => 
+  167 => 
   array (
     'title' => 'godforsaken country',
     'videoId' => '5jFIVxtiJpc',
@@ -7205,6 +8550,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/5jFIVxtiJpc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7215,7 +8567,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  164 => 
+  168 => 
   array (
     'title' => 'ASMR Shaving and Trimming Your Beard',
     'videoId' => 'amFK-xgA9CU',
@@ -7249,6 +8601,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/amFK-xgA9CU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7259,7 +8618,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  165 => 
+  169 => 
   array (
     'title' => 'iPhone 11 Review: Too Easy!',
     'videoId' => 'OoY7zp8GkLI',
@@ -7293,6 +8652,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/OoY7zp8GkLI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7303,51 +8669,7 @@
     'author' => 'Marques Brownlee',
     'authorId' => 'UCBJycsmduvYEL83R_U4JriQ',
   ),
-  166 => 
-  array (
-    'title' => '25 Redstone Build Hacks in Minecraft',
-    'videoId' => 'R9IJA68yRwg',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/R9IJA68yRwg/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/R9IJA68yRwg/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/R9IJA68yRwg/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/R9IJA68yRwg/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-09-30T19:30:00+00:00',
-    'publishedText' => '1 month ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Mumbo Jumbo',
-    'authorId' => 'UChFur_NwVSbUozOcF_F2kMg',
-  ),
-  167 => 
+  170 => 
   array (
     'title' => 'Domtendo, ich bin stolz auf dich! - Zeo Talk and Comments',
     'videoId' => 'fF-9HW9QXXQ',
@@ -7381,6 +8703,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/fF-9HW9QXXQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7391,7 +8720,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  168 => 
+  171 => 
   array (
     'title' => 'The Billion Ant Mega Colony and the Biggest War on Earth',
     'videoId' => 'cqECNYmM23A',
@@ -7425,6 +8754,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/cqECNYmM23A/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7435,7 +8771,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  169 => 
+  172 => 
   array (
     'title' => 'Dear Smartphone Companies.',
     'videoId' => '_OeUe9DTvN0',
@@ -7469,6 +8805,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/_OeUe9DTvN0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7479,7 +8822,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  170 => 
+  173 => 
   array (
     'title' => 'Very Serious Business',
     'videoId' => 'ROaj3bCpZEM',
@@ -7513,6 +8856,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ROaj3bCpZEM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7523,7 +8873,7 @@
     'author' => 'Internet Historian',
     'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  171 => 
+  174 => 
   array (
     'title' => 'Wie man Wassermelone bis Silvester frisch hält! Zweites Experiment',
     'videoId' => '7raS8IiXRCw',
@@ -7557,6 +8907,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/7raS8IiXRCw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7567,7 +8924,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  172 => 
+  175 => 
   array (
     'title' => 'How did I turn Old Wire into a Beautiful GLOWING Bonsai? I\'ll show you',
     'videoId' => 'taF0nY9GqMg',
@@ -7601,6 +8958,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/taF0nY9GqMg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7611,7 +8975,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  173 => 
+  176 => 
   array (
     'title' => 'Computer Speeds - Computerphile',
     'videoId' => '0UnFN7yyMaA',
@@ -7645,6 +9009,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/0UnFN7yyMaA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7655,7 +9026,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  174 => 
+  177 => 
   array (
     'title' => 'OnePlus 7T vs iPhone 11 vs Samsung S10 Camera Test Comparison!',
     'videoId' => 'k4bs5rdZy6k',
@@ -7689,6 +9060,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/k4bs5rdZy6k/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7699,7 +9077,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  175 => 
+  178 => 
   array (
     'title' => 'OnePlus 7T Unboxing and Review.',
     'videoId' => 'tp-gaXL0HJw',
@@ -7733,6 +9111,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/tp-gaXL0HJw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7743,7 +9128,7 @@
     'author' => 'Mrwhosetheboss',
     'authorId' => 'UCMiJRAwDNSNzuYeN2uWa0pA',
   ),
-  176 => 
+  179 => 
   array (
     'title' => 'DIY Dual Screen Laptop! (100% DIY!)',
     'videoId' => 'J2aY6cvk-WI',
@@ -7777,6 +9162,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/J2aY6cvk-WI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7787,7 +9179,7 @@
     'author' => 'DIY Perks',
     'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  177 => 
+  180 => 
   array (
     'title' => 'Jetzt REAGIERT auch noch TADDL auf mein Video!',
     'videoId' => 'DXsed3974Zc',
@@ -7821,6 +9213,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/DXsed3974Zc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7831,7 +9230,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  178 => 
+  181 => 
   array (
     'title' => 'The Great Subway Jalapeño Scandal',
     'videoId' => '4vtbkW4-9EY',
@@ -7865,6 +9264,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/4vtbkW4-9EY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7875,7 +9281,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  179 => 
+  182 => 
   array (
     'title' => 'ASMR Counting Down From 1,000 ♥',
     'videoId' => 'QmOTVw9cyuA',
@@ -7909,6 +9315,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/QmOTVw9cyuA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7919,7 +9332,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  180 => 
+  183 => 
   array (
     'title' => 'VR with 3D Printed Props - Computerphile',
     'videoId' => 'EiUUFdUFyIU',
@@ -7953,6 +9366,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/EiUUFdUFyIU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -7963,7 +9383,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  181 => 
+  184 => 
   array (
     'title' => 'UKRAINISCHE LOTTERIE GEGEN POLNISCHE, WO GEWINNEN WIR MEHR?',
     'videoId' => 'yKoceCkcK6Y',
@@ -7997,6 +9417,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/yKoceCkcK6Y/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8007,7 +9434,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  182 => 
+  185 => 
   array (
     'title' => 'Wer lädt sowas hoch?!? - Zeo und das Internet',
     'videoId' => 'yNCFwo-AD0I',
@@ -8041,6 +9468,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/yNCFwo-AD0I/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8051,7 +9485,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  183 => 
+  186 => 
   array (
     'title' => 'OS Context Switching - Computerphile',
     'videoId' => 'DKmBRl8j3Ak',
@@ -8085,6 +9519,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/DKmBRl8j3Ak/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8095,7 +9536,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  184 => 
+  187 => 
   array (
     'title' => 'Unge REAGIERT auf mein Video!',
     'videoId' => '4sDOHUpXz7U',
@@ -8129,6 +9570,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/4sDOHUpXz7U/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8139,7 +9587,7 @@
     'author' => 'Zeo',
     'authorId' => 'UCrQWlbBlEp8dCLMu4k2NgkA',
   ),
-  185 => 
+  188 => 
   array (
     'title' => 'adam and eve talk to god',
     'videoId' => 'NmiA-6oA8FQ',
@@ -8173,6 +9621,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/NmiA-6oA8FQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8183,7 +9638,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  186 => 
+  189 => 
   array (
     'title' => 'ASMR VSCO Girl Gives You Tingles',
     'videoId' => '8x6ktUmpv0Q',
@@ -8217,6 +9672,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/8x6ktUmpv0Q/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8227,7 +9689,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  187 => 
+  190 => 
   array (
     'title' => 'What’s Hiding at the Most Solitary Place on Earth? The Deep Sea',
     'videoId' => 'PaErPyEnDvk',
@@ -8261,6 +9723,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/PaErPyEnDvk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8271,7 +9740,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  188 => 
+  191 => 
   array (
     'title' => 'basically the new marlon wayans movie',
     'videoId' => '-tayfHUweLo',
@@ -8305,6 +9774,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-tayfHUweLo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8315,7 +9791,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  189 => 
+  192 => 
   array (
     'title' => 'Im Unterwasser-Terrarium ist etwas neues aufgetaucht, was ist das?',
     'videoId' => 'vWu4NMHwAI4',
@@ -8349,6 +9825,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/vWu4NMHwAI4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8359,7 +9842,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  190 => 
+  193 => 
   array (
     'title' => 'The UNCOL Problem - Computerphile',
     'videoId' => 'pP_zIJSp3WA',
@@ -8393,6 +9876,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/pP_zIJSp3WA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8403,7 +9893,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  191 => 
+  194 => 
   array (
     'title' => 'WAS ESSEN IN DER CHINESICHE ARMEE vs. EPA DER RUSSICHE ARMEE',
     'videoId' => 'by9mHENnFXI',
@@ -8437,6 +9927,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/by9mHENnFXI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8447,7 +9944,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  192 => 
+  195 => 
   array (
     'title' => '\'Accidental\' CrossCompiler - Computerphile',
     'videoId' => '9kp0yUA-KgQ',
@@ -8481,6 +9978,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/9kp0yUA-KgQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8491,7 +9995,7 @@
     'author' => 'Computerphile',
     'authorId' => 'UC9-y-6csu5WGm29I7JiwpnA',
   ),
-  193 => 
+  196 => 
   array (
     'title' => 'your friend who has been to the theme park before',
     'videoId' => 'Lp7Nh4EBEBg',
@@ -8525,6 +10029,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Lp7Nh4EBEBg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8535,7 +10046,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  194 => 
+  197 => 
   array (
     'title' => 'The Egg - A Short Story',
     'videoId' => 'h6fcK_fRYaI',
@@ -8569,6 +10080,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/h6fcK_fRYaI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8579,7 +10097,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  195 => 
+  198 => 
   array (
     'title' => 'Reading the Worst Small Town Casino Reviews',
     'videoId' => 'qYiJq4wJreQ',
@@ -8613,6 +10131,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/qYiJq4wJreQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8623,7 +10148,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  196 => 
+  199 => 
   array (
     'title' => 'ASMR Goodnight ♥  8 Triggers To Help You Sleep',
     'videoId' => 'AMVCuBI8Ln4',
@@ -8657,6 +10182,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/AMVCuBI8Ln4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8667,7 +10199,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  197 => 
+  200 => 
   array (
     'title' => 'WIR HABEN EIN SPIELZENTRUM AUS KARTON GEMACHT!',
     'videoId' => '6USBZHI1fm4',
@@ -8701,6 +10233,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/6USBZHI1fm4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8711,7 +10250,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  198 => 
+  201 => 
   array (
     'title' => 'I Carve the Sword from 300 out of wewd (ft Alec Steele)',
     'videoId' => 'R7_VopLhK9s',
@@ -8745,6 +10284,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/R7_VopLhK9s/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8755,7 +10301,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  199 => 
+  202 => 
   array (
     'title' => 'DAS HABEN WIR AUF ALIEXPRESS GEKAUFT',
     'videoId' => 'xS-V_abiF5E',
@@ -8789,6 +10335,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/xS-V_abiF5E/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8799,7 +10352,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  200 => 
+  203 => 
   array (
     'title' => 'your friends who get married after high school',
     'videoId' => 'BA3gIRyvn-k',
@@ -8833,6 +10386,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/BA3gIRyvn-k/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8843,7 +10403,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  201 => 
+  204 => 
   array (
     'title' => 'DIY Perks Studio Tour',
     'videoId' => 'Z0oGIc8dvJ4',
@@ -8877,6 +10437,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Z0oGIc8dvJ4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8887,7 +10454,7 @@
     'author' => 'DIY Perks',
     'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  202 => 
+  205 => 
   array (
     'title' => 'I Carve a Black Window into a Billiard Ball',
     'videoId' => 'aPuKMkGsg_0',
@@ -8921,6 +10488,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/aPuKMkGsg_0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8931,7 +10505,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  203 => 
+  206 => 
   array (
     'title' => 'imbiamba jombes: big doom',
     'videoId' => 'i4RJ_0XRiXk',
@@ -8965,6 +10539,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/i4RJ_0XRiXk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -8975,7 +10556,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  204 => 
+  207 => 
   array (
     'title' => 'Quick D: Static Helicopter Blades',
     'videoId' => 'mPHsRcI5LLQ',
@@ -9009,6 +10590,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/mPHsRcI5LLQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9019,7 +10607,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  205 => 
+  208 => 
   array (
     'title' => 'how they mix the audio for home release movies',
     'videoId' => 'NR98SmoCN0o',
@@ -9053,6 +10641,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/NR98SmoCN0o/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9063,7 +10658,7 @@
     'author' => 'Gus Johnson',
     'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
   ),
-  206 => 
+  209 => 
   array (
     'title' => 'The World War of the Ants – The Army Ant',
     'videoId' => '7_e0CA_nhaE',
@@ -9097,6 +10692,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/7_e0CA_nhaE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9107,7 +10709,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  207 => 
+  210 => 
   array (
     'title' => 'WAS ESSEN IN POLNISCHE VS UKRAINISCHE ARMEE?',
     'videoId' => 'HTibLh2PuqA',
@@ -9141,6 +10743,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/HTibLh2PuqA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9151,7 +10760,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  208 => 
+  211 => 
   array (
     'title' => 'The Universal S',
     'videoId' => 'RQdxHi4_Pvc',
@@ -9185,17 +10794,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/RQdxHi4_Pvc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-08-10T22:14:14+00:00',
-    'publishedText' => '2 months ago',
+    'publishedText' => '3 months ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'LEMMiNO',
     'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  209 => 
+  212 => 
   array (
     'title' => 'Turning Smashed TVs into Realistic Artificial Daylight',
     'videoId' => '8JrqH2oOTK4',
@@ -9229,6 +10845,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/8JrqH2oOTK4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9239,51 +10862,7 @@
     'author' => 'DIY Perks',
     'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  210 => 
-  array (
-    'title' => 'how reddit handles internet justice',
-    'videoId' => 'h4twYqvssu0',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/h4twYqvssu0/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/h4twYqvssu0/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/h4twYqvssu0/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/h4twYqvssu0/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-08-03T16:45:35+00:00',
-    'publishedText' => '3 months ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Gus Johnson',
-    'authorId' => 'UCpIafFPGutTAKOBHMtGen7g',
-  ),
-  211 => 
+  213 => 
   array (
     'title' => 'LEBENDE FISCHE VON ALIEXPRESS! WAS IST PASSIERT?',
     'videoId' => 'W1aAKkizwgA',
@@ -9317,6 +10896,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/W1aAKkizwgA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9327,7 +10913,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  212 => 
+  214 => 
   array (
     'title' => 'Going Camping at the End of the World',
     'videoId' => 'QynNpzqYt0Y',
@@ -9361,6 +10947,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/QynNpzqYt0Y/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9371,7 +10964,7 @@
     'author' => 'Internet Historian',
     'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  213 => 
+  215 => 
   array (
     'title' => 'ASMR Showering You In Compliments',
     'videoId' => 'Vb8PIBQbw7w',
@@ -9405,6 +10998,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Vb8PIBQbw7w/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9415,7 +11015,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  214 => 
+  216 => 
   array (
     'title' => 'The Awkward World of Sex Education',
     'videoId' => '3iEVZ4u5F6U',
@@ -9449,6 +11049,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/3iEVZ4u5F6U/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9459,7 +11066,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  215 => 
+  217 => 
   array (
     'title' => 'ASMR Ear to Ear Trigger Words',
     'videoId' => 'U2iU8s3qCrQ',
@@ -9493,6 +11100,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/U2iU8s3qCrQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9503,7 +11117,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  216 => 
+  218 => 
   array (
     'title' => 'Tiny Bombs in your Blood - The Complement System',
     'videoId' => 'BSypUV6QUNw',
@@ -9537,6 +11151,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/BSypUV6QUNw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9547,7 +11168,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  217 => 
+  219 => 
   array (
     'title' => 'ASMR Area 51 Raid Prep (Let\'s see them aliens)',
     'videoId' => 'WefXr2_YewA',
@@ -9581,6 +11202,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/WefXr2_YewA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9591,7 +11219,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  218 => 
+  220 => 
   array (
     'title' => 'WAS ESSEN IN DER US-ARMEE VS RUSSISCHE?',
     'videoId' => 'afV_AwSF0XA',
@@ -9625,6 +11253,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/afV_AwSF0XA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9635,7 +11270,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  219 => 
+  221 => 
   array (
     'title' => 'UNTERWASSER TERRARIUM – SIE SIND KANNIBALE',
     'videoId' => 'Yo0XPBRWS6A',
@@ -9669,6 +11304,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Yo0XPBRWS6A/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9679,7 +11321,7 @@
     'author' => 'Slivki Show DE',
     'authorId' => 'UC7VhV6tkAPJcz4aXe9qjSVA',
   ),
-  220 => 
+  222 => 
   array (
     'title' => 'High-Performance DIY Acoustic Panels (Build Guide)',
     'videoId' => 'qczNxoG8s6o',
@@ -9713,6 +11355,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/qczNxoG8s6o/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9723,7 +11372,7 @@
     'author' => 'DIY Perks',
     'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  221 => 
+  223 => 
   array (
     'title' => 'How To Carve a billiard ball into a SKULL',
     'videoId' => 'HuDX96t_a_4',
@@ -9757,6 +11406,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/HuDX96t_a_4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9767,7 +11423,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  222 => 
+  224 => 
   array (
     'title' => 'Could Your Phone Hurt You? Electromagnetic Pollution',
     'videoId' => 'FfgT6zx4k3Q',
@@ -9801,6 +11457,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/FfgT6zx4k3Q/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9811,7 +11474,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  223 => 
+  225 => 
   array (
     'title' => 'ASMR Countryside Shop',
     'videoId' => 'RrSEm6hiFeU',
@@ -9845,6 +11508,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/RrSEm6hiFeU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9855,7 +11525,7 @@
     'author' => 'ASMR Darling',
     'authorId' => 'UCikebqFWoT3QC9axUbXCPYw',
   ),
-  224 => 
+  226 => 
   array (
     'title' => '100\'s of hours of work gone in seconds',
     'videoId' => 'YWaA-RPi5Zw',
@@ -9889,6 +11559,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/YWaA-RPi5Zw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9899,7 +11576,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  225 => 
+  227 => 
   array (
     'title' => 'CD / Interlacing ADDENDUM',
     'videoId' => '_1yOwgXGKPM',
@@ -9933,6 +11610,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/_1yOwgXGKPM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -9943,7 +11627,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  226 => 
+  228 => 
   array (
     'title' => 'Cringing at Rick & Morty Memes w/ The Show\'s Creator Justin Roiland',
     'videoId' => 'jrHz8Bti6FY',
@@ -9977,17 +11661,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/jrHz8Bti6FY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-06-10T19:33:05+00:00',
-    'publishedText' => '4 months ago',
+    'publishedText' => '5 months ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  227 => 
+  229 => 
   array (
     'title' => 'Is Meat Bad for You? Is Meat Unhealthy?',
     'videoId' => 'ouAccsTzlGU',
@@ -10021,6 +11712,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ouAccsTzlGU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10031,7 +11729,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  228 => 
+  230 => 
   array (
     'title' => 'Building a spectacular DIY \'desk PC\' (it can fold!)',
     'videoId' => 'QaoFh1DH51U',
@@ -10065,6 +11763,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/QaoFh1DH51U/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10075,7 +11780,7 @@
     'author' => 'DIY Perks',
     'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  229 => 
+  231 => 
   array (
     'title' => 'CD / Interlacing',
     'videoId' => '5eu_KjKsnpM',
@@ -10109,6 +11814,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/5eu_KjKsnpM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10119,7 +11831,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  230 => 
+  232 => 
   array (
     'title' => 'The Biggest Failure of Our Childhood',
     'videoId' => 'dniuimymhfk',
@@ -10153,6 +11865,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/dniuimymhfk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10163,7 +11882,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  231 => 
+  233 => 
   array (
     'title' => 'Stranger Danger Films from the 90\'s are Insane',
     'videoId' => 'uszY3AkyBqA',
@@ -10197,6 +11916,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/uszY3AkyBqA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10207,7 +11933,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  232 => 
+  234 => 
   array (
     'title' => 'Our Lives Are About To Change Forever',
     'videoId' => 'JNpKUp5FTeY',
@@ -10241,6 +11967,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/JNpKUp5FTeY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10251,51 +11984,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  233 => 
-  array (
-    'title' => 'Is the EU Democratic? Does Your Vote Matter?',
-    'videoId' => 'h4Uu5eyN6VU',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/h4Uu5eyN6VU/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-05-19T12:30:02+00:00',
-    'publishedText' => '5 months ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Kurzgesagt – In a Nutshell',
-    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
-  ),
-  234 => 
+  235 => 
   array (
     'title' => 'Democratic Elections in the European Union [Swedish]',
     'videoId' => 'XJKv8XqO5zQ',
@@ -10329,6 +12018,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/XJKv8XqO5zQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10339,7 +12035,58 @@
     'author' => 'LEMMiNO',
     'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  235 => 
+  236 => 
+  array (
+    'title' => 'Is the EU Democratic? Does Your Vote Matter?',
+    'videoId' => 'h4Uu5eyN6VU',
+    'videoThumbnails' => 
+    array (
+      0 => 
+      array (
+        'quality' => 'maxres',
+        'url' => 'https://invidio.us/vi/h4Uu5eyN6VU/maxres.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      1 => 
+      array (
+        'quality' => 'maxresdefault',
+        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/maxresdefault.jpg',
+        'width' => 1280,
+        'height' => 720,
+      ),
+      2 => 
+      array (
+        'quality' => 'sddefault',
+        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/sddefault.jpg',
+        'width' => 640,
+        'height' => 480,
+      ),
+      3 => 
+      array (
+        'quality' => 'high',
+        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/hqdefault.jpg',
+        'width' => 480,
+        'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/h4Uu5eyN6VU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
+    ),
+    'description' => '',
+    'descriptionHtml' => '',
+    'published' => '2019-05-19T12:30:02+00:00',
+    'publishedText' => '5 months ago',
+    'viewCount' => 0,
+    'lengthSeconds' => 0,
+    'author' => 'Kurzgesagt – In a Nutshell',
+    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
+  ),
+  237 => 
   array (
     'title' => 'CD / Resolution',
     'videoId' => '1unkluyh2Ks',
@@ -10373,6 +12120,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/1unkluyh2Ks/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10383,7 +12137,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  236 => 
+  238 => 
   array (
     'title' => 'The Side Effects of Vaccines - How High is the Risk?',
     'videoId' => 'zBkVCpbNnkU',
@@ -10417,6 +12171,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/zBkVCpbNnkU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10427,7 +12188,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  237 => 
+  239 => 
   array (
     'title' => 'I Turned Old Wewd into a Giant Hat',
     'videoId' => 'Y27Jtbx6tKE',
@@ -10461,6 +12222,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Y27Jtbx6tKE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10471,7 +12239,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  238 => 
+  240 => 
   array (
     'title' => 'Instagram vs. Reality',
     'videoId' => 'OX_Bini29kU',
@@ -10505,6 +12273,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/OX_Bini29kU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10515,7 +12290,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  239 => 
+  241 => 
   array (
     'title' => 'Gus and Eddy Hire an Online Psychic',
     'videoId' => 'Wy5ZJl7fAH8',
@@ -10549,6 +12324,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Wy5ZJl7fAH8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10559,7 +12341,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  240 => 
+  242 => 
   array (
     'title' => 'H3H3 Prankster Tier List',
     'videoId' => 'gUU1HOj7o2k',
@@ -10593,6 +12375,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/gUU1HOj7o2k/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10603,7 +12392,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  241 => 
+  243 => 
   array (
     'title' => 'The Fall of 76',
     'videoId' => 'kjyeCdd-dl8',
@@ -10637,6 +12426,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/kjyeCdd-dl8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10647,7 +12443,7 @@
     'author' => 'Internet Historian',
     'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  242 => 
+  244 => 
   array (
     'title' => 'What happened to DIY Perks?',
     'videoId' => 'yjdvpGK9TmE',
@@ -10681,6 +12477,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/yjdvpGK9TmE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10691,7 +12494,7 @@
     'author' => 'DIY Perks',
     'authorId' => 'UCUQo7nzH1sXVpzL92VesANw',
   ),
-  243 => 
+  245 => 
   array (
     'title' => 'Killed by Google A to Z',
     'videoId' => '4s2an-SKZws',
@@ -10725,6 +12528,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/4s2an-SKZws/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10735,7 +12545,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  244 => 
+  246 => 
   array (
     'title' => 'The War on Bird Scooters',
     'videoId' => 'Ysh9ILpvBpg',
@@ -10769,6 +12579,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Ysh9ILpvBpg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10779,7 +12596,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  245 => 
+  247 => 
   array (
     'title' => 'KFC Blocks Our Video',
     'videoId' => 'S9rw7H6Guc0',
@@ -10813,6 +12630,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/S9rw7H6Guc0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10823,7 +12647,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  246 => 
+  248 => 
   array (
     'title' => 'Vogue\'s 73 Questions is Stupid (Ft. Kim Kardashian & Kanye West)',
     'videoId' => 'Mtl-Lc1y4YU',
@@ -10857,6 +12681,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Mtl-Lc1y4YU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10867,7 +12698,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  247 => 
+  249 => 
   array (
     'title' => 'Google is recording everything you say to the Assistant, and here’s how to stop it!',
     'videoId' => 'Yw9ktQ3sa4A',
@@ -10901,6 +12732,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Yw9ktQ3sa4A/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10911,7 +12749,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  248 => 
+  250 => 
   array (
     'title' => 'The Vanishing of Flight 370',
     'videoId' => 'kd2KEHvK-q8',
@@ -10945,6 +12783,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/kd2KEHvK-q8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10955,7 +12800,7 @@
     'author' => 'LEMMiNO',
     'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  249 => 
+  251 => 
   array (
     'title' => 'The Most Dangerous Stuff in the Universe - Strange Stars Explained',
     'videoId' => 'p_8yK2kmxoo',
@@ -10989,6 +12834,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/p_8yK2kmxoo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -10999,7 +12851,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  250 => 
+  252 => 
   array (
     'title' => 'How-To Carve a Realistic beetle out of Wewd',
     'videoId' => 'nKh_yq627WM',
@@ -11033,6 +12885,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/nKh_yq627WM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11043,7 +12902,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  251 => 
+  253 => 
   array (
     'title' => 'I Paid for an Online Dating Scam',
     'videoId' => 'Nigz2cPf2-Y',
@@ -11077,6 +12936,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Nigz2cPf2-Y/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11087,7 +12953,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  252 => 
+  254 => 
   array (
     'title' => 'CD / Aspect Ratio',
     'videoId' => 'g5ZgUIobSj0',
@@ -11121,6 +12987,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/g5ZgUIobSj0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11131,7 +13004,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  253 => 
+  255 => 
   array (
     'title' => 'CD / Frame Rate',
     'videoId' => 'DyqjTZHRdRs',
@@ -11165,6 +13038,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/DyqjTZHRdRs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11175,7 +13055,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  254 => 
+  256 => 
   array (
     'title' => 'CD / Intro',
     'videoId' => 'R4sF0MT1TGM',
@@ -11209,6 +13089,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/R4sF0MT1TGM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11219,7 +13106,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  255 => 
+  257 => 
   array (
     'title' => 'We Must Stop This Millionaire Content Thief',
     'videoId' => 'CiHUcQG7bH4',
@@ -11253,6 +13140,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/CiHUcQG7bH4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11263,7 +13157,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  256 => 
+  258 => 
   array (
     'title' => 'The Curious Case of the YouTube Comment Dislike Button',
     'videoId' => '61ycBjjpvJQ',
@@ -11297,6 +13191,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/61ycBjjpvJQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11307,7 +13208,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  257 => 
+  259 => 
   array (
     'title' => 'What If We Detonated All Nuclear Bombs at Once?',
     'videoId' => 'JyECrGp-Sw8',
@@ -11341,6 +13242,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/JyECrGp-Sw8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11351,7 +13259,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  258 => 
+  260 => 
   array (
     'title' => 'I Carve another Ostrich buttfruit filled with Resin (and it glows) duh',
     'videoId' => 'fVN35EoLtZw',
@@ -11385,6 +13293,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/fVN35EoLtZw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11395,7 +13310,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  259 => 
+  261 => 
   array (
     'title' => 'Shane Dawson Did WHAT With His Cat?!',
     'videoId' => 'AU4fXUVd3o0',
@@ -11429,6 +13344,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/AU4fXUVd3o0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11439,7 +13361,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  260 => 
+  262 => 
   array (
     'title' => 'The Instagrabbing of /r/dankmemes',
     'videoId' => '9XN57BhyZwk',
@@ -11473,6 +13395,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/9XN57BhyZwk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11483,7 +13412,7 @@
     'author' => 'Internet Historian',
     'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  261 => 
+  263 => 
   array (
     'title' => '404 Not Found',
     'videoId' => 'L1tx-wAI6Nw',
@@ -11517,6 +13446,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/L1tx-wAI6Nw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11527,7 +13463,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  262 => 
+  264 => 
   array (
     'title' => 'Lesbians Try Kissing Men - H3H3',
     'videoId' => 'IKjK9_pTjYk',
@@ -11561,6 +13497,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/IKjK9_pTjYk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11571,7 +13514,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  263 => 
+  265 => 
   array (
     'title' => 'might quit',
     'videoId' => 'mpkf_p71rKY',
@@ -11605,6 +13548,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/mpkf_p71rKY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11615,7 +13565,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  264 => 
+  266 => 
   array (
     'title' => 'This Movie Has Whoopi Goldberg and a Dinosaur',
     'videoId' => 'NKBZs0dSV5s',
@@ -11649,6 +13599,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/NKBZs0dSV5s/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11659,7 +13616,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  265 => 
+  267 => 
   array (
     'title' => 'The Origin of Consciousness – How Unaware Things Became Aware',
     'videoId' => 'H6u0VBqNBQ8',
@@ -11693,6 +13650,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/H6u0VBqNBQ8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11703,7 +13667,7 @@
     'author' => 'Kurzgesagt – In a Nutshell',
     'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
   ),
-  266 => 
+  268 => 
   array (
     'title' => '3,000,000 - Q&A',
     'videoId' => 'uQxg2zv_Orc',
@@ -11737,6 +13701,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/uQxg2zv_Orc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11747,51 +13718,7 @@
     'author' => 'LEMMiNO',
     'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  267 => 
-  array (
-    'title' => 'Can You Trust Kurzgesagt Videos?',
-    'videoId' => 'JtUAAXe_0VI',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/JtUAAXe_0VI/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/JtUAAXe_0VI/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/JtUAAXe_0VI/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/JtUAAXe_0VI/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2019-03-03T13:30:28+00:00',
-    'publishedText' => '8 months ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'Kurzgesagt – In a Nutshell',
-    'authorId' => 'UCsXVk37bltHxD1rDPwtNM8Q',
-  ),
-  268 => 
+  269 => 
   array (
     'title' => 'I Carve a Rock and Cast my Hand in Resin to hold it',
     'videoId' => 'jfEz-BkdBEE',
@@ -11825,6 +13752,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/jfEz-BkdBEE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11835,7 +13769,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  269 => 
+  270 => 
   array (
     'title' => 'The Sea Monsters of YouTube - H3H3',
     'videoId' => 'yRXWYrgoHg8',
@@ -11869,6 +13803,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/yRXWYrgoHg8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11879,7 +13820,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  270 => 
+  271 => 
   array (
     'title' => 'Dear Samsung, This is a Notch!',
     'videoId' => 'wm0_4O_XykI',
@@ -11913,6 +13854,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/wm0_4O_XykI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11923,7 +13871,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  271 => 
+  272 => 
   array (
     'title' => 'This Kids Movie from 1985 Is Insane',
     'videoId' => 'JJCmvwh1XhY',
@@ -11957,6 +13905,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/JJCmvwh1XhY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -11967,7 +13922,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  272 => 
+  273 => 
   array (
     'title' => 'I Carve Hands holding a Bucket from a bloke of Wewd (Part 1)',
     'videoId' => 'p3lf5DYo4X8',
@@ -12001,6 +13956,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/p3lf5DYo4X8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12011,7 +13973,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  273 => 
+  274 => 
   array (
     'title' => 'Laminar Flow DISAMBIGUATION',
     'videoId' => '5LI2nYhGhYM',
@@ -12045,6 +14007,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/5LI2nYhGhYM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12055,7 +14024,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  274 => 
+  275 => 
   array (
     'title' => 'Wild Frolicking Adventures of Informational Education',
     'videoId' => '1PDQ22sePmU',
@@ -12089,6 +14058,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/1PDQ22sePmU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12099,7 +14075,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  275 => 
+  276 => 
   array (
     'title' => 'Back Button Hijacking In a Nutshell',
     'videoId' => 'SZA-Vmowqvw',
@@ -12133,6 +14109,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/SZA-Vmowqvw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12143,7 +14126,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  276 => 
+  277 => 
   array (
     'title' => 'Baby Gender Reveal!!',
     'videoId' => 'Cylt4QXHuaI',
@@ -12177,6 +14160,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Cylt4QXHuaI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12187,7 +14177,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  277 => 
+  278 => 
   array (
     'title' => 'Make Websites Dark!',
     'videoId' => 'kdGbGE76mdA',
@@ -12221,6 +14211,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/kdGbGE76mdA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12231,7 +14228,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  278 => 
+  279 => 
   array (
     'title' => 'My Immortal (3/3) | Sundance Rejects',
     'videoId' => 'M6EPWjzVflE',
@@ -12265,6 +14262,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/M6EPWjzVflE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12275,7 +14279,7 @@
     'author' => 'Internet Historian',
     'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  279 => 
+  280 => 
   array (
     'title' => 'RiceGum Digs A Hole And Jumps In It',
     'videoId' => 'BuEgzFAM6Es',
@@ -12309,6 +14313,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/BuEgzFAM6Es/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12319,7 +14330,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  280 => 
+  281 => 
   array (
     'title' => 'I Paid for a Women\'s Kissing Class (Review)',
     'videoId' => 'xyUFlTk5x_I',
@@ -12353,6 +14364,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/xyUFlTk5x_I/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12363,7 +14381,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  281 => 
+  282 => 
   array (
     'title' => 'at the airport terminal',
     'videoId' => 'q-qqrGtlHkg',
@@ -12397,6 +14415,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/q-qqrGtlHkg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12407,7 +14432,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  282 => 
+  283 => 
   array (
     'title' => 'Fortnite Is Ruining Society',
     'videoId' => 'HE2Jg3GXH6Q',
@@ -12441,17 +14466,24 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/HE2Jg3GXH6Q/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
     'published' => '2019-01-10T22:57:03+00:00',
-    'publishedText' => '9 months ago',
+    'publishedText' => '10 months ago',
     'viewCount' => 0,
     'lengthSeconds' => 0,
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  283 => 
+  284 => 
   array (
     'title' => 'RiceGum Is Caught Snitching (Mystery Box Part 2)',
     'videoId' => 'jw7LD2-gg14',
@@ -12485,6 +14517,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/jw7LD2-gg14/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12495,7 +14534,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  284 => 
+  285 => 
   array (
     'title' => 'Jake Paul & RiceGum Promote Gambling To Kids',
     'videoId' => '3ewyEF3Wd9M',
@@ -12529,6 +14568,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/3ewyEF3Wd9M/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12539,7 +14585,7 @@
     'author' => 'h3h3Productions',
     'authorId' => 'UCDWIvJwLJsE4LG1Atne2blQ',
   ),
-  285 => 
+  286 => 
   array (
     'title' => 'ball & stick',
     'videoId' => 'phsLfS3VaRg',
@@ -12573,6 +14619,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/phsLfS3VaRg/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12583,7 +14636,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  286 => 
+  287 => 
   array (
     'title' => 'I Carve an Ostrich Egg filled with Resin (and it glows)',
     'videoId' => 'h5MWBexdwjo',
@@ -12617,6 +14670,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/h5MWBexdwjo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12627,7 +14687,7 @@
     'author' => 'Bobby Duke Arts',
     'authorId' => 'UCSC1HqVmTaE4Shn32ihbC7w',
   ),
-  287 => 
+  288 => 
   array (
     'title' => '2018 Notch Awards',
     'videoId' => 'txrMcuZ8XyU',
@@ -12661,6 +14721,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/txrMcuZ8XyU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12671,7 +14738,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  288 => 
+  289 => 
   array (
     'title' => 'Brad\'s Wife',
     'videoId' => 'vZlmUG00OrI',
@@ -12705,6 +14772,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/vZlmUG00OrI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12715,7 +14789,7 @@
     'author' => 'Internet Historian',
     'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  289 => 
+  290 => 
   array (
     'title' => 'i just did a bad thing',
     'videoId' => 'O2yPnnDfqpw',
@@ -12749,6 +14823,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/O2yPnnDfqpw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12759,7 +14840,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  290 => 
+  291 => 
   array (
     'title' => 'The Towns And Cities Of Red Dead Redemption 2 (A Montage)',
     'videoId' => 'DWnaNCuDV3w',
@@ -12793,6 +14874,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/DWnaNCuDV3w/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12803,7 +14891,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  291 => 
+  292 => 
   array (
     'title' => 'Planking | A Historical Footnote',
     'videoId' => 'xsqjbJ6hamc',
@@ -12837,6 +14925,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/xsqjbJ6hamc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12847,7 +14942,7 @@
     'author' => 'Internet Historian',
     'authorId' => 'UCR1D15p_vdP3HkrH8wgjQRw',
   ),
-  292 => 
+  293 => 
   array (
     'title' => 'I Think This Dude Wants to Kill Me',
     'videoId' => '3Hbz1S6gMxA',
@@ -12881,6 +14976,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/3Hbz1S6gMxA/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12891,7 +14993,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  293 => 
+  294 => 
   array (
     'title' => 'Mr. Flare Explains: The Virgin Mary',
     'videoId' => 'Wc6pK_ouO1k',
@@ -12925,6 +15027,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Wc6pK_ouO1k/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12935,7 +15044,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  294 => 
+  295 => 
   array (
     'title' => 'how to win at spelling',
     'videoId' => 'vXdv9dD2_mM',
@@ -12969,6 +15078,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/vXdv9dD2_mM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -12979,7 +15095,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  295 => 
+  296 => 
   array (
     'title' => 'The Great Silence',
     'videoId' => 'ryg077wBvsM',
@@ -13013,6 +15129,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ryg077wBvsM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13023,7 +15146,7 @@
     'author' => 'LEMMiNO',
     'authorId' => 'UCRcgy6GzDeccI7dkbbBna3Q',
   ),
-  296 => 
+  297 => 
   array (
     'title' => 'The App That Did Nothing',
     'videoId' => 'LiJG1GT2_HQ',
@@ -13057,6 +15180,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/LiJG1GT2_HQ/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13067,7 +15197,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  297 => 
+  298 => 
   array (
     'title' => 'christmas isn\'t real',
     'videoId' => 'jDYXgsMzwSI',
@@ -13101,6 +15231,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/jDYXgsMzwSI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13111,7 +15248,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  298 => 
+  299 => 
   array (
     'title' => 'Can Everyone Stop Being So Weird?',
     'videoId' => 'Z_xAlp4AE2A',
@@ -13145,6 +15282,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Z_xAlp4AE2A/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13155,7 +15299,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  299 => 
+  300 => 
   array (
     'title' => 'Please Don\'t Tell My Mom I Watched This',
     'videoId' => '4PcWevEZBEY',
@@ -13189,6 +15333,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/4PcWevEZBEY/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13199,7 +15350,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  300 => 
+  301 => 
   array (
     'title' => 'What Happened To Google\'s Killer-Robots Easter Egg? 🤖',
     'videoId' => '4K6XJuH6P_w',
@@ -13233,6 +15384,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/4K6XJuH6P_w/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13243,7 +15401,7 @@
     'author' => 'CHM Tech',
     'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
-  301 => 
+  302 => 
   array (
     'title' => 'Slow Down',
     'videoId' => '83w4FgVkjUE',
@@ -13277,6 +15435,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/83w4FgVkjUE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13287,7 +15452,7 @@
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
   ),
-  302 => 
+  303 => 
   array (
     'title' => 'Why Would You Do This With Your Sister?',
     'videoId' => 'clI1FoygWiU',
@@ -13321,6 +15486,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/clI1FoygWiU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13331,7 +15503,7 @@
     'author' => 'Eddy Burback',
     'authorId' => 'UCuo9VyowIT-ljA5G2ZuC6Yw',
   ),
-  303 => 
+  304 => 
   array (
     'title' => 'Captain Disillusion: World\'s Greatest Blenderer - Live at the Blender Conference 2018',
     'videoId' => '1qSTcxt2t74',
@@ -13365,6 +15537,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/1qSTcxt2t74/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13375,7 +15554,7 @@
     'author' => 'Captain Disillusion',
     'authorId' => 'UCEOXxzW2vU0P-0THehuIIeg',
   ),
-  304 => 
+  305 => 
   array (
     'title' => 'long long long journey',
     'videoId' => '0jEm6owSKFU',
@@ -13409,6 +15588,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/0jEm6owSKFU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13418,50 +15604,6 @@
     'lengthSeconds' => 0,
     'author' => 'bill wurtz',
     'authorId' => 'UCq6aw03lNILzV96UvEAASfQ',
-  ),
-  305 => 
-  array (
-    'title' => 'YouTube Dark Theme For Android - Will It Save Battery Life?',
-    'videoId' => '8qpYQJ0SA5s',
-    'videoThumbnails' => 
-    array (
-      0 => 
-      array (
-        'quality' => 'maxres',
-        'url' => 'https://invidio.us/vi/8qpYQJ0SA5s/maxres.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      1 => 
-      array (
-        'quality' => 'maxresdefault',
-        'url' => 'https://i.ytimg.com/vi/8qpYQJ0SA5s/maxresdefault.jpg',
-        'width' => 1280,
-        'height' => 720,
-      ),
-      2 => 
-      array (
-        'quality' => 'sddefault',
-        'url' => 'https://i.ytimg.com/vi/8qpYQJ0SA5s/sddefault.jpg',
-        'width' => 640,
-        'height' => 480,
-      ),
-      3 => 
-      array (
-        'quality' => 'high',
-        'url' => 'https://i.ytimg.com/vi/8qpYQJ0SA5s/hqdefault.jpg',
-        'width' => 480,
-        'height' => 360,
-      ),
-    ),
-    'description' => '',
-    'descriptionHtml' => '',
-    'published' => '2018-10-29T21:18:17+00:00',
-    'publishedText' => '1 year ago',
-    'viewCount' => 0,
-    'lengthSeconds' => 0,
-    'author' => 'CHM Tech',
-    'authorId' => 'UCdHIPSWf3kkwNg9y_puaChA',
   ),
   306 => 
   array (
@@ -13496,6 +15638,13 @@
         'url' => 'https://i.ytimg.com/vi/CX-Qr8iNqm0/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/CX-Qr8iNqm0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -13541,6 +15690,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Y7nymZEXjf8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13584,6 +15740,13 @@
         'url' => 'https://i.ytimg.com/vi/CpelFcu602A/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/CpelFcu602A/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -13629,6 +15792,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/PI4EszMsYy4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13672,6 +15842,13 @@
         'url' => 'https://i.ytimg.com/vi/CouxmNqxO4A/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/CouxmNqxO4A/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -13717,6 +15894,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/elizAugXVcI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13760,6 +15944,13 @@
         'url' => 'https://i.ytimg.com/vi/DhbMnQt14_o/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/DhbMnQt14_o/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -13805,6 +15996,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/HCxJ4gAt2cs/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13848,6 +16046,13 @@
         'url' => 'https://i.ytimg.com/vi/9vncG0IP9qU/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/9vncG0IP9qU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -13893,6 +16098,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/6oY8HIWBS-Y/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -13936,6 +16148,13 @@
         'url' => 'https://i.ytimg.com/vi/gqxT6KOFRIo/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/gqxT6KOFRIo/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -13981,6 +16200,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/d68b659E4F4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14024,6 +16250,13 @@
         'url' => 'https://i.ytimg.com/vi/27zBr74NuKU/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/27zBr74NuKU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14069,6 +16302,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/oAA9nCqNfR4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14112,6 +16352,13 @@
         'url' => 'https://i.ytimg.com/vi/Ffh7cWRrqF4/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/Ffh7cWRrqF4/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14157,6 +16404,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/CvRlfp236Ms/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14200,6 +16454,13 @@
         'url' => 'https://i.ytimg.com/vi/tGX34631pdk/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/tGX34631pdk/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14245,6 +16506,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/ldaQLGOoJW0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14288,6 +16556,13 @@
         'url' => 'https://i.ytimg.com/vi/YcuofODMCMU/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/YcuofODMCMU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14333,6 +16608,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/TK_WUH9LyWc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14376,6 +16658,13 @@
         'url' => 'https://i.ytimg.com/vi/I2O7blSSzpI/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/I2O7blSSzpI/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14421,6 +16710,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/h-StyszRCzc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14464,6 +16760,13 @@
         'url' => 'https://i.ytimg.com/vi/N-z9PidYH4E/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/N-z9PidYH4E/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14509,6 +16812,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/t95aLo7R1NM/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14552,6 +16862,13 @@
         'url' => 'https://i.ytimg.com/vi/EL5hcdXu8dc/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/EL5hcdXu8dc/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14597,6 +16914,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/HiTqIyx6tBU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14640,6 +16964,13 @@
         'url' => 'https://i.ytimg.com/vi/-wmfpoq_Y0E/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/-wmfpoq_Y0E/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14685,6 +17016,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/sf9tBmMfFcw/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14728,6 +17066,13 @@
         'url' => 'https://i.ytimg.com/vi/fM8UapzfZkU/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/fM8UapzfZkU/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14773,6 +17118,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/60EvAfhA0j8/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14816,6 +17168,13 @@
         'url' => 'https://i.ytimg.com/vi/fb7T1v_VHpE/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/fb7T1v_VHpE/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',
@@ -14861,6 +17220,13 @@
         'width' => 480,
         'height' => 360,
       ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/KhwHR9pkoao/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
+      ),
     ),
     'description' => '',
     'descriptionHtml' => '',
@@ -14904,6 +17270,13 @@
         'url' => 'https://i.ytimg.com/vi/vB7Xv6gG5_0/hqdefault.jpg',
         'width' => 480,
         'height' => 360,
+      ),
+      4 => 
+      array (
+        'quality' => 'medium',
+        'url' => 'https://i.ytimg.com/vi/vB7Xv6gG5_0/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180,
       ),
     ),
     'description' => '',

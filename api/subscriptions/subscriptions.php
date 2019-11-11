@@ -238,6 +238,11 @@ function subscriptionVideoFeedCallback($element)
         'url' => $thumbnailUrl . $element['id'] . '/hqdefault.jpg',
         'width' => 480,
         'height' => 360
+      ], [
+        'quality' => 'medium',
+        'url' => $thumbnailUrl . $element['id'] . '/mqdefault.jpg',
+        'width' => 320,
+        'height' => 180
       ]
     ],
     'description' => '',
