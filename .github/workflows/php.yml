@@ -17,7 +17,7 @@ jobs:
       run: composer install --prefer-dist --no-progress --no-suggest
 
     - name: List output files
-      run: ls dist
+      run: ls api
         
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
