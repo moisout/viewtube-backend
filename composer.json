@@ -1,4 +1,6 @@
 {
+    "name": "viewtube-backend",
+    "description": "backend for viewtube.eu",
     "require": {
         "firebase/php-jwt": "^5.0",
         "voku/simple_html_dom": "^4.7",
